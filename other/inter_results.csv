@@ -1,0 +1,2037 @@
+,date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,winner
+22610,2000-01-26,Spain,Poland,3,0,Friendly,Cartagena,Spain,False,Spain
+22728,2000-02-23,Belgium,Portugal,1,1,Friendly,Charleroi,Belgium,False,Draw
+22730,2000-02-23,Croatia,Spain,0,0,Friendly,Split,Croatia,False,Draw
+22731,2000-02-23,England,Argentina,0,0,Friendly,London,England,False,Draw
+22733,2000-02-23,France,Poland,1,0,Friendly,Saint-Denis,France,False,France
+22734,2000-02-23,Greece,Austria,4,1,Friendly,Kalamáta,Greece,False,Greece
+22738,2000-02-23,Italy,Sweden,1,0,Friendly,Palermo,Italy,False,Italy
+22742,2000-02-23,Netherlands,Germany,2,1,Friendly,Amsterdam,Netherlands,False,Netherlands
+22823,2000-03-29,Belgium,Netherlands,2,2,Friendly,Brussels,Belgium,False,Draw
+22826,2000-03-29,Croatia,Germany,1,1,Friendly,Zagreb,Croatia,False,Draw
+22829,2000-03-29,Greece,Romania,2,0,Friendly,Athens,Greece,False,Greece
+22834,2000-03-29,Portugal,Denmark,2,1,Friendly,Leiria,Portugal,False,Portugal
+22835,2000-03-29,Scotland,France,0,2,Friendly,Glasgow,Scotland,False,France
+22836,2000-03-29,Spain,Italy,2,0,Friendly,Barcelona,Spain,False,Spain
+22965,2000-04-26,France,Slovenia,3,2,Friendly,Saint-Denis,France,False,France
+22966,2000-04-26,Germany,Switzerland,1,1,Friendly,Kaiserslautern,Germany,False,Draw
+22967,2000-04-26,Republic of Ireland,Greece,0,1,Friendly,Dublin,Republic of Ireland,False,Greece
+22968,2000-04-26,Italy,Portugal,2,0,Friendly,Reggio di Calabria,Italy,False,Italy
+22974,2000-04-26,Netherlands,Scotland,0,0,Friendly,Arnhem,Netherlands,False,Draw
+22976,2000-04-26,Norway,Belgium,0,2,Friendly,Oslo,Norway,False,Belgium
+23039,2000-05-27,England,Brazil,1,1,Friendly,London,England,False,Draw
+23043,2000-05-27,Netherlands,Romania,2,1,Friendly,Amsterdam,Netherlands,False,Netherlands
+23045,2000-05-28,Croatia,France,0,2,Friendly,Zagreb,Croatia,False,France
+23053,2000-05-30,Republic of Ireland,Scotland,1,2,Friendly,Dublin,Republic of Ireland,False,Scotland
+23055,2000-05-31,England,Ukraine,2,0,Friendly,London,England,False,England
+23066,2000-06-02,Portugal,Wales,3,0,Friendly,Chaves,Portugal,False,Portugal
+23070,2000-06-03,Denmark,Belgium,2,2,Friendly,Copenhagen,Denmark,False,Draw
+23071,2000-06-03,Germany,Czech Republic,3,2,Friendly,Nuremberg,Germany,False,Germany
+23075,2000-06-03,Malta,England,1,2,Friendly,Attard,Malta,False,England
+23076,2000-06-03,Norway,Italy,1,0,Friendly,Oslo,Norway,False,Norway
+23078,2000-06-03,Romania,Greece,2,1,Friendly,Bucharest,Romania,False,Romania
+23080,2000-06-03,Sweden,Spain,1,1,Friendly,Gothenburg,Sweden,False,Draw
+23090,2000-06-04,France,Japan,2,2,King Hassan II Tournament,Casablanca,Morocco,True,Draw
+23094,2000-06-04,Netherlands,Poland,3,1,Friendly,Lausanne,Switzerland,True,Netherlands
+23100,2000-06-06,Morocco,France,1,5,King Hassan II Tournament,Casablanca,Morocco,False,France
+23104,2000-06-07,Germany,Liechtenstein,8,2,Friendly,Freiburg,Germany,False,Germany
+23107,2000-06-07,Luxembourg,Spain,0,1,Friendly,Luxembourg,Luxembourg,False,Spain
+23113,2000-06-10,Belgium,Sweden,2,1,UEFA Euro,Brussels,Belgium,False,Belgium
+23119,2000-06-11,France,Denmark,3,0,UEFA Euro,Bruges,Belgium,True,France
+23123,2000-06-11,Netherlands,Czech Republic,1,0,UEFA Euro,Amsterdam,Netherlands,False,Netherlands
+23125,2000-06-11,Turkey,Italy,1,2,UEFA Euro,Arnhem,Netherlands,True,Italy
+23128,2000-06-12,Germany,Romania,1,1,UEFA Euro,Liège,Belgium,True,Draw
+23130,2000-06-12,Portugal,England,3,2,UEFA Euro,Eindhoven,Netherlands,True,Portugal
+23132,2000-06-13,Spain,Norway,0,1,UEFA Euro,Rotterdam,Netherlands,True,Norway
+23134,2000-06-14,Belgium,Italy,0,2,UEFA Euro,Brussels,Belgium,False,Italy
+23141,2000-06-16,Czech Republic,France,1,2,UEFA Euro,Bruges,Belgium,True,France
+23142,2000-06-16,Netherlands,Denmark,3,0,UEFA Euro,Rotterdam,Netherlands,False,Netherlands
+23144,2000-06-17,England,Germany,1,0,UEFA Euro,Charleroi,Belgium,True,England
+23150,2000-06-17,Romania,Portugal,0,1,UEFA Euro,Arnhem,Netherlands,True,Portugal
+23158,2000-06-18,Slovenia,Spain,1,2,UEFA Euro,Amsterdam,Netherlands,True,Spain
+23162,2000-06-19,Belgium,Turkey,0,2,UEFA Euro,Brussels,Belgium,False,Turkey
+23163,2000-06-19,Italy,Sweden,2,1,UEFA Euro,Eindhoven,Netherlands,True,Italy
+23165,2000-06-20,England,Romania,2,3,UEFA Euro,Charleroi,Belgium,True,Romania
+23167,2000-06-20,Portugal,Germany,3,0,UEFA Euro,Rotterdam,Netherlands,True,Portugal
+23169,2000-06-21,Netherlands,France,3,2,UEFA Euro,Amsterdam,Netherlands,False,Netherlands
+23172,2000-06-21,Serbia,Spain,3,4,UEFA Euro,Bruges,Belgium,True,Spain
+23178,2000-06-24,Italy,Romania,2,0,UEFA Euro,Brussels,Belgium,True,Italy
+23180,2000-06-24,Turkey,Portugal,0,2,UEFA Euro,Amsterdam,Netherlands,True,Portugal
+23186,2000-06-25,Netherlands,Serbia,6,1,UEFA Euro,Rotterdam,Netherlands,False,Netherlands
+23188,2000-06-25,Spain,France,1,2,UEFA Euro,Bruges,Belgium,True,France
+23191,2000-06-28,France,Portugal,2,1,UEFA Euro,Brussels,Belgium,True,France
+23199,2000-06-29,Netherlands,Italy,0,0,UEFA Euro,Amsterdam,Netherlands,False,Draw
+23211,2000-07-02,France,Italy,2,1,UEFA Euro,Rotterdam,Netherlands,True,France
+23300,2000-08-16,Bulgaria,Belgium,1,3,Friendly,Sofia,Bulgaria,False,Belgium
+23306,2000-08-16,Germany,Spain,4,1,Friendly,Hanover,Germany,False,Germany
+23316,2000-08-16,Portugal,Lithuania,5,1,Friendly,Viseu,Portugal,False,Portugal
+23320,2000-08-16,Switzerland,Greece,2,2,Friendly,St. Gallen,Switzerland,False,Draw
+23340,2000-09-02,Belgium,Croatia,0,0,FIFA World Cup qualification,Brussels,Belgium,False,Draw
+23341,2000-09-02,Bosnia and Herzegovina,Spain,1,2,FIFA World Cup qualification,Sarajevo,Bosnia and Herzegovina,False,Spain
+23347,2000-09-02,France,England,1,1,Friendly,Saint-Denis,France,False,Draw
+23349,2000-09-02,Germany,Greece,2,0,FIFA World Cup qualification,Hamburg,Germany,False,Germany
+23353,2000-09-02,Latvia,Scotland,0,1,FIFA World Cup qualification,Riga,Latvia,False,Scotland
+23354,2000-09-02,Netherlands,Republic of Ireland,2,2,FIFA World Cup qualification,Amsterdam,Netherlands,False,Draw
+23370,2000-09-03,Estonia,Portugal,1,3,FIFA World Cup qualification,Tallinn,Estonia,False,Portugal
+23372,2000-09-03,Hungary,Italy,2,2,FIFA World Cup qualification,Budapest,Hungary,False,Draw
+23409,2000-10-04,France,Cameroon,1,1,Friendly,Saint-Denis,France,False,Draw
+23420,2000-10-07,Cyprus,Netherlands,0,4,FIFA World Cup qualification,Nicosia,Cyprus,False,Netherlands
+23422,2000-10-07,England,Germany,0,1,FIFA World Cup qualification,London,England,False,Germany
+23423,2000-10-07,Greece,Finland,1,0,FIFA World Cup qualification,Athens,Greece,False,Greece
+23424,2000-10-07,Italy,Romania,3,0,FIFA World Cup qualification,Milan,Italy,False,Italy
+23426,2000-10-07,Latvia,Belgium,0,4,FIFA World Cup qualification,Riga,Latvia,False,Belgium
+23434,2000-10-07,Portugal,Republic of Ireland,1,1,FIFA World Cup qualification,Lisbon,Portugal,False,Draw
+23435,2000-10-07,San Marino,Scotland,0,2,FIFA World Cup qualification,Serravalle,San Marino,False,Scotland
+23437,2000-10-07,South Africa,France,0,0,Friendly,Johannesburg,South Africa,False,Draw
+23438,2000-10-07,Spain,Israel,2,0,FIFA World Cup qualification,Madrid,Spain,False,Spain
+23462,2000-10-11,Albania,Greece,2,0,FIFA World Cup qualification,Tirana,Albania,False,Albania
+23463,2000-10-11,Austria,Spain,1,1,FIFA World Cup qualification,Vienna,Austria,False,Draw
+23466,2000-10-11,Croatia,Scotland,1,1,FIFA World Cup qualification,Zagreb,Croatia,False,Draw
+23468,2000-10-11,Finland,England,0,0,FIFA World Cup qualification,Helsinki,Finland,False,Draw
+23472,2000-10-11,Italy,Georgia,2,0,FIFA World Cup qualification,Ancona,Italy,False,Italy
+23476,2000-10-11,Netherlands,Portugal,0,2,FIFA World Cup qualification,Rotterdam,Netherlands,False,Portugal
+23549,2000-11-15,Denmark,Germany,2,1,Friendly,Copenhagen,Denmark,False,Denmark
+23552,2000-11-15,Greece,Slovakia,0,2,Friendly,Rhodes,Greece,False,Slovakia
+23555,2000-11-15,Italy,England,1,0,Friendly,Turin,Italy,False,Italy
+23559,2000-11-15,Portugal,Israel,2,1,Friendly,Braga,Portugal,False,Portugal
+23562,2000-11-15,Scotland,Australia,0,2,Friendly,Glasgow,Scotland,False,Australia
+23563,2000-11-15,Spain,Netherlands,1,2,Friendly,Seville,Spain,False,Netherlands
+23566,2000-11-15,Turkey,France,0,4,Friendly,Istanbul,Turkey,False,France
+23594,2000-12-13,Greece,Serbia,1,1,Friendly,Xánthi,Greece,False,Draw
+23747,2001-02-27,France,Germany,1,0,Friendly,Saint-Denis,France,False,France
+23751,2001-02-28,Belgium,San Marino,10,1,FIFA World Cup qualification,Brussels,Belgium,False,Belgium
+23757,2001-02-28,England,Spain,3,0,Friendly,Birmingham,England,False,England
+23758,2001-02-28,Greece,Russia,3,3,Friendly,Heraklion,Greece,False,Draw
+23759,2001-02-28,Italy,Argentina,1,2,Friendly,Rome,Italy,False,Argentina
+23767,2001-02-28,Netherlands,Turkey,0,0,Friendly,Amsterdam,Netherlands,False,Draw
+23769,2001-02-28,Portugal,Andorra,3,0,FIFA World Cup qualification,Funchal,Portugal,False,Portugal
+23818,2001-03-24,Andorra,Netherlands,0,5,FIFA World Cup qualification,Barcelona,Spain,True,Netherlands
+23826,2001-03-24,England,Finland,2,1,FIFA World Cup qualification,Liverpool,England,False,England
+23827,2001-03-24,France,Japan,5,0,Friendly,Saint-Denis,France,False,France
+23829,2001-03-24,Germany,Albania,2,1,FIFA World Cup qualification,Leverkusen,Germany,False,Germany
+23838,2001-03-24,Romania,Italy,0,2,FIFA World Cup qualification,Bucharest,Romania,False,Italy
+23840,2001-03-24,Scotland,Belgium,2,2,FIFA World Cup qualification,Glasgow,Scotland,False,Draw
+23844,2001-03-24,Spain,Liechtenstein,5,0,FIFA World Cup qualification,Alicante,Spain,False,Spain
+23861,2001-03-28,Albania,England,1,3,FIFA World Cup qualification,Tirana,Albania,False,England
+23872,2001-03-28,Greece,Germany,2,4,FIFA World Cup qualification,Athens,Greece,False,Germany
+23874,2001-03-28,Italy,Lithuania,4,0,FIFA World Cup qualification,Trieste,Italy,False,Italy
+23880,2001-03-28,Portugal,Netherlands,2,2,FIFA World Cup qualification,Porto,Portugal,False,Draw
+23882,2001-03-28,Scotland,San Marino,4,0,FIFA World Cup qualification,Glasgow,Scotland,False,Scotland
+23885,2001-03-28,Spain,France,2,1,Friendly,Valencia,Spain,False,Spain
+23973,2001-04-25,Croatia,Greece,2,2,Friendly,Varaždin,Croatia,False,Draw
+23974,2001-04-25,Czech Republic,Belgium,1,1,Friendly,Prague,Czech Republic,False,Draw
+23976,2001-04-25,France,Portugal,4,0,Friendly,Saint-Denis,France,False,France
+23979,2001-04-25,Italy,South Africa,1,0,Friendly,Perugia,Italy,False,Italy
+23987,2001-04-25,Netherlands,Cyprus,4,0,FIFA World Cup qualification,Eindhoven,Netherlands,False,Netherlands
+23989,2001-04-25,Poland,Scotland,1,1,Friendly,Bydgoszcz,Poland,False,Draw
+23992,2001-04-25,Spain,Japan,1,0,Friendly,Córdoba,Spain,False,Spain
+24077,2001-05-25,England,Mexico,4,0,Friendly,Derby,England,False,England
+24092,2001-05-29,Germany,Slovakia,2,0,Friendly,Bremen,Germany,False,Germany
+24094,2001-05-30,South Korea,France,0,5,Confederations Cup,Daegu,South Korea,False,France
+24102,2001-06-01,Australia,France,1,0,Confederations Cup,Daegu,South Korea,True,Australia
+24107,2001-06-02,Belgium,Latvia,3,1,FIFA World Cup qualification,Brussels,Belgium,False,Belgium
+24111,2001-06-02,Estonia,Netherlands,2,4,FIFA World Cup qualification,Tallinn,Estonia,False,Netherlands
+24113,2001-06-02,Finland,Germany,2,2,FIFA World Cup qualification,Helsinki,Finland,False,Draw
+24115,2001-06-02,Georgia,Italy,1,2,FIFA World Cup qualification,Tbilisi,Georgia,False,Italy
+24116,2001-06-02,Greece,Albania,1,0,FIFA World Cup qualification,Heraklion,Greece,False,Greece
+24118,2001-06-02,Republic of Ireland,Portugal,1,1,FIFA World Cup qualification,Dublin,Republic of Ireland,False,Draw
+24130,2001-06-02,Spain,Bosnia and Herzegovina,4,1,FIFA World Cup qualification,Oviedo,Spain,False,Spain
+24142,2001-06-03,France,Mexico,4,0,Confederations Cup,Ulsan,South Korea,True,France
+24154,2001-06-06,Albania,Germany,0,2,FIFA World Cup qualification,Tirana,Albania,False,Germany
+24162,2001-06-06,Greece,England,0,2,FIFA World Cup qualification,Athens,Greece,False,England
+24165,2001-06-06,Israel,Spain,1,1,FIFA World Cup qualification,Ramat-Gan,Israel,False,Draw
+24171,2001-06-06,Portugal,Cyprus,6,0,FIFA World Cup qualification,Lisbon,Portugal,False,Portugal
+24172,2001-06-06,San Marino,Belgium,1,4,FIFA World Cup qualification,Serravalle,San Marino,False,Belgium
+24177,2001-06-07,France,Brazil,2,1,Confederations Cup,Suwon,South Korea,True,France
+24185,2001-06-10,Japan,France,0,1,Confederations Cup,Yokohama,Japan,False,France
+24352,2001-08-15,England,Netherlands,0,2,Friendly,London,England,False,Netherlands
+24354,2001-08-15,Finland,Belgium,4,1,Friendly,Helsinki,Finland,False,Finland
+24355,2001-08-15,France,Denmark,1,0,Friendly,Nantes,France,False,France
+24356,2001-08-15,Hungary,Germany,2,5,Friendly,Budapest,Hungary,False,Germany
+24364,2001-08-15,Portugal,Moldova,3,0,Friendly,Faro,Portugal,False,Portugal
+24365,2001-08-15,Russia,Greece,0,0,Friendly,Moscow,Russia,False,Draw
+24386,2001-09-01,Andorra,Portugal,1,7,FIFA World Cup qualification,Lleida,Spain,True,Portugal
+24389,2001-09-01,Chile,France,2,1,Friendly,Santiago,Chile,False,Chile
+24393,2001-09-01,Germany,England,1,5,FIFA World Cup qualification,Munich,Germany,False,England
+24395,2001-09-01,Republic of Ireland,Netherlands,1,0,FIFA World Cup qualification,Dublin,Republic of Ireland,False,Republic of Ireland
+24396,2001-09-01,Lithuania,Italy,0,0,FIFA World Cup qualification,Kaunas,Lithuania,False,Draw
+24401,2001-09-01,Scotland,Croatia,0,0,FIFA World Cup qualification,Glasgow,Scotland,False,Draw
+24404,2001-09-01,Spain,Austria,4,0,FIFA World Cup qualification,Valencia,Spain,False,Spain
+24417,2001-09-05,Belgium,Scotland,2,0,FIFA World Cup qualification,Brussels,Belgium,False,Belgium
+24421,2001-09-05,Cyprus,Portugal,1,3,FIFA World Cup qualification,Larnaca,Cyprus,False,Portugal
+24423,2001-09-05,England,Albania,2,0,FIFA World Cup qualification,Newcastle,England,False,England
+24425,2001-09-05,Finland,Greece,5,1,FIFA World Cup qualification,Helsinki,Finland,False,Finland
+24429,2001-09-05,Italy,Morocco,1,0,Friendly,Piacenza,Italy,False,Italy
+24430,2001-09-05,Liechtenstein,Spain,0,2,FIFA World Cup qualification,Vaduz,Liechtenstein,False,Spain
+24433,2001-09-05,Netherlands,Estonia,5,0,FIFA World Cup qualification,Eindhoven,Netherlands,False,Netherlands
+24472,2001-10-06,Croatia,Belgium,1,0,FIFA World Cup qualification,Zagreb,Croatia,False,Croatia
+24475,2001-10-06,England,Greece,2,2,FIFA World Cup qualification,Manchester,England,False,Draw
+24476,2001-10-06,France,Algeria,4,1,Friendly,Saint-Denis,France,False,France
+24477,2001-10-06,Germany,Finland,0,0,FIFA World Cup qualification,Gelsenkirchen,Germany,False,Draw
+24479,2001-10-06,Italy,Hungary,1,0,FIFA World Cup qualification,Parma,Italy,False,Italy
+24482,2001-10-06,Netherlands,Andorra,4,0,FIFA World Cup qualification,Arnhem,Netherlands,False,Netherlands
+24484,2001-10-06,Portugal,Estonia,5,0,FIFA World Cup qualification,Lisbon,Portugal,False,Portugal
+24487,2001-10-06,Scotland,Latvia,2,1,FIFA World Cup qualification,Glasgow,Scotland,False,Scotland
+24533,2001-11-07,Japan,Italy,1,1,Friendly,Saitama,Japan,False,Draw
+24540,2001-11-10,Belgium,Czech Republic,1,0,FIFA World Cup qualification,Brussels,Belgium,False,Belgium
+24541,2001-11-10,Denmark,Netherlands,1,1,Friendly,Copenhagen,Denmark,False,Draw
+24542,2001-11-10,England,Sweden,1,1,Friendly,Manchester,England,False,Draw
+24543,2001-11-10,Greece,Estonia,4,2,Friendly,Athens,Greece,False,Greece
+24548,2001-11-10,Ukraine,Germany,1,1,FIFA World Cup qualification,Kyiv,Ukraine,False,Draw
+24549,2001-11-11,Australia,France,1,1,Friendly,Melbourne,Australia,False,Draw
+24557,2001-11-14,Czech Republic,Belgium,0,1,FIFA World Cup qualification,Prague,Czech Republic,False,Belgium
+24559,2001-11-14,Germany,Ukraine,4,1,FIFA World Cup qualification,Dortmund,Germany,False,Germany
+24560,2001-11-14,Greece,Cyprus,1,2,Friendly,Athens,Greece,False,Cyprus
+24568,2001-11-14,Portugal,Angola,5,1,Friendly,Lisbon,Portugal,False,Portugal
+24570,2001-11-14,Spain,Mexico,1,0,Friendly,Huelva,Spain,False,Spain
+24738,2002-02-13,Belgium,Norway,1,0,Friendly,Brussels,Belgium,False,Belgium
+24742,2002-02-13,France,Romania,2,1,Friendly,Saint-Denis,France,False,France
+24743,2002-02-13,Germany,Israel,7,1,Friendly,Kaiserslautern,Germany,False,Germany
+24744,2002-02-13,Greece,Sweden,2,2,Friendly,Salonica,Greece,False,Draw
+24746,2002-02-13,Italy,United States,1,0,Friendly,Catania,Italy,False,Italy
+24751,2002-02-13,Netherlands,England,1,1,Friendly,Amsterdam,Netherlands,False,Draw
+24755,2002-02-13,Spain,Portugal,1,1,Friendly,Barcelona,Spain,False,Draw
+24803,2002-03-27,England,Italy,1,2,Friendly,Leeds,England,False,Italy
+24805,2002-03-27,France,Scotland,5,0,Friendly,Saint-Denis,France,False,France
+24807,2002-03-27,Germany,United States,4,2,Friendly,Rostock,Germany,False,Germany
+24813,2002-03-27,Netherlands,Spain,1,0,Friendly,Rotterdam,Netherlands,False,Netherlands
+24815,2002-03-27,Portugal,Finland,1,4,Friendly,Porto,Portugal,False,Finland
+24832,2002-04-17,Belgium,Slovakia,1,1,Friendly,Brussels,Belgium,False,Draw
+24837,2002-04-17,England,Paraguay,4,0,Friendly,Liverpool,England,False,England
+24838,2002-04-17,France,Russia,0,0,Friendly,Saint-Denis,France,False,Draw
+24839,2002-04-17,Germany,Argentina,0,1,Friendly,Stuttgart,Germany,False,Argentina
+24840,2002-04-17,Greece,Czech Republic,0,0,Friendly,Ioannina,Greece,False,Draw
+24843,2002-04-17,Italy,Uruguay,1,1,Friendly,Milan,Italy,False,Draw
+24850,2002-04-17,Northern Ireland,Spain,0,5,Friendly,Belfast,Northern Ireland,False,Spain
+24853,2002-04-17,Portugal,Brazil,1,1,Friendly,Lisbon,Portugal,False,Draw
+24854,2002-04-17,Scotland,Nigeria,1,2,Friendly,Aberdeen,Scotland,False,Nigeria
+24872,2002-05-09,Germany,Kuwait,7,0,Friendly,Freiburg,Germany,False,Germany
+24877,2002-05-14,Belgium,Algeria,0,0,Friendly,Brussels,Belgium,False,Draw
+24881,2002-05-14,Wales,Germany,1,0,Friendly,Cardiff,Wales,False,Wales
+24882,2002-05-15,Greece,Cyprus,3,1,Friendly,Rhodes,Greece,False,Greece
+24886,2002-05-16,South Korea,Scotland,4,1,Friendly,Busan,South Korea,False,South Korea
+24896,2002-05-18,Czech Republic,Italy,1,0,Friendly,Prague,Czech Republic,False,Czech Republic
+24897,2002-05-18,France,Belgium,1,2,Friendly,Saint-Denis,France,False,Belgium
+24898,2002-05-18,Germany,Austria,6,2,Friendly,Leverkusen,Germany,False,Germany
+24907,2002-05-19,United States,Netherlands,0,2,Friendly,Foxborough,United States,False,Netherlands
+24908,2002-05-20,Scotland,South Africa,0,2,Friendly,So Kon Po,Hong Kong,True,South Africa
+24909,2002-05-21,South Korea,England,1,1,Friendly,Seogwipo,South Korea,False,Draw
+24916,2002-05-25,China PR,Portugal,0,2,Friendly,Macau,Macau,True,Portugal
+24919,2002-05-26,Belgium,Costa Rica,1,0,Friendly,Kumamoto,Japan,True,Belgium
+24920,2002-05-26,Cameroon,England,2,2,Friendly,Kobe,Japan,True,Draw
+24922,2002-05-26,South Korea,France,2,3,Friendly,Suwon,South Korea,False,France
+24924,2002-05-31,France,Senegal,0,1,FIFA World Cup,Seoul,South Korea,True,Senegal
+24925,2002-06-01,Germany,Saudi Arabia,8,0,FIFA World Cup,Sapporo,Japan,True,Germany
+24929,2002-06-02,England,Sweden,1,1,FIFA World Cup,Saitama,Japan,True,Draw
+24931,2002-06-02,Spain,Slovenia,3,1,FIFA World Cup,Gwangju,South Korea,True,Spain
+24934,2002-06-03,Italy,Ecuador,2,0,FIFA World Cup,Sapporo,Japan,True,Italy
+24936,2002-06-04,Japan,Belgium,2,2,FIFA World Cup,Saitama,Japan,False,Draw
+24938,2002-06-05,Germany,Republic of Ireland,1,1,FIFA World Cup,Kashima,Japan,True,Draw
+24940,2002-06-05,United States,Portugal,3,2,FIFA World Cup,Suwon,South Korea,True,United States
+24943,2002-06-06,France,Uruguay,0,0,FIFA World Cup,Busan,South Korea,True,Draw
+24946,2002-06-07,Argentina,England,0,1,FIFA World Cup,Sapporo,Japan,True,England
+24947,2002-06-07,Spain,Paraguay,3,1,FIFA World Cup,Jeonju,South Korea,True,Spain
+24950,2002-06-08,Italy,Croatia,1,2,FIFA World Cup,Kashima,Japan,True,Croatia
+24958,2002-06-10,Portugal,Poland,4,0,FIFA World Cup,Jeonju,South Korea,True,Portugal
+24959,2002-06-10,Tunisia,Belgium,1,1,FIFA World Cup,Ōita,Japan,True,Draw
+24960,2002-06-11,Cameroon,Germany,0,2,FIFA World Cup,Fukuroi,Japan,True,Germany
+24961,2002-06-11,Denmark,France,2,0,FIFA World Cup,Incheon,South Korea,True,Denmark
+24964,2002-06-12,Nigeria,England,0,0,FIFA World Cup,Osaka,Japan,True,Draw
+24966,2002-06-12,South Africa,Spain,2,3,FIFA World Cup,Daejeon,South Korea,True,Spain
+24970,2002-06-13,Mexico,Italy,1,1,FIFA World Cup,Ōita,Japan,True,Draw
+24972,2002-06-14,Belgium,Russia,3,2,FIFA World Cup,Fukuroi,Japan,True,Belgium
+24974,2002-06-14,South Korea,Portugal,1,0,FIFA World Cup,Incheon,South Korea,False,South Korea
+24976,2002-06-15,Denmark,England,0,3,FIFA World Cup,Niigata,Japan,True,England
+24977,2002-06-15,Germany,Paraguay,1,0,FIFA World Cup,Seogwipo,South Korea,True,Germany
+24978,2002-06-16,Spain,Republic of Ireland,1,1,FIFA World Cup,Suwon,South Korea,True,Draw
+24980,2002-06-17,Brazil,Belgium,2,0,FIFA World Cup,Kobe,Japan,True,Brazil
+24983,2002-06-18,South Korea,Italy,2,1,FIFA World Cup,Daejeon,South Korea,False,South Korea
+24984,2002-06-21,England,Brazil,1,2,FIFA World Cup,Fukuroi,Japan,True,Brazil
+24985,2002-06-21,Germany,United States,1,0,FIFA World Cup,Ulsan,South Korea,True,Germany
+24987,2002-06-22,South Korea,Spain,0,0,FIFA World Cup,Gwangju,South Korea,False,Draw
+24990,2002-06-25,South Korea,Germany,0,1,FIFA World Cup,Seoul,South Korea,False,Germany
+24995,2002-06-30,Germany,Brazil,0,2,FIFA World Cup,Yokohama,Japan,True,Brazil
+25060,2002-08-21,Bulgaria,Germany,2,2,Friendly,Sofia,Bulgaria,False,Draw
+25066,2002-08-21,Hungary,Spain,1,1,Friendly,Budapest,Hungary,False,Draw
+25068,2002-08-21,Italy,Slovenia,0,1,Friendly,Trieste,Italy,False,Slovenia
+25075,2002-08-21,Norway,Netherlands,0,1,Friendly,Oslo,Norway,False,Netherlands
+25076,2002-08-21,Poland,Belgium,1,1,Friendly,Szczecin,Poland,False,Draw
+25077,2002-08-21,Romania,Greece,0,1,Friendly,Constanţa,Romania,False,Greece
+25079,2002-08-21,Scotland,Denmark,0,1,Friendly,Glasgow,Scotland,False,Denmark
+25081,2002-08-21,Tunisia,France,1,1,Friendly,Radès,Tunisia,False,Draw
+25114,2002-09-07,Azerbaijan,Italy,0,2,UEFA Euro qualification,Baku,Azerbaijan,False,Italy
+25115,2002-09-07,Belgium,Bulgaria,0,2,UEFA Euro qualification,Brussels,Belgium,False,Bulgaria
+25119,2002-09-07,Cyprus,France,1,2,UEFA Euro qualification,Nicosia,Cyprus,False,France
+25120,2002-09-07,England,Portugal,1,1,Friendly,Birmingham,England,False,Draw
+25121,2002-09-07,Faroe Islands,Scotland,2,2,UEFA Euro qualification,Toftir,Faroe Islands,False,Draw
+25124,2002-09-07,Greece,Spain,0,2,UEFA Euro qualification,Athens,Greece,False,Spain
+25130,2002-09-07,Lithuania,Germany,0,2,UEFA Euro qualification,Kaunas,Lithuania,False,Germany
+25132,2002-09-07,Netherlands,Belarus,3,0,UEFA Euro qualification,Eindhoven,Netherlands,False,Netherlands
+25172,2002-10-11,Bosnia and Herzegovina,Germany,1,1,Friendly,Sarajevo,Bosnia and Herzegovina,False,Draw
+25174,2002-10-12,Andorra,Belgium,0,1,UEFA Euro qualification,Sant Julià de Lòria,Andorra,False,Belgium
+25180,2002-10-12,France,Slovenia,5,0,UEFA Euro qualification,Saint-Denis,France,False,France
+25181,2002-10-12,Iceland,Scotland,0,2,UEFA Euro qualification,Reykjavík,Iceland,False,Scotland
+25182,2002-10-12,Italy,Serbia,1,1,UEFA Euro qualification,Naples,Italy,False,Draw
+25190,2002-10-12,Portugal,Tunisia,1,1,Friendly,Lisbon,Portugal,False,Draw
+25194,2002-10-12,Slovakia,England,1,2,UEFA Euro qualification,Bratislava,Slovakia,False,England
+25195,2002-10-12,Spain,Northern Ireland,3,0,UEFA Euro qualification,Albacete,Spain,False,Spain
+25198,2002-10-12,Ukraine,Greece,2,0,UEFA Euro qualification,Kyiv,Ukraine,False,Ukraine
+25208,2002-10-15,Scotland,Canada,3,1,Friendly,Edinburgh,Scotland,False,Scotland
+25209,2002-10-16,Austria,Netherlands,0,3,UEFA Euro qualification,Vienna,Austria,False,Netherlands
+25213,2002-10-16,England,North Macedonia,2,2,UEFA Euro qualification,Southampton,England,False,Draw
+25214,2002-10-16,Estonia,Belgium,0,1,UEFA Euro qualification,Tallinn,Estonia,False,Belgium
+25215,2002-10-16,Germany,Faroe Islands,2,1,UEFA Euro qualification,Hanover,Germany,False,Germany
+25216,2002-10-16,Greece,Armenia,2,0,UEFA Euro qualification,Athens,Greece,False,Greece
+25222,2002-10-16,Malta,France,0,4,UEFA Euro qualification,Attard,Malta,False,France
+25228,2002-10-16,Spain,Paraguay,0,0,Friendly,Logroño,Spain,False,Draw
+25229,2002-10-16,Sweden,Portugal,2,3,Friendly,Gothenburg,Sweden,False,Portugal
+25231,2002-10-16,Wales,Italy,2,1,UEFA Euro qualification,Cardiff,Wales,False,Wales
+25266,2002-11-20,France,Serbia,3,0,Friendly,Saint-Denis,France,False,France
+25267,2002-11-20,Germany,Netherlands,1,3,Friendly,Gelsenkirchen,Germany,False,Netherlands
+25268,2002-11-20,Greece,Republic of Ireland,0,0,Friendly,Athens,Greece,False,Draw
+25271,2002-11-20,Italy,Turkey,1,1,Friendly,Pescara,Italy,False,Draw
+25278,2002-11-20,Portugal,Scotland,2,0,Friendly,Braga,Portugal,False,Portugal
+25283,2002-11-20,Spain,Bulgaria,1,0,Friendly,Granada,Spain,False,Spain
+25408,2003-01-29,Cyprus,Greece,1,2,Friendly,Larnaca,Cyprus,False,Greece
+25421,2003-02-12,Algeria,Belgium,1,3,Friendly,Annaba,Algeria,False,Belgium
+25429,2003-02-12,England,Australia,1,3,Friendly,London,England,False,Australia
+25430,2003-02-12,France,Czech Republic,0,2,Friendly,Saint-Denis,France,False,Czech Republic
+25432,2003-02-12,Greece,Norway,1,0,Friendly,Heraklion,Greece,False,Greece
+25435,2003-02-12,Italy,Portugal,1,0,Friendly,Genoa,Italy,False,Italy
+25442,2003-02-12,Netherlands,Argentina,1,0,Friendly,Amsterdam,Netherlands,False,Netherlands
+25445,2003-02-12,Scotland,Republic of Ireland,0,2,Friendly,Glasgow,Scotland,False,Republic of Ireland
+25448,2003-02-12,Spain,Germany,3,1,Friendly,Palma de Mallorca,Spain,False,Spain
+25528,2003-03-26,Austria,Greece,2,2,Friendly,Graz,Austria,False,Draw
+25551,2003-03-29,Croatia,Belgium,4,0,UEFA Euro qualification,Zagreb,Croatia,False,Croatia
+25554,2003-03-29,France,Malta,6,0,UEFA Euro qualification,Lens,France,False,France
+25557,2003-03-29,Germany,Lithuania,1,1,UEFA Euro qualification,Nuremberg,Germany,False,Draw
+25558,2003-03-29,Italy,Finland,2,0,UEFA Euro qualification,Palermo,Italy,False,Italy
+25561,2003-03-29,Liechtenstein,England,0,2,UEFA Euro qualification,Vaduz,Liechtenstein,False,England
+25565,2003-03-29,Netherlands,Czech Republic,1,1,UEFA Euro qualification,Rotterdam,Netherlands,False,Draw
+25567,2003-03-29,Portugal,Brazil,2,1,Friendly,Porto,Portugal,False,Portugal
+25570,2003-03-29,Scotland,Iceland,2,1,UEFA Euro qualification,Glasgow,Scotland,False,Scotland
+25575,2003-03-29,Ukraine,Spain,2,2,UEFA Euro qualification,Kyiv,Ukraine,False,Draw
+25602,2003-04-02,England,Turkey,2,0,UEFA Euro qualification,Sunderland,England,False,England
+25607,2003-04-02,Israel,France,1,2,UEFA Euro qualification,Palermo,Italy,True,France
+25608,2003-04-02,Lithuania,Scotland,1,0,UEFA Euro qualification,Kaunas,Lithuania,False,Lithuania
+25610,2003-04-02,North Macedonia,Portugal,0,1,Friendly,Lausanne,Switzerland,True,Portugal
+25611,2003-04-02,Moldova,Netherlands,1,2,UEFA Euro qualification,Tiraspol,Moldova,False,Netherlands
+25612,2003-04-02,Northern Ireland,Greece,0,2,UEFA Euro qualification,Belfast,Northern Ireland,False,Greece
+25617,2003-04-02,Spain,Armenia,3,0,UEFA Euro qualification,León,Spain,False,Spain
+25633,2003-04-30,Belgium,Poland,3,1,Friendly,Brussels,Belgium,False,Belgium
+25639,2003-04-30,France,Egypt,5,0,Friendly,Saint-Denis,France,False,France
+25641,2003-04-30,Germany,Serbia,1,0,Friendly,Bremen,Germany,False,Germany
+25653,2003-04-30,Netherlands,Portugal,1,1,Friendly,Eindhoven,Netherlands,False,Draw
+25655,2003-04-30,Scotland,Austria,0,2,Friendly,Glasgow,Scotland,False,Austria
+25656,2003-04-30,Slovakia,Greece,2,2,Friendly,Žilina,Slovakia,False,Draw
+25658,2003-04-30,Spain,Ecuador,4,0,Friendly,Madrid,Spain,False,Spain
+25660,2003-04-30,Switzerland,Italy,1,2,Friendly,Geneva,Switzerland,False,Italy
+25674,2003-05-22,South Africa,England,1,2,Friendly,Durban,South Africa,False,England
+25681,2003-05-27,Scotland,New Zealand,1,1,Friendly,Edinburgh,Scotland,False,Draw
+25690,2003-06-01,Germany,Canada,4,1,Friendly,Wolfsburg,Germany,False,Germany
+25691,2003-06-03,England,Serbia,2,1,Friendly,Leicester,England,False,England
+25693,2003-06-03,Italy,Northern Ireland,2,0,Friendly,Campobasso,Italy,False,Italy
+25697,2003-06-06,Portugal,Paraguay,0,0,Friendly,Braga,Portugal,False,Draw
+25698,2003-06-07,Belarus,Netherlands,0,2,UEFA Euro qualification,Minsk,Belarus,False,Netherlands
+25700,2003-06-07,Bulgaria,Belgium,2,2,UEFA Euro qualification,Sofia,Bulgaria,False,Draw
+25718,2003-06-07,Scotland,Germany,1,1,UEFA Euro qualification,Glasgow,Scotland,False,Draw
+25722,2003-06-07,Spain,Greece,0,1,UEFA Euro qualification,Zaragoza,Spain,False,Greece
+25743,2003-06-10,Portugal,Bolivia,4,0,Friendly,Oeiras,Portugal,False,Portugal
+25746,2003-06-11,Belgium,Andorra,3,0,UEFA Euro qualification,Ghent,Belgium,False,Belgium
+25749,2003-06-11,England,Slovakia,2,1,UEFA Euro qualification,Middlesbrough,England,False,England
+25751,2003-06-11,Faroe Islands,Germany,0,2,UEFA Euro qualification,Tórshavn,Faroe Islands,False,Germany
+25752,2003-06-11,Finland,Italy,0,2,UEFA Euro qualification,Helsinki,Finland,False,Italy
+25753,2003-06-11,Greece,Ukraine,1,0,UEFA Euro qualification,Athens,Greece,False,Greece
+25761,2003-06-11,Northern Ireland,Spain,0,0,UEFA Euro qualification,Belfast,Northern Ireland,False,Draw
+25772,2003-06-18,France,Colombia,1,0,Confederations Cup,Lyon,France,False,France
+25779,2003-06-20,France,Japan,2,1,Confederations Cup,Saint-Étienne,France,False,France
+25791,2003-06-22,France,New Zealand,5,0,Confederations Cup,Saint-Denis,France,False,France
+25805,2003-06-26,France,Turkey,3,2,Confederations Cup,Saint-Denis,France,False,France
+25809,2003-06-29,France,Cameroon,1,0,Confederations Cup,Saint-Denis,France,False,France
+25937,2003-08-20,Belgium,Netherlands,1,1,Friendly,Brussels,Belgium,False,Draw
+25943,2003-08-20,England,Croatia,3,1,Friendly,Ipswich,England,False,England
+25946,2003-08-20,Germany,Italy,0,1,Friendly,Stuttgart,Germany,False,Italy
+25952,2003-08-20,Norway,Scotland,0,0,Friendly,Oslo,Norway,False,Draw
+25954,2003-08-20,Portugal,Kazakhstan,1,0,Friendly,Chaves,Portugal,False,Portugal
+25958,2003-08-20,Sweden,Greece,1,2,Friendly,Norrköping,Sweden,False,Greece
+25959,2003-08-20,Switzerland,France,0,2,Friendly,Geneva,Switzerland,False,France
+25976,2003-09-06,Armenia,Greece,0,1,UEFA Euro qualification,Yerevan,Armenia,False,Greece
+25982,2003-09-06,France,Cyprus,5,0,UEFA Euro qualification,Saint-Denis,France,False,France
+25984,2003-09-06,Iceland,Germany,0,0,UEFA Euro qualification,Reykjavík,Iceland,False,Draw
+25986,2003-09-06,Italy,Wales,4,0,UEFA Euro qualification,Milan,Italy,False,Italy
+25989,2003-09-06,North Macedonia,England,1,2,UEFA Euro qualification,Skopje,North Macedonia,False,England
+25990,2003-09-06,Netherlands,Austria,3,1,UEFA Euro qualification,Rotterdam,Netherlands,False,Netherlands
+25992,2003-09-06,Portugal,Spain,0,3,Friendly,Guimarães,Portugal,False,Spain
+25994,2003-09-06,Scotland,Faroe Islands,3,1,UEFA Euro qualification,Glasgow,Scotland,False,Scotland
+26009,2003-09-10,Belgium,Croatia,2,1,UEFA Euro qualification,Brussels,Belgium,False,Belgium
+26012,2003-09-10,Czech Republic,Netherlands,3,1,UEFA Euro qualification,Prague,Czech Republic,False,Czech Republic
+26014,2003-09-10,England,Liechtenstein,2,0,UEFA Euro qualification,Manchester,England,False,England
+26016,2003-09-10,Germany,Scotland,2,1,UEFA Euro qualification,Dortmund,Germany,False,Germany
+26024,2003-09-10,Norway,Portugal,0,1,Friendly,Oslo,Norway,False,Portugal
+26029,2003-09-10,Serbia,Italy,1,1,UEFA Euro qualification,Belgrade,Serbia and Montenegro,False,Draw
+26031,2003-09-10,Slovenia,France,0,2,UEFA Euro qualification,Ljubljana,Slovenia,False,France
+26032,2003-09-10,Spain,Ukraine,2,1,UEFA Euro qualification,Elche,Spain,False,Spain
+26081,2003-10-11,Armenia,Spain,0,4,UEFA Euro qualification,Yerevan,Armenia,False,Spain
+26083,2003-10-11,Belgium,Estonia,2,0,UEFA Euro qualification,Liège,Belgium,False,Belgium
+26091,2003-10-11,France,Israel,3,0,UEFA Euro qualification,Saint-Denis,France,False,France
+26092,2003-10-11,Germany,Iceland,3,0,UEFA Euro qualification,Hamburg,Germany,False,Germany
+26093,2003-10-11,Greece,Northern Ireland,1,0,UEFA Euro qualification,Athens,Greece,False,Greece
+26095,2003-10-11,Italy,Azerbaijan,4,0,UEFA Euro qualification,Reggio di Calabria,Italy,False,Italy
+26098,2003-10-11,Netherlands,Moldova,5,0,UEFA Euro qualification,Eindhoven,Netherlands,False,Netherlands
+26101,2003-10-11,Portugal,Albania,5,3,Friendly,Lisbon,Portugal,False,Portugal
+26105,2003-10-11,Scotland,Lithuania,1,0,UEFA Euro qualification,Glasgow,Scotland,False,Scotland
+26112,2003-10-11,Turkey,England,0,0,UEFA Euro qualification,Istanbul,Turkey,False,Draw
+26179,2003-11-12,Poland,Italy,3,1,Friendly,Warsaw,Poland,False,Poland
+26192,2003-11-15,Germany,France,0,3,Friendly,Gelsenkirchen,Germany,False,France
+26199,2003-11-15,Portugal,Greece,1,1,Friendly,Aveiro,Portugal,False,Draw
+26201,2003-11-15,Scotland,Netherlands,1,0,UEFA Euro qualification,Glasgow,Scotland,False,Scotland
+26203,2003-11-15,Spain,Norway,2,1,UEFA Euro qualification,Valencia,Spain,False,Spain
+26209,2003-11-16,England,Denmark,2,3,Friendly,Manchester,England,False,Denmark
+26213,2003-11-16,Italy,Romania,1,0,Friendly,Ancona,Italy,False,Italy
+26244,2003-11-19,Netherlands,Scotland,6,0,UEFA Euro qualification,Amsterdam,Netherlands,False,Netherlands
+26245,2003-11-19,Norway,Spain,0,3,UEFA Euro qualification,Oslo,Norway,False,Spain
+26246,2003-11-19,Portugal,Kuwait,8,0,Friendly,Leiria,Portugal,False,Portugal
+26412,2004-02-18,Belgium,France,0,2,Friendly,Brussels,Belgium,False,France
+26414,2004-02-18,Croatia,Germany,1,2,Friendly,Split,Croatia,False,Germany
+26417,2004-02-18,Greece,Bulgaria,2,0,Friendly,Athens,Greece,False,Greece
+26424,2004-02-18,Italy,Czech Republic,2,2,Friendly,Palermo,Italy,False,Draw
+26436,2004-02-18,Netherlands,United States,1,0,Friendly,Amsterdam,Netherlands,False,Netherlands
+26440,2004-02-18,Portugal,England,1,1,Friendly,Faro,Portugal,False,Draw
+26443,2004-02-18,Spain,Peru,2,1,Friendly,Barcelona,Spain,False,Spain
+26450,2004-02-18,Wales,Scotland,4,0,Friendly,Cardiff,Wales,False,Wales
+26507,2004-03-31,Germany,Belgium,3,0,Friendly,Cologne,Germany,False,Germany
+26508,2004-03-31,Greece,Switzerland,1,0,Friendly,Heraklion,Greece,False,Greece
+26525,2004-03-31,Netherlands,France,0,0,Friendly,Rotterdam,Netherlands,False,Draw
+26530,2004-03-31,Portugal,Italy,1,2,Friendly,Braga,Portugal,False,Italy
+26531,2004-03-31,Scotland,Romania,1,2,Friendly,Glasgow,Scotland,False,Romania
+26536,2004-03-31,Spain,Denmark,2,0,Friendly,Gijón,Spain,False,Spain
+26539,2004-03-31,Sweden,England,1,0,Friendly,Gothenburg,Sweden,False,Sweden
+26561,2004-04-28,Belgium,Turkey,2,3,Friendly,Brussels,Belgium,False,Turkey
+26566,2004-04-28,Denmark,Scotland,1,0,Friendly,Copenhagen,Denmark,False,Denmark
+26573,2004-04-28,Italy,Spain,1,1,Friendly,Genoa,Italy,False,Draw
+26582,2004-04-28,Netherlands,Greece,4,0,Friendly,Eindhoven,Netherlands,False,Netherlands
+26587,2004-04-28,Portugal,Sweden,2,2,Friendly,Coimbra,Portugal,False,Draw
+26588,2004-04-28,Romania,Germany,5,1,Friendly,Bucharest,Romania,False,Romania
+26629,2004-05-20,France,Brazil,0,0,Friendly,Saint-Denis,France,False,Draw
+26645,2004-05-27,Estonia,Scotland,0,1,Friendly,Tallinn,Estonia,False,Scotland
+26647,2004-05-27,Germany,Malta,7,0,Friendly,Freiburg,Germany,False,Germany
+26652,2004-05-28,France,Andorra,4,0,Friendly,Montpellier,France,False,France
+26659,2004-05-29,Netherlands,Belgium,0,1,Friendly,Eindhoven,Netherlands,False,Belgium
+26660,2004-05-29,Poland,Greece,1,0,Friendly,Szczecin,Poland,False,Poland
+26661,2004-05-29,Portugal,Luxembourg,3,0,Friendly,Águeda,Portugal,False,Portugal
+26670,2004-05-30,Scotland,Trinidad and Tobago,4,1,Friendly,Edinburgh,Scotland,False,Scotland
+26672,2004-05-30,Tunisia,Italy,0,4,Friendly,Radès,Tunisia,False,Italy
+26684,2004-06-01,England,Japan,1,1,Friendly,Manchester,England,False,Draw
+26686,2004-06-01,Netherlands,Faroe Islands,3,0,Friendly,Lausanne,Switzerland,True,Netherlands
+26698,2004-06-02,Switzerland,Germany,0,2,Friendly,Basel,Switzerland,False,Germany
+26703,2004-06-03,Liechtenstein,Greece,0,2,Friendly,Vaduz,Liechtenstein,False,Greece
+26713,2004-06-05,England,Iceland,6,1,Friendly,Manchester,England,False,England
+26717,2004-06-05,Netherlands,Republic of Ireland,0,1,Friendly,Amsterdam,Netherlands,False,Republic of Ireland
+26719,2004-06-05,Portugal,Lithuania,4,1,Friendly,Setúbal,Portugal,False,Portugal
+26723,2004-06-05,Spain,Andorra,4,0,Friendly,Getafe,Spain,False,Spain
+26734,2004-06-06,France,Ukraine,1,0,Friendly,Saint-Denis,France,False,France
+26735,2004-06-06,Germany,Hungary,0,2,Friendly,Kaiserslautern,Germany,False,Hungary
+26765,2004-06-12,Portugal,Greece,1,2,UEFA Euro,Porto,Portugal,False,Greece
+26766,2004-06-12,Spain,Russia,1,0,UEFA Euro,Faro,Portugal,True,Spain
+26774,2004-06-13,France,England,2,1,UEFA Euro,Lisbon,Portugal,True,France
+26779,2004-06-14,Denmark,Italy,0,0,UEFA Euro,Guimarães,Portugal,True,Draw
+26783,2004-06-15,Germany,Netherlands,1,1,UEFA Euro,Porto,Portugal,True,Draw
+26785,2004-06-16,Greece,Spain,1,1,UEFA Euro,Porto,Portugal,True,Draw
+26786,2004-06-16,Portugal,Russia,2,0,UEFA Euro,Lisbon,Portugal,False,Portugal
+26787,2004-06-17,Croatia,France,2,2,UEFA Euro,Leiria,Portugal,True,Draw
+26788,2004-06-17,England,Switzerland,3,0,UEFA Euro,Coimbra,Portugal,True,England
+26792,2004-06-18,Italy,Sweden,1,1,UEFA Euro,Porto,Portugal,True,Draw
+26799,2004-06-19,Latvia,Germany,0,0,UEFA Euro,Porto,Portugal,True,Draw
+26801,2004-06-19,Netherlands,Czech Republic,2,3,UEFA Euro,Aveiro,Portugal,True,Czech Republic
+26817,2004-06-20,Portugal,Spain,1,0,UEFA Euro,Lisbon,Portugal,False,Portugal
+26818,2004-06-20,Russia,Greece,2,1,UEFA Euro,Faro,Portugal,True,Russia
+26823,2004-06-21,Croatia,England,2,4,UEFA Euro,Lisbon,Portugal,True,England
+26826,2004-06-21,Switzerland,France,1,3,UEFA Euro,Coimbra,Portugal,True,France
+26828,2004-06-22,Italy,Bulgaria,2,1,UEFA Euro,Guimarães,Portugal,True,Italy
+26829,2004-06-23,Germany,Czech Republic,1,2,UEFA Euro,Lisbon,Portugal,True,Czech Republic
+26832,2004-06-23,Netherlands,Latvia,3,0,UEFA Euro,Braga,Portugal,True,Netherlands
+26833,2004-06-24,Portugal,England,2,2,UEFA Euro,Lisbon,Portugal,False,Draw
+26834,2004-06-25,France,Greece,0,1,UEFA Euro,Lisbon,Portugal,True,Greece
+26837,2004-06-26,Sweden,Netherlands,0,0,UEFA Euro,Faro,Portugal,True,Draw
+26843,2004-06-30,Portugal,Netherlands,2,1,UEFA Euro,Lisbon,Portugal,False,Portugal
+26844,2004-07-01,Greece,Czech Republic,1,0,UEFA Euro,Porto,Portugal,True,Greece
+26859,2004-07-04,Portugal,Greece,0,1,UEFA Euro,Lisbon,Portugal,False,Greece
+26942,2004-08-18,Austria,Germany,1,3,Friendly,Vienna,Austria,False,Germany
+26948,2004-08-18,Czech Republic,Greece,0,0,Friendly,Prague,Czech Republic,False,Draw
+26950,2004-08-18,England,Ukraine,3,0,Friendly,Newcastle,England,False,England
+26952,2004-08-18,France,Bosnia and Herzegovina,1,1,Friendly,Rennes,France,False,Draw
+26954,2004-08-18,Iceland,Italy,2,0,Friendly,Reykjavík,Iceland,False,Iceland
+26963,2004-08-18,Norway,Belgium,2,2,Friendly,Oslo,Norway,False,Draw
+26967,2004-08-18,Scotland,Hungary,0,3,Friendly,Glasgow,Scotland,False,Hungary
+26971,2004-08-18,Spain,Venezuela,3,2,Friendly,Las Palmas,Spain,False,Spain
+26972,2004-08-18,Sweden,Netherlands,2,2,Friendly,Solna,Sweden,False,Draw
+26992,2004-09-03,Netherlands,Liechtenstein,3,0,Friendly,Utrecht,Netherlands,False,Netherlands
+26993,2004-09-03,Spain,Scotland,1,1,Friendly,Valencia,Spain,False,Draw
+26994,2004-09-04,Albania,Greece,2,1,FIFA World Cup qualification,Tirana,Albania,False,Albania
+26995,2004-09-04,Austria,England,2,2,FIFA World Cup qualification,Vienna,Austria,False,Draw
+26997,2004-09-04,Belgium,Lithuania,1,1,FIFA World Cup qualification,Charleroi,Belgium,False,Draw
+27004,2004-09-04,France,Israel,0,0,FIFA World Cup qualification,Saint-Denis,France,False,Draw
+27007,2004-09-04,Italy,Norway,2,1,FIFA World Cup qualification,Palermo,Italy,False,Italy
+27010,2004-09-04,Latvia,Portugal,0,2,FIFA World Cup qualification,Riga,Latvia,False,Portugal
+27043,2004-09-08,Bosnia and Herzegovina,Spain,1,1,FIFA World Cup qualification,Zenica,Bosnia and Herzegovina,False,Draw
+27046,2004-09-08,Faroe Islands,France,0,2,FIFA World Cup qualification,Tórshavn,Faroe Islands,False,France
+27048,2004-09-08,Germany,Brazil,1,1,Friendly,Berlin,Germany,False,Draw
+27049,2004-09-08,Greece,Turkey,0,0,FIFA World Cup qualification,Piraeus,Greece,False,Draw
+27064,2004-09-08,Moldova,Italy,0,1,FIFA World Cup qualification,Chișinău,Moldova,False,Italy
+27065,2004-09-08,Netherlands,Czech Republic,2,0,FIFA World Cup qualification,Amsterdam,Netherlands,False,Netherlands
+27069,2004-09-08,Poland,England,1,2,FIFA World Cup qualification,Chorzów,Poland,False,England
+27070,2004-09-08,Portugal,Estonia,4,0,FIFA World Cup qualification,Leiria,Portugal,False,Portugal
+27071,2004-09-08,Scotland,Slovenia,0,0,FIFA World Cup qualification,Glasgow,Scotland,False,Draw
+27113,2004-10-09,England,Wales,2,0,FIFA World Cup qualification,Manchester,England,False,England
+27115,2004-10-09,France,Republic of Ireland,0,0,FIFA World Cup qualification,Saint-Denis,France,False,Draw
+27118,2004-10-09,Iran,Germany,0,2,Friendly,Tehran,Iran,False,Germany
+27120,2004-10-09,Liechtenstein,Portugal,2,2,FIFA World Cup qualification,Vaduz,Liechtenstein,False,Draw
+27122,2004-10-09,North Macedonia,Netherlands,2,2,FIFA World Cup qualification,Skopje,North Macedonia,False,Draw
+27127,2004-10-09,Scotland,Norway,0,1,FIFA World Cup qualification,Glasgow,Scotland,False,Norway
+27129,2004-10-09,Slovenia,Italy,1,0,FIFA World Cup qualification,Celje,Slovenia,False,Slovenia
+27131,2004-10-09,Spain,Belgium,2,0,FIFA World Cup qualification,Santander,Spain,False,Spain
+27136,2004-10-09,Ukraine,Greece,1,1,FIFA World Cup qualification,Kyiv,Ukraine,False,Draw
+27153,2004-10-13,Azerbaijan,England,0,1,FIFA World Cup qualification,Baku,Azerbaijan,False,England
+27158,2004-10-13,Cyprus,France,0,2,FIFA World Cup qualification,Nicosia,Cyprus,False,France
+27165,2004-10-13,Italy,Belarus,4,3,FIFA World Cup qualification,Parma,Italy,False,Italy
+27173,2004-10-13,Lithuania,Spain,0,0,FIFA World Cup qualification,Vilnius,Lithuania,False,Draw
+27177,2004-10-13,Moldova,Scotland,1,1,FIFA World Cup qualification,Chișinău,Moldova,False,Draw
+27178,2004-10-13,Netherlands,Finland,3,1,FIFA World Cup qualification,Amsterdam,Netherlands,False,Netherlands
+27183,2004-10-13,Portugal,Russia,7,1,FIFA World Cup qualification,Lisbon,Portugal,False,Portugal
+27225,2004-11-17,Andorra,Netherlands,0,3,FIFA World Cup qualification,Barcelona,Spain,True,Netherlands
+27230,2004-11-17,Belgium,Serbia,0,2,FIFA World Cup qualification,Brussels,Belgium,False,Serbia
+27235,2004-11-17,France,Poland,0,0,Friendly,Saint-Denis,France,False,Draw
+27237,2004-11-17,Germany,Cameroon,3,0,Friendly,Leipzig,Germany,False,Germany
+27238,2004-11-17,Greece,Kazakhstan,3,1,FIFA World Cup qualification,Piraeus,Greece,False,Greece
+27243,2004-11-17,Italy,Finland,1,0,Friendly,Messina,Italy,False,Italy
+27250,2004-11-17,Luxembourg,Portugal,0,5,FIFA World Cup qualification,Luxembourg,Luxembourg,False,Portugal
+27262,2004-11-17,Scotland,Sweden,1,4,Friendly,Edinburgh,Scotland,False,Sweden
+27265,2004-11-17,Spain,England,1,0,Friendly,Madrid,Spain,False,Spain
+27352,2004-12-16,Japan,Germany,0,3,Friendly,Yokohama,Japan,False,Germany
+27365,2004-12-19,South Korea,Germany,3,1,Friendly,Busan,South Korea,False,South Korea
+27371,2004-12-21,Thailand,Germany,1,5,Friendly,Bangkok,Thailand,False,Germany
+27437,2005-02-09,Egypt,Belgium,4,0,Friendly,Cairo,Egypt,False,Egypt
+27438,2005-02-09,England,Netherlands,0,0,Friendly,Birmingham,England,False,Draw
+27439,2005-02-09,France,Sweden,1,1,Friendly,Saint-Denis,France,False,Draw
+27441,2005-02-09,Germany,Argentina,2,2,Friendly,Düsseldorf,Germany,False,Draw
+27442,2005-02-09,Greece,Denmark,2,1,FIFA World Cup qualification,Piraeus,Greece,False,Greece
+27445,2005-02-09,Republic of Ireland,Portugal,1,0,Friendly,Dublin,Republic of Ireland,False,Republic of Ireland
+27447,2005-02-09,Italy,Russia,2,0,Friendly,Cagliari,Italy,False,Italy
+27459,2005-02-09,Spain,San Marino,5,0,FIFA World Cup qualification,Almería,Spain,False,Spain
+27520,2005-03-26,Belgium,Bosnia and Herzegovina,4,1,FIFA World Cup qualification,Brussels,Belgium,False,Belgium
+27530,2005-03-26,England,Northern Ireland,4,0,FIFA World Cup qualification,Manchester,England,False,England
+27532,2005-03-26,France,Switzerland,0,0,FIFA World Cup qualification,Saint-Denis,France,False,Draw
+27533,2005-03-26,Georgia,Greece,1,3,FIFA World Cup qualification,Tbilisi,Georgia,False,Greece
+27536,2005-03-26,Italy,Scotland,2,0,FIFA World Cup qualification,Milan,Italy,False,Italy
+27542,2005-03-26,Portugal,Canada,4,1,Friendly,Barcelos,Portugal,False,Portugal
+27543,2005-03-26,Romania,Netherlands,0,2,FIFA World Cup qualification,Bucharest,Romania,False,Netherlands
+27545,2005-03-26,Slovenia,Germany,0,1,Friendly,Celje,Slovenia,False,Germany
+27547,2005-03-26,Spain,China PR,3,0,Friendly,Salamanca,Spain,False,Spain
+27571,2005-03-30,England,Azerbaijan,2,0,FIFA World Cup qualification,Newcastle,England,False,England
+27574,2005-03-30,Greece,Albania,2,0,FIFA World Cup qualification,Piraeus,Greece,False,Greece
+27576,2005-03-30,Israel,France,1,1,FIFA World Cup qualification,Ramat-Gan,Israel,False,Draw
+27577,2005-03-30,Italy,Iceland,0,0,Friendly,Padua,Italy,False,Draw
+27585,2005-03-30,Netherlands,Armenia,2,0,FIFA World Cup qualification,Eindhoven,Netherlands,False,Netherlands
+27590,2005-03-30,San Marino,Belgium,1,2,FIFA World Cup qualification,Serravalle,San Marino,False,Belgium
+27591,2005-03-30,Serbia,Spain,0,0,FIFA World Cup qualification,Belgrade,Serbia and Montenegro,True,Draw
+27592,2005-03-30,Slovakia,Portugal,1,1,FIFA World Cup qualification,Bratislava,Slovakia,False,Draw
+27624,2005-05-28,United States,England,1,2,Friendly,Chicago,United States,False,England
+27629,2005-05-31,Colombia,England,2,3,Friendly,East Rutherford,United States,True,England
+27630,2005-05-31,France,Hungary,2,1,Friendly,Metz,France,False,France
+27658,2005-06-04,Netherlands,Romania,2,0,FIFA World Cup qualification,Rotterdam,Netherlands,False,Netherlands
+27659,2005-06-04,Northern Ireland,Germany,1,4,Friendly,Belfast,Northern Ireland,False,Germany
+27660,2005-06-04,Norway,Italy,0,0,FIFA World Cup qualification,Oslo,Norway,False,Draw
+27661,2005-06-04,Portugal,Slovakia,2,0,FIFA World Cup qualification,Lisbon,Portugal,False,Portugal
+27664,2005-06-04,Scotland,Moldova,2,0,FIFA World Cup qualification,Glasgow,Scotland,False,Scotland
+27665,2005-06-04,Serbia,Belgium,0,0,FIFA World Cup qualification,Belgrade,Serbia and Montenegro,True,Draw
+27667,2005-06-04,Spain,Lithuania,1,0,FIFA World Cup qualification,Valencia,Spain,False,Spain
+27670,2005-06-04,Turkey,Greece,0,0,FIFA World Cup qualification,Istanbul,Turkey,False,Draw
+27687,2005-06-08,Belarus,Scotland,0,0,FIFA World Cup qualification,Minsk,Belarus,False,Draw
+27693,2005-06-08,Estonia,Portugal,0,1,FIFA World Cup qualification,Tallinn,Estonia,False,Portugal
+27695,2005-06-08,Finland,Netherlands,0,4,FIFA World Cup qualification,Helsinki,Finland,False,Netherlands
+27696,2005-06-08,Germany,Russia,2,2,Friendly,Mönchengladbach,Germany,False,Draw
+27697,2005-06-08,Greece,Ukraine,0,1,FIFA World Cup qualification,Piraeus,Greece,False,Ukraine
+27700,2005-06-08,Italy,Serbia,1,1,Friendly,Toronto,Canada,True,Draw
+27713,2005-06-08,Spain,Bosnia and Herzegovina,1,1,FIFA World Cup qualification,Valencia,Spain,False,Draw
+27718,2005-06-11,Ecuador,Italy,1,1,Friendly,East Rutherford,United States,True,Draw
+27728,2005-06-15,Germany,Australia,4,3,Confederations Cup,Frankfurt am Main,Germany,False,Germany
+27729,2005-06-16,Brazil,Greece,3,0,Confederations Cup,Leipzig,Germany,True,Brazil
+27735,2005-06-18,Germany,Tunisia,3,0,Confederations Cup,Cologne,Germany,False,Germany
+27747,2005-06-19,Greece,Japan,0,1,Confederations Cup,Frankfurt am Main,Germany,True,Japan
+27752,2005-06-21,Germany,Argentina,2,2,Confederations Cup,Nuremberg,Germany,False,Draw
+27754,2005-06-22,Greece,Mexico,0,0,Confederations Cup,Frankfurt am Main,Germany,True,Draw
+27756,2005-06-25,Germany,Brazil,2,3,Confederations Cup,Nuremberg,Germany,False,Brazil
+27760,2005-06-29,Germany,Mexico,4,3,Confederations Cup,Leipzig,Germany,False,Germany
+27838,2005-08-17,Austria,Scotland,2,2,Friendly,Graz,Austria,False,Draw
+27840,2005-08-17,Belgium,Greece,2,0,Friendly,Brussels,Belgium,False,Belgium
+27843,2005-08-17,Denmark,England,4,1,Friendly,Copenhagen,Denmark,False,Denmark
+27847,2005-08-17,France,Ivory Coast,3,0,Friendly,Montpellier,France,False,France
+27851,2005-08-17,Republic of Ireland,Italy,1,2,Friendly,Dublin,Republic of Ireland,False,Italy
+27864,2005-08-17,Netherlands,Germany,2,2,Friendly,Rotterdam,Netherlands,False,Draw
+27869,2005-08-17,Portugal,Egypt,2,0,Friendly,Ponta Delgada,Portugal,False,Portugal
+27872,2005-08-17,Spain,Uruguay,2,0,Friendly,Gijón,Spain,False,Spain
+27885,2005-09-03,Armenia,Netherlands,0,1,FIFA World Cup qualification,Yerevan,Armenia,False,Netherlands
+27888,2005-09-03,Bosnia and Herzegovina,Belgium,1,0,FIFA World Cup qualification,Zenica,Bosnia and Herzegovina,False,Bosnia and Herzegovina
+27891,2005-09-03,France,Faroe Islands,3,0,FIFA World Cup qualification,Lens,France,False,France
+27903,2005-09-03,Portugal,Luxembourg,6,0,FIFA World Cup qualification,Faro,Portugal,False,Portugal
+27906,2005-09-03,Scotland,Italy,1,1,FIFA World Cup qualification,Glasgow,Scotland,False,Draw
+27908,2005-09-03,Slovakia,Germany,2,0,Friendly,Bratislava,Slovakia,False,Slovakia
+27910,2005-09-03,Spain,Canada,2,1,Friendly,Santander,Spain,False,Spain
+27917,2005-09-03,Wales,England,0,1,FIFA World Cup qualification,Cardiff,Wales,False,England
+27932,2005-09-07,Belarus,Italy,1,4,FIFA World Cup qualification,Minsk,Belarus,False,Italy
+27933,2005-09-07,Belgium,San Marino,8,0,FIFA World Cup qualification,Antwerp,Belgium,False,Belgium
+27941,2005-09-07,Germany,South Africa,4,2,Friendly,Bremen,Germany,False,Germany
+27944,2005-09-07,Republic of Ireland,France,0,1,FIFA World Cup qualification,Dublin,Republic of Ireland,False,France
+27946,2005-09-07,Kazakhstan,Greece,1,2,FIFA World Cup qualification,Almaty,Kazakhstan,False,Greece
+27953,2005-09-07,Netherlands,Andorra,4,0,FIFA World Cup qualification,Eindhoven,Netherlands,False,Netherlands
+27954,2005-09-07,Northern Ireland,England,1,0,FIFA World Cup qualification,Belfast,Northern Ireland,False,Northern Ireland
+27955,2005-09-07,Norway,Scotland,1,2,FIFA World Cup qualification,Oslo,Norway,False,Scotland
+27957,2005-09-07,Russia,Portugal,0,0,FIFA World Cup qualification,Moscow,Russia,False,Draw
+27958,2005-09-07,Spain,Serbia,1,1,FIFA World Cup qualification,Madrid,Spain,False,Draw
+27970,2005-10-08,Belgium,Spain,0,2,FIFA World Cup qualification,Brussels,Belgium,False,Spain
+27981,2005-10-08,Czech Republic,Netherlands,0,2,FIFA World Cup qualification,Prague,Czech Republic,False,Netherlands
+27982,2005-10-08,Denmark,Greece,1,0,FIFA World Cup qualification,Copenhagen,Denmark,False,Denmark
+27984,2005-10-08,England,Austria,1,0,FIFA World Cup qualification,Manchester,England,False,England
+27989,2005-10-08,Italy,Slovenia,1,0,FIFA World Cup qualification,Palermo,Italy,False,Italy
+27998,2005-10-08,Portugal,Liechtenstein,2,1,FIFA World Cup qualification,Aveiro,Portugal,False,Portugal
+28001,2005-10-08,Scotland,Belarus,0,1,FIFA World Cup qualification,Glasgow,Scotland,False,Belarus
+28006,2005-10-08,Switzerland,France,1,1,FIFA World Cup qualification,Berne,Switzerland,False,Draw
+28008,2005-10-08,Turkey,Germany,2,1,Friendly,Istanbul,Turkey,False,Turkey
+28027,2005-10-12,England,Poland,2,1,FIFA World Cup qualification,Manchester,England,False,England
+28029,2005-10-12,France,Cyprus,4,0,FIFA World Cup qualification,Saint-Denis,France,False,France
+28030,2005-10-12,Germany,China PR,1,0,Friendly,Hamburg,Germany,False,Germany
+28031,2005-10-12,Greece,Georgia,1,0,FIFA World Cup qualification,Piraeus,Greece,False,Greece
+28035,2005-10-12,Italy,Moldova,2,1,FIFA World Cup qualification,Lecce,Italy,False,Italy
+28038,2005-10-12,Lithuania,Belgium,1,1,FIFA World Cup qualification,Vilnius,Lithuania,False,Draw
+28041,2005-10-12,Netherlands,North Macedonia,0,0,FIFA World Cup qualification,Amsterdam,Netherlands,False,Draw
+28044,2005-10-12,Portugal,Latvia,3,0,FIFA World Cup qualification,Porto,Portugal,False,Portugal
+28045,2005-10-12,San Marino,Spain,0,6,FIFA World Cup qualification,Serravalle,San Marino,False,Spain
+28048,2005-10-12,Slovenia,Scotland,0,3,FIFA World Cup qualification,Celje,Slovenia,False,Scotland
+28062,2005-11-09,France,Costa Rica,3,2,Friendly,Fort-de-France,Martinique,True,France
+28069,2005-11-12,England,Argentina,3,2,Friendly,Geneva,Switzerland,True,England
+28071,2005-11-12,France,Germany,0,0,Friendly,Saint-Denis,France,False,Draw
+28074,2005-11-12,Netherlands,Italy,1,3,Friendly,Amsterdam,Netherlands,False,Italy
+28076,2005-11-12,Portugal,Croatia,2,0,Friendly,Coimbra,Portugal,False,Portugal
+28078,2005-11-12,Scotland,United States,1,1,Friendly,Glasgow,Scotland,False,Draw
+28080,2005-11-12,Spain,Slovakia,5,1,FIFA World Cup qualification,Madrid,Spain,False,Spain
+28090,2005-11-15,Northern Ireland,Portugal,1,1,Friendly,Belfast,Northern Ireland,False,Draw
+28097,2005-11-16,Greece,Hungary,2,1,Friendly,Piraeus,Greece,False,Greece
+28098,2005-11-16,Ivory Coast,Italy,1,1,Friendly,Geneva,Switzerland,True,Draw
+28107,2005-11-16,Slovakia,Spain,1,1,FIFA World Cup qualification,Bratislava,Slovakia,False,Draw
+28199,2006-01-21,Greece,South Korea,1,1,Friendly,Riyadh,Saudi Arabia,True,Draw
+28216,2006-01-25,Saudi Arabia,Greece,1,1,Friendly,Riyadh,Saudi Arabia,False,Draw
+28285,2006-02-28,Greece,Belarus,1,0,Cyprus International Tournament,Limassol,Cyprus,True,Greece
+28293,2006-03-01,England,Uruguay,2,1,Friendly,Liverpool,England,False,England
+28295,2006-03-01,France,Slovakia,1,2,Friendly,Saint-Denis,France,False,Slovakia
+28301,2006-03-01,Italy,Germany,4,1,Friendly,Florence,Italy,False,Italy
+28302,2006-03-01,Kazakhstan,Greece,0,2,Cyprus International Tournament,Nicosia,Cyprus,True,Greece
+28305,2006-03-01,Luxembourg,Belgium,0,2,Friendly,Luxembourg,Luxembourg,False,Belgium
+28309,2006-03-01,Netherlands,Ecuador,1,0,Friendly,Amsterdam,Netherlands,False,Netherlands
+28317,2006-03-01,Saudi Arabia,Portugal,0,3,Friendly,Düsseldorf,Germany,True,Portugal
+28318,2006-03-01,Scotland,Switzerland,1,3,Friendly,Glasgow,Scotland,False,Switzerland
+28321,2006-03-01,Spain,Ivory Coast,3,2,Friendly,Valladolid,Spain,False,Spain
+28328,2006-03-22,Germany,United States,4,1,Friendly,Dortmund,Germany,False,Germany
+28379,2006-05-11,Belgium,Saudi Arabia,2,1,Friendly,Sittard,Netherlands,True,Belgium
+28380,2006-05-11,Bulgaria,Scotland,1,5,Kirin Cup,Kobe,Japan,True,Scotland
+28382,2006-05-13,Japan,Scotland,0,0,Kirin Cup,Saitama,Japan,False,Draw
+28389,2006-05-20,Slovakia,Belgium,1,1,Friendly,Trnava,Slovakia,False,Draw
+28399,2006-05-24,Belgium,Turkey,3,3,Friendly,Genk,Belgium,False,Draw
+28405,2006-05-25,Australia,Greece,1,0,Friendly,Melbourne,Australia,False,Australia
+28413,2006-05-27,France,Mexico,1,0,Friendly,Saint-Denis,France,False,France
+28415,2006-05-27,Germany,Luxembourg,7,0,Friendly,Freiburg,Germany,False,Germany
+28416,2006-05-27,Netherlands,Cameroon,1,0,Friendly,Rotterdam,Netherlands,False,Netherlands
+28417,2006-05-27,Portugal,Cape Verde,4,1,Friendly,Évora,Portugal,False,Portugal
+28420,2006-05-27,Spain,Russia,0,0,Friendly,Albacete,Spain,False,Draw
+28435,2006-05-30,England,Hungary,3,1,Friendly,Manchester,England,False,England
+28436,2006-05-30,Germany,Japan,2,2,Friendly,Leverkusen,Germany,False,Draw
+28443,2006-05-31,France,Denmark,2,0,Friendly,Lens,France,False,France
+28451,2006-05-31,Switzerland,Italy,1,1,Friendly,Geneva,Switzerland,False,Draw
+28452,2006-06-01,Netherlands,Mexico,2,1,Friendly,Eindhoven,Netherlands,False,Netherlands
+28457,2006-06-02,Germany,Colombia,3,0,Friendly,Mönchengladbach,Germany,False,Germany
+28458,2006-06-02,Italy,Ukraine,0,0,Friendly,Lausanne,Switzerland,True,Draw
+28465,2006-06-03,England,Jamaica,6,0,Friendly,Manchester,England,False,England
+28466,2006-06-03,Luxembourg,Portugal,0,3,Friendly,Metz,France,True,Portugal
+28471,2006-06-03,Spain,Egypt,2,0,Friendly,Elche,Spain,False,Spain
+28478,2006-06-04,Netherlands,Australia,1,1,Friendly,Rotterdam,Netherlands,False,Draw
+28483,2006-06-07,France,China PR,3,1,Friendly,Saint-Étienne,France,False,France
+28484,2006-06-07,Spain,Croatia,2,1,Friendly,Geneva,Switzerland,True,Spain
+28486,2006-06-09,Germany,Costa Rica,4,2,FIFA World Cup,Munich,Germany,False,Germany
+28489,2006-06-10,England,Paraguay,1,0,FIFA World Cup,Frankfurt am Main,Germany,True,England
+28491,2006-06-11,Angola,Portugal,0,1,FIFA World Cup,Cologne,Germany,True,Portugal
+28493,2006-06-11,Serbia,Netherlands,0,1,FIFA World Cup,Leipzig,Germany,True,Netherlands
+28495,2006-06-12,Italy,Ghana,2,0,FIFA World Cup,Hanover,Germany,True,Italy
+28498,2006-06-13,France,Switzerland,0,0,FIFA World Cup,Stuttgart,Germany,True,Draw
+28500,2006-06-14,Germany,Poland,1,0,FIFA World Cup,Dortmund,Germany,False,Germany
+28501,2006-06-14,Spain,Ukraine,4,0,FIFA World Cup,Leipzig,Germany,True,Spain
+28504,2006-06-15,England,Trinidad and Tobago,2,0,FIFA World Cup,Nuremberg,Germany,True,England
+28508,2006-06-16,Netherlands,Ivory Coast,2,1,FIFA World Cup,Stuttgart,Germany,True,Netherlands
+28510,2006-06-17,Italy,United States,1,1,FIFA World Cup,Kaiserslautern,Germany,True,Draw
+28511,2006-06-17,Portugal,Iran,2,0,FIFA World Cup,Frankfurt am Main,Germany,True,Portugal
+28513,2006-06-18,France,South Korea,1,1,FIFA World Cup,Leipzig,Germany,True,Draw
+28516,2006-06-19,Spain,Tunisia,3,1,FIFA World Cup,Stuttgart,Germany,True,Spain
+28519,2006-06-20,Germany,Ecuador,3,0,FIFA World Cup,Berlin,Germany,False,Germany
+28521,2006-06-20,Sweden,England,2,2,FIFA World Cup,Cologne,Germany,True,Draw
+28524,2006-06-21,Netherlands,Argentina,0,0,FIFA World Cup,Frankfurt am Main,Germany,True,Draw
+28525,2006-06-21,Portugal,Mexico,2,1,FIFA World Cup,Gelsenkirchen,Germany,True,Portugal
+28527,2006-06-22,Czech Republic,Italy,0,2,FIFA World Cup,Hamburg,Germany,True,Italy
+28530,2006-06-23,Saudi Arabia,Spain,0,1,FIFA World Cup,Kaiserslautern,Germany,True,Spain
+28532,2006-06-23,Togo,France,0,2,FIFA World Cup,Cologne,Germany,True,France
+28535,2006-06-24,Germany,Sweden,2,0,FIFA World Cup,Munich,Germany,False,Germany
+28538,2006-06-25,England,Ecuador,1,0,FIFA World Cup,Stuttgart,Germany,True,England
+28540,2006-06-25,Portugal,Netherlands,1,0,FIFA World Cup,Nuremberg,Germany,True,Portugal
+28542,2006-06-26,Italy,Australia,1,0,FIFA World Cup,Kaiserslautern,Germany,True,Italy
+28546,2006-06-27,Spain,France,1,3,FIFA World Cup,Hanover,Germany,True,France
+28548,2006-06-30,Germany,Argentina,1,1,FIFA World Cup,Berlin,Germany,False,Draw
+28549,2006-06-30,Italy,Ukraine,3,0,FIFA World Cup,Hamburg,Germany,True,Italy
+28551,2006-07-01,Brazil,France,0,1,FIFA World Cup,Frankfurt am Main,Germany,True,France
+28552,2006-07-01,England,Portugal,0,0,FIFA World Cup,Gelsenkirchen,Germany,True,Draw
+28554,2006-07-04,Germany,Italy,0,2,FIFA World Cup,Dortmund,Germany,False,Italy
+28556,2006-07-05,Portugal,France,0,1,FIFA World Cup,Munich,Germany,True,France
+28558,2006-07-08,Germany,Portugal,3,1,FIFA World Cup,Stuttgart,Germany,False,Germany
+28560,2006-07-09,Italy,France,1,1,FIFA World Cup,Berlin,Germany,True,Draw
+28587,2006-08-15,Iceland,Spain,0,0,Friendly,Reykjavík,Iceland,False,Draw
+28596,2006-08-16,Belgium,Kazakhstan,0,0,UEFA Euro qualification,Brussels,Belgium,False,Draw
+28597,2006-08-16,Bosnia and Herzegovina,France,1,2,Friendly,Sarajevo,Bosnia and Herzegovina,False,France
+28604,2006-08-16,England,Greece,4,0,Friendly,Manchester,England,False,England
+28608,2006-08-16,Germany,Sweden,3,0,Friendly,Gelsenkirchen,Germany,False,Germany
+28612,2006-08-16,Republic of Ireland,Netherlands,0,4,Friendly,Dublin,Republic of Ireland,False,Netherlands
+28613,2006-08-16,Italy,Croatia,0,2,Friendly,Livorno,Italy,False,Croatia
+28645,2006-09-01,Denmark,Portugal,4,2,Friendly,Brøndby,Denmark,False,Denmark
+28654,2006-09-02,England,Andorra,5,0,UEFA Euro qualification,Manchester,England,False,England
+28657,2006-09-02,Georgia,France,0,3,UEFA Euro qualification,Tbilisi,Georgia,False,France
+28658,2006-09-02,Germany,Republic of Ireland,1,0,UEFA Euro qualification,Stuttgart,Germany,False,Germany
+28660,2006-09-02,Italy,Lithuania,1,1,UEFA Euro qualification,Naples,Italy,False,Draw
+28664,2006-09-02,Luxembourg,Netherlands,0,1,UEFA Euro qualification,Luxembourg,Luxembourg,False,Netherlands
+28666,2006-09-02,Moldova,Greece,0,1,UEFA Euro qualification,Chișinău,Moldova,False,Greece
+28671,2006-09-02,Scotland,Faroe Islands,6,0,UEFA Euro qualification,Glasgow,Scotland,False,Scotland
+28676,2006-09-02,Spain,Liechtenstein,4,0,UEFA Euro qualification,Badajoz,Spain,False,Spain
+28700,2006-09-06,Armenia,Belgium,0,1,UEFA Euro qualification,Yerevan,Armenia,False,Belgium
+28708,2006-09-06,Finland,Portugal,1,1,UEFA Euro qualification,Helsinki,Finland,False,Draw
+28709,2006-09-06,France,Italy,3,1,UEFA Euro qualification,Saint-Denis,France,False,France
+28718,2006-09-06,Lithuania,Scotland,1,2,UEFA Euro qualification,Kaunas,Lithuania,False,Scotland
+28720,2006-09-06,North Macedonia,England,0,1,UEFA Euro qualification,Skopje,North Macedonia,False,England
+28721,2006-09-06,Netherlands,Belarus,3,0,UEFA Euro qualification,Eindhoven,Netherlands,False,Netherlands
+28722,2006-09-06,Northern Ireland,Spain,3,2,UEFA Euro qualification,Belfast,Northern Ireland,False,Northern Ireland
+28728,2006-09-06,San Marino,Germany,0,13,UEFA Euro qualification,Serravalle,San Marino,False,Germany
+28780,2006-10-07,Bulgaria,Netherlands,1,1,UEFA Euro qualification,Sofia,Bulgaria,False,Draw
+28789,2006-10-07,England,North Macedonia,0,0,UEFA Euro qualification,Manchester,England,False,Draw
+28792,2006-10-07,Germany,Georgia,2,0,Friendly,Rostock,Germany,False,Germany
+28793,2006-10-07,Greece,Norway,1,0,UEFA Euro qualification,Piraeus,Greece,False,Greece
+28796,2006-10-07,Italy,Ukraine,2,0,UEFA Euro qualification,Rome,Italy,False,Italy
+28803,2006-10-07,Portugal,Azerbaijan,3,0,UEFA Euro qualification,Porto,Portugal,False,Portugal
+28806,2006-10-07,Scotland,France,1,0,UEFA Euro qualification,Glasgow,Scotland,False,Scotland
+28807,2006-10-07,Serbia,Belgium,1,0,UEFA Euro qualification,Belgrade,Serbia,False,Serbia
+28810,2006-10-07,Sweden,Spain,2,0,UEFA Euro qualification,Solna,Sweden,False,Sweden
+28835,2006-10-11,Belgium,Azerbaijan,3,0,UEFA Euro qualification,Brussels,Belgium,False,Belgium
+28836,2006-10-11,Bosnia and Herzegovina,Greece,0,4,UEFA Euro qualification,Zenica,Bosnia and Herzegovina,False,Greece
+28837,2006-10-11,Croatia,England,2,0,UEFA Euro qualification,Zagreb,Croatia,False,Croatia
+28838,2006-10-11,France,Faroe Islands,5,0,UEFA Euro qualification,Montbéliard,France,False,France
+28839,2006-10-11,Georgia,Italy,1,3,UEFA Euro qualification,Tbilisi,Georgia,False,Italy
+28850,2006-10-11,Netherlands,Albania,2,1,UEFA Euro qualification,Amsterdam,Netherlands,False,Netherlands
+28856,2006-10-11,Poland,Portugal,2,1,UEFA Euro qualification,Chorzów,Poland,False,Poland
+28861,2006-10-11,Slovakia,Germany,1,4,UEFA Euro qualification,Bratislava,Slovakia,False,Germany
+28862,2006-10-11,Spain,Argentina,2,1,Friendly,Murcia,Spain,False,Spain
+28865,2006-10-11,Ukraine,Scotland,2,0,UEFA Euro qualification,Kyiv,Ukraine,False,Ukraine
+28893,2006-11-15,Belgium,Poland,0,1,UEFA Euro qualification,Brussels,Belgium,False,Poland
+28898,2006-11-15,Cyprus,Germany,1,1,UEFA Euro qualification,Nicosia,Cyprus,False,Draw
+28903,2006-11-15,France,Greece,1,0,Friendly,Saint-Denis,France,False,France
+28910,2006-11-15,Italy,Turkey,1,1,Friendly,Bergamo,Italy,False,Draw
+28919,2006-11-15,Netherlands,England,1,1,Friendly,Amsterdam,Netherlands,False,Draw
+28920,2006-11-15,Portugal,Kazakhstan,3,0,UEFA Euro qualification,Coimbra,Portugal,False,Portugal
+28923,2006-11-15,Spain,Romania,0,1,Friendly,Cádiz,Spain,False,Romania
+29082,2007-02-06,Greece,South Korea,0,1,Friendly,London,England,True,South Korea
+29088,2007-02-06,Portugal,Brazil,2,0,Friendly,London,England,True,Portugal
+29092,2007-02-07,Belgium,Czech Republic,0,2,Friendly,Brussels,Belgium,False,Czech Republic
+29098,2007-02-07,England,Spain,0,1,Friendly,Manchester,England,False,Spain
+29099,2007-02-07,France,Argentina,0,1,Friendly,Saint-Denis,France,False,Argentina
+29101,2007-02-07,Germany,Switzerland,3,1,Friendly,Düsseldorf,Germany,False,Germany
+29108,2007-02-07,Netherlands,Russia,4,1,Friendly,Amsterdam,Netherlands,False,Netherlands
+29156,2007-03-24,Czech Republic,Germany,1,2,UEFA Euro qualification,Prague,Czech Republic,False,Germany
+29161,2007-03-24,Greece,Turkey,1,4,UEFA Euro qualification,Piraeus,Greece,False,Turkey
+29165,2007-03-24,Israel,England,0,0,UEFA Euro qualification,Ramat-Gan,Israel,False,Draw
+29170,2007-03-24,Lithuania,France,0,1,UEFA Euro qualification,Kaunas,Lithuania,False,France
+29174,2007-03-24,Netherlands,Romania,0,0,UEFA Euro qualification,Rotterdam,Netherlands,False,Draw
+29178,2007-03-24,Portugal,Belgium,4,0,UEFA Euro qualification,Lisbon,Portugal,False,Portugal
+29180,2007-03-24,Scotland,Georgia,2,1,UEFA Euro qualification,Glasgow,Scotland,False,Scotland
+29183,2007-03-24,Spain,Denmark,2,1,UEFA Euro qualification,Madrid,Spain,False,Spain
+29209,2007-03-28,Andorra,England,0,3,UEFA Euro qualification,Barcelona,Spain,True,England
+29215,2007-03-28,France,Austria,1,0,Friendly,Saint-Denis,France,False,France
+29217,2007-03-28,Germany,Denmark,0,1,Friendly,Duisburg,Germany,False,Denmark
+29221,2007-03-28,Italy,Scotland,2,0,UEFA Euro qualification,Bari,Italy,False,Italy
+29223,2007-03-28,Malta,Greece,0,1,UEFA Euro qualification,Attard,Malta,False,Greece
+29228,2007-03-28,Serbia,Portugal,1,1,UEFA Euro qualification,Belgrade,Serbia,False,Draw
+29229,2007-03-28,Slovenia,Netherlands,0,1,UEFA Euro qualification,Celje,Slovenia,False,Netherlands
+29231,2007-03-28,Spain,Iceland,1,0,UEFA Euro qualification,Palma de Mallorca,Spain,False,Spain
+29276,2007-05-30,Austria,Scotland,0,1,Friendly,Vienna,Austria,False,Scotland
+29278,2007-06-01,England,Brazil,1,1,Friendly,London,England,False,Draw
+29288,2007-06-02,Belgium,Portugal,1,2,UEFA Euro qualification,Brussels,Belgium,False,Portugal
+29295,2007-06-02,Faroe Islands,Italy,1,2,UEFA Euro qualification,Tórshavn,Faroe Islands,False,Italy
+29297,2007-06-02,France,Ukraine,2,0,UEFA Euro qualification,Saint-Denis,France,False,France
+29298,2007-06-02,Germany,San Marino,6,0,UEFA Euro qualification,Nuremberg,Germany,False,Germany
+29299,2007-06-02,Greece,Hungary,2,0,UEFA Euro qualification,Heraklion,Greece,False,Greece
+29303,2007-06-02,South Korea,Netherlands,0,2,Friendly,Seoul,South Korea,False,Netherlands
+29304,2007-06-02,Latvia,Spain,0,2,UEFA Euro qualification,Riga,Latvia,False,Spain
+29338,2007-06-05,Kuwait,Portugal,1,1,Friendly,Salmiya,Kuwait,False,Draw
+29348,2007-06-06,Estonia,England,0,3,UEFA Euro qualification,Tallinn,Estonia,False,England
+29349,2007-06-06,Faroe Islands,Scotland,0,2,UEFA Euro qualification,Toftir,Faroe Islands,False,Scotland
+29350,2007-06-06,Finland,Belgium,2,0,UEFA Euro qualification,Helsinki,Finland,False,Finland
+29351,2007-06-06,France,Georgia,1,0,UEFA Euro qualification,Auxerre,France,False,France
+29352,2007-06-06,Germany,Slovakia,2,1,UEFA Euro qualification,Hamburg,Germany,False,Germany
+29353,2007-06-06,Greece,Moldova,2,1,UEFA Euro qualification,Heraklion,Greece,False,Greece
+29357,2007-06-06,Liechtenstein,Spain,0,2,UEFA Euro qualification,Vaduz,Liechtenstein,False,Spain
+29358,2007-06-06,Lithuania,Italy,0,2,UEFA Euro qualification,Kaunas,Lithuania,False,Italy
+29363,2007-06-06,Thailand,Netherlands,1,3,Friendly,Bangkok,Thailand,False,Netherlands
+29561,2007-08-22,Armenia,Portugal,1,1,UEFA Euro qualification,Yerevan,Armenia,False,Draw
+29565,2007-08-22,Belgium,Serbia,3,2,UEFA Euro qualification,Brussels,Belgium,False,Belgium
+29573,2007-08-22,England,Germany,1,2,Friendly,London,England,False,Germany
+29576,2007-08-22,Greece,Spain,2,3,Friendly,Salonica,Greece,False,Spain
+29577,2007-08-22,Hungary,Italy,3,1,Friendly,Budapest,Hungary,False,Hungary
+29596,2007-08-22,Scotland,South Africa,1,0,Friendly,Aberdeen,Scotland,False,Scotland
+29597,2007-08-22,Slovakia,France,0,1,Friendly,Trnava,Slovakia,False,France
+29600,2007-08-22,Switzerland,Netherlands,2,1,Friendly,Geneva,Switzerland,False,Switzerland
+29647,2007-09-08,England,Israel,3,0,UEFA Euro qualification,London,England,False,England
+29652,2007-09-08,Iceland,Spain,1,1,UEFA Euro qualification,Reykjavík,Iceland,False,Draw
+29653,2007-09-08,Italy,France,0,0,UEFA Euro qualification,Milan,Italy,False,Draw
+29661,2007-09-08,Netherlands,Bulgaria,2,0,UEFA Euro qualification,Amsterdam,Netherlands,False,Netherlands
+29664,2007-09-08,Portugal,Poland,2,2,UEFA Euro qualification,Lisbon,Portugal,False,Draw
+29668,2007-09-08,Scotland,Lithuania,3,1,UEFA Euro qualification,Glasgow,Scotland,False,Scotland
+29676,2007-09-08,Wales,Germany,0,2,UEFA Euro qualification,Cardiff,Wales,False,Germany
+29694,2007-09-12,Albania,Netherlands,0,1,UEFA Euro qualification,Tirana,Albania,False,Netherlands
+29704,2007-09-12,England,Russia,3,0,UEFA Euro qualification,London,England,False,England
+29706,2007-09-12,France,Scotland,0,1,UEFA Euro qualification,Paris,France,False,Scotland
+29707,2007-09-12,Germany,Romania,3,1,Friendly,Cologne,Germany,False,Germany
+29710,2007-09-12,Kazakhstan,Belgium,2,2,UEFA Euro qualification,Almaty,Kazakhstan,False,Draw
+29716,2007-09-12,Norway,Greece,2,2,UEFA Euro qualification,Oslo,Norway,False,Draw
+29718,2007-09-12,Portugal,Serbia,1,1,UEFA Euro qualification,Lisbon,Portugal,False,Draw
+29723,2007-09-12,Spain,Latvia,2,0,UEFA Euro qualification,Oviedo,Spain,False,Spain
+29725,2007-09-12,Ukraine,Italy,1,2,UEFA Euro qualification,Kyiv,Ukraine,False,Italy
+29747,2007-10-13,Azerbaijan,Portugal,0,2,UEFA Euro qualification,Baku,Azerbaijan,False,Portugal
+29749,2007-10-13,Belgium,Finland,0,0,UEFA Euro qualification,Brussels,Belgium,False,Draw
+29752,2007-10-13,Denmark,Spain,1,3,UEFA Euro qualification,Aarhus,Denmark,False,Spain
+29756,2007-10-13,England,Estonia,3,0,UEFA Euro qualification,London,England,False,England
+29757,2007-10-13,Faroe Islands,France,0,6,UEFA Euro qualification,Tórshavn,Faroe Islands,False,France
+29758,2007-10-13,Greece,Bosnia and Herzegovina,3,2,UEFA Euro qualification,Athens,Greece,False,Greece
+29761,2007-10-13,Republic of Ireland,Germany,0,0,UEFA Euro qualification,Dublin,Republic of Ireland,False,Draw
+29762,2007-10-13,Italy,Georgia,2,0,UEFA Euro qualification,Genoa,Italy,False,Italy
+29768,2007-10-13,Romania,Netherlands,1,0,UEFA Euro qualification,Constanţa,Romania,False,Romania
+29769,2007-10-13,Scotland,Ukraine,3,1,UEFA Euro qualification,Glasgow,Scotland,False,Scotland
+29788,2007-10-17,Belgium,Armenia,3,0,UEFA Euro qualification,Brussels,Belgium,False,Belgium
+29798,2007-10-17,Finland,Spain,0,0,Friendly,Helsinki,Finland,False,Draw
+29799,2007-10-17,France,Lithuania,2,0,UEFA Euro qualification,Nantes,France,False,France
+29800,2007-10-17,Georgia,Scotland,2,0,UEFA Euro qualification,Tbilisi,Georgia,False,Georgia
+29801,2007-10-17,Germany,Czech Republic,0,3,UEFA Euro qualification,Munich,Germany,False,Czech Republic
+29804,2007-10-17,Italy,South Africa,2,0,Friendly,Siena,Italy,False,Italy
+29806,2007-10-17,Kazakhstan,Portugal,1,2,UEFA Euro qualification,Almaty,Kazakhstan,False,Portugal
+29813,2007-10-17,Netherlands,Slovenia,2,0,UEFA Euro qualification,Eindhoven,Netherlands,False,Netherlands
+29816,2007-10-17,Russia,England,2,1,UEFA Euro qualification,Moscow,Russia,False,Russia
+29821,2007-10-17,Turkey,Greece,0,1,UEFA Euro qualification,Istanbul,Turkey,False,Greece
+29855,2007-11-16,Austria,England,0,1,Friendly,Vienna,Austria,False,England
+29857,2007-11-16,France,Morocco,2,2,Friendly,Saint-Denis,France,False,Draw
+29871,2007-11-17,Germany,Cyprus,4,0,UEFA Euro qualification,Hanover,Germany,False,Germany
+29872,2007-11-17,Greece,Malta,5,0,UEFA Euro qualification,Athens,Greece,False,Greece
+29880,2007-11-17,Netherlands,Luxembourg,1,0,UEFA Euro qualification,Rotterdam,Netherlands,False,Netherlands
+29884,2007-11-17,Poland,Belgium,2,0,UEFA Euro qualification,Chorzów,Poland,False,Poland
+29885,2007-11-17,Portugal,Armenia,1,0,UEFA Euro qualification,Leiria,Portugal,False,Portugal
+29886,2007-11-17,Scotland,Italy,1,2,UEFA Euro qualification,Glasgow,Scotland,False,Italy
+29889,2007-11-17,Spain,Sweden,3,0,UEFA Euro qualification,Madrid,Spain,False,Spain
+29912,2007-11-21,Azerbaijan,Belgium,0,1,UEFA Euro qualification,Baku,Azerbaijan,False,Belgium
+29913,2007-11-21,Belarus,Netherlands,2,1,UEFA Euro qualification,Minsk,Belarus,False,Belarus
+29919,2007-11-21,England,Croatia,2,3,UEFA Euro qualification,London,England,False,Croatia
+29922,2007-11-21,Germany,Wales,0,0,UEFA Euro qualification,Frankfurt am Main,Germany,False,Draw
+29924,2007-11-21,Hungary,Greece,1,2,UEFA Euro qualification,Budapest,Hungary,False,Greece
+29926,2007-11-21,Italy,Faroe Islands,3,1,UEFA Euro qualification,Modena,Italy,False,Italy
+29934,2007-11-21,Portugal,Finland,0,0,UEFA Euro qualification,Porto,Portugal,False,Draw
+29940,2007-11-21,Spain,Northern Ireland,1,0,UEFA Euro qualification,Las Palmas,Spain,False,Spain
+29944,2007-11-21,Ukraine,France,2,2,UEFA Euro qualification,Kyiv,Ukraine,False,Draw
+30076,2008-02-06,Austria,Germany,0,3,Friendly,Vienna,Austria,False,Germany
+30080,2008-02-06,Croatia,Netherlands,0,3,Friendly,Split,Croatia,False,Netherlands
+30085,2008-02-06,England,Switzerland,2,1,Friendly,London,England,False,England
+30087,2008-02-06,Greece,Finland,2,1,Friendly,Nicosia,Cyprus,True,Greece
+30094,2008-02-06,Italy,Portugal,3,1,Friendly,Zürich,Switzerland,True,Italy
+30108,2008-02-06,Spain,France,1,0,Friendly,Málaga,Spain,False,Spain
+30158,2008-03-26,Austria,Netherlands,3,4,Friendly,Vienna,Austria,False,Netherlands
+30163,2008-03-26,Belgium,Morocco,1,4,Friendly,Brussels,Belgium,False,Morocco
+30174,2008-03-26,France,England,1,0,Friendly,Saint-Denis,France,False,France
+30193,2008-03-26,Portugal,Greece,1,2,Friendly,Düsseldorf,Germany,True,Greece
+30197,2008-03-26,Scotland,Croatia,1,1,Friendly,Glasgow,Scotland,False,Draw
+30201,2008-03-26,Spain,Italy,1,0,Friendly,Elche,Spain,False,Spain
+30205,2008-03-26,Switzerland,Germany,0,4,Friendly,Basel,Switzerland,False,Germany
+30250,2008-05-19,Greece,Cyprus,2,0,Friendly,Patras,Greece,False,Greece
+30266,2008-05-24,Hungary,Greece,3,2,Friendly,Budapest,Hungary,False,Hungary
+30271,2008-05-24,Netherlands,Ukraine,3,0,Friendly,Rotterdam,Netherlands,False,Netherlands
+30287,2008-05-27,France,Ecuador,2,0,Friendly,Grenoble,France,False,France
+30288,2008-05-27,Germany,Belarus,2,2,Friendly,Kaiserslautern,Germany,False,Draw
+30297,2008-05-28,England,United States,2,0,Friendly,London,England,False,England
+30305,2008-05-29,Netherlands,Denmark,1,1,Friendly,Eindhoven,Netherlands,False,Draw
+30307,2008-05-30,Czech Republic,Scotland,3,1,Friendly,Prague,Czech Republic,False,Czech Republic
+30309,2008-05-30,Italy,Belgium,3,1,Friendly,Florence,Italy,False,Italy
+30317,2008-05-31,France,Paraguay,0,0,Friendly,Toulouse,France,False,Draw
+30318,2008-05-31,Germany,Serbia,2,1,Friendly,Gelsenkirchen,Germany,False,Germany
+30324,2008-05-31,Portugal,Georgia,2,0,Friendly,Viseu,Portugal,False,Portugal
+30328,2008-05-31,Spain,Peru,2,1,Friendly,Huelva,Spain,False,Spain
+30333,2008-06-01,Armenia,Greece,0,0,Friendly,Offenbach am Main,Germany,True,Draw
+30346,2008-06-01,Netherlands,Wales,2,0,Friendly,Rotterdam,Netherlands,False,Netherlands
+30350,2008-06-01,Trinidad and Tobago,England,0,3,Friendly,Port of Spain,Trinidad and Tobago,False,England
+30361,2008-06-03,France,Colombia,1,0,Friendly,Saint-Denis,France,False,France
+30372,2008-06-04,Spain,United States,1,0,Friendly,Santander,Spain,False,Spain
+30399,2008-06-07,Portugal,Turkey,2,0,UEFA Euro,Geneva,Switzerland,True,Portugal
+30415,2008-06-08,Germany,Poland,2,0,UEFA Euro,Klagenfurt,Austria,True,Germany
+30429,2008-06-09,Netherlands,Italy,3,0,UEFA Euro,Berne,Switzerland,True,Netherlands
+30430,2008-06-09,Romania,France,0,0,UEFA Euro,Zürich,Switzerland,True,Draw
+30431,2008-06-10,Greece,Sweden,0,2,UEFA Euro,Salzburg,Austria,True,Sweden
+30433,2008-06-10,Spain,Russia,4,1,UEFA Euro,Innsbruck,Austria,True,Spain
+30434,2008-06-11,Czech Republic,Portugal,1,3,UEFA Euro,Geneva,Switzerland,True,Portugal
+30440,2008-06-12,Croatia,Germany,2,1,UEFA Euro,Klagenfurt,Austria,True,Croatia
+30442,2008-06-13,Italy,Romania,1,1,UEFA Euro,Zürich,Switzerland,True,Draw
+30444,2008-06-13,Netherlands,France,4,1,UEFA Euro,Berne,Switzerland,True,Netherlands
+30451,2008-06-14,Greece,Russia,0,1,UEFA Euro,Salzburg,Austria,True,Russia
+30470,2008-06-14,Sweden,Spain,1,2,UEFA Euro,Innsbruck,Austria,True,Spain
+30494,2008-06-15,Switzerland,Portugal,2,0,UEFA Euro,Basel,Switzerland,False,Switzerland
+30498,2008-06-16,Austria,Germany,0,1,UEFA Euro,Vienna,Austria,False,Germany
+30501,2008-06-17,France,Italy,0,2,UEFA Euro,Zürich,Switzerland,True,Italy
+30502,2008-06-17,Netherlands,Romania,2,0,UEFA Euro,Berne,Switzerland,True,Netherlands
+30506,2008-06-18,Greece,Spain,1,2,UEFA Euro,Salzburg,Austria,True,Spain
+30510,2008-06-19,Portugal,Germany,2,3,UEFA Euro,Basel,Switzerland,True,Germany
+30521,2008-06-21,Netherlands,Russia,1,3,UEFA Euro,Basel,Switzerland,True,Russia
+30555,2008-06-22,Spain,Italy,0,0,UEFA Euro,Vienna,Austria,True,Draw
+30559,2008-06-25,Germany,Turkey,3,2,UEFA Euro,Basel,Switzerland,True,Germany
+30560,2008-06-26,Russia,Spain,0,3,UEFA Euro,Vienna,Austria,True,Spain
+30562,2008-06-29,Germany,Spain,0,1,UEFA Euro,Vienna,Austria,True,Spain
+30647,2008-08-20,Denmark,Spain,0,3,Friendly,Copenhagen,Denmark,False,Spain
+30648,2008-08-20,England,Czech Republic,2,2,Friendly,London,England,False,Draw
+30651,2008-08-20,Germany,Belgium,2,0,Friendly,Nuremberg,Germany,False,Germany
+30657,2008-08-20,Italy,Austria,2,2,Friendly,Nice,France,True,Draw
+30668,2008-08-20,Portugal,Faroe Islands,5,0,Friendly,Aveiro,Portugal,False,Portugal
+30671,2008-08-20,Russia,Netherlands,1,1,Friendly,Moscow,Russia,False,Draw
+30673,2008-08-20,Scotland,Northern Ireland,0,0,Friendly,Glasgow,Scotland,False,Draw
+30674,2008-08-20,Slovakia,Greece,0,2,Friendly,Bratislava,Slovakia,False,Greece
+30677,2008-08-20,Sweden,France,2,3,Friendly,Gothenburg,Sweden,False,France
+30709,2008-09-06,Andorra,England,0,2,FIFA World Cup qualification,Barcelona,Spain,True,England
+30712,2008-09-06,Austria,France,3,1,FIFA World Cup qualification,Vienna,Austria,False,Austria
+30714,2008-09-06,Belgium,Estonia,3,2,FIFA World Cup qualification,Liège,Belgium,False,Belgium
+30720,2008-09-06,Cyprus,Italy,1,2,FIFA World Cup qualification,Larnaca,Cyprus,False,Italy
+30728,2008-09-06,Liechtenstein,Germany,0,6,FIFA World Cup qualification,Vaduz,Liechtenstein,False,Germany
+30729,2008-09-06,Luxembourg,Greece,0,3,FIFA World Cup qualification,Luxembourg,Luxembourg,False,Greece
+30730,2008-09-06,North Macedonia,Scotland,1,0,FIFA World Cup qualification,Skopje,North Macedonia,False,North Macedonia
+30731,2008-09-06,Malta,Portugal,0,4,FIFA World Cup qualification,Attard,Malta,False,Portugal
+30737,2008-09-06,Netherlands,Australia,1,2,Friendly,Eindhoven,Netherlands,False,Australia
+30751,2008-09-06,Spain,Bosnia and Herzegovina,1,0,FIFA World Cup qualification,Murcia,Spain,False,Spain
+30775,2008-09-10,Croatia,England,1,4,FIFA World Cup qualification,Zagreb,Croatia,False,England
+30777,2008-09-10,Finland,Germany,3,3,FIFA World Cup qualification,Helsinki,Finland,False,Draw
+30778,2008-09-10,France,Serbia,2,1,FIFA World Cup qualification,Saint-Denis,France,False,France
+30782,2008-09-10,Iceland,Scotland,1,2,FIFA World Cup qualification,Reykjavík,Iceland,False,Scotland
+30783,2008-09-10,Italy,Georgia,2,0,FIFA World Cup qualification,Udine,Italy,False,Italy
+30786,2008-09-10,Latvia,Greece,0,2,FIFA World Cup qualification,Riga,Latvia,False,Greece
+30788,2008-09-10,North Macedonia,Netherlands,1,2,FIFA World Cup qualification,Skopje,North Macedonia,False,Netherlands
+30796,2008-09-10,Portugal,Denmark,2,3,FIFA World Cup qualification,Lisbon,Portugal,False,Denmark
+30801,2008-09-10,Spain,Armenia,4,0,FIFA World Cup qualification,Albacete,Spain,False,Spain
+30805,2008-09-10,Turkey,Belgium,1,1,FIFA World Cup qualification,Istanbul,Turkey,False,Draw
+30837,2008-10-11,Belgium,Armenia,2,0,FIFA World Cup qualification,Brussels,Belgium,False,Belgium
+30840,2008-10-11,Bulgaria,Italy,0,0,FIFA World Cup qualification,Sofia,Bulgaria,False,Draw
+30844,2008-10-11,England,Kazakhstan,5,1,FIFA World Cup qualification,London,England,False,England
+30846,2008-10-11,Estonia,Spain,0,3,FIFA World Cup qualification,Tallinn,Estonia,False,Spain
+30851,2008-10-11,Germany,Russia,2,1,FIFA World Cup qualification,Dortmund,Germany,False,Germany
+30853,2008-10-11,Greece,Moldova,3,0,FIFA World Cup qualification,Athens,Greece,False,Greece
+30869,2008-10-11,Netherlands,Iceland,2,0,FIFA World Cup qualification,Rotterdam,Netherlands,False,Netherlands
+30872,2008-10-11,Romania,France,2,2,FIFA World Cup qualification,Constanţa,Romania,False,Draw
+30874,2008-10-11,Scotland,Norway,0,0,FIFA World Cup qualification,Glasgow,Scotland,False,Draw
+30880,2008-10-11,Sweden,Portugal,0,0,FIFA World Cup qualification,Solna,Sweden,False,Draw
+30899,2008-10-14,France,Tunisia,3,1,Friendly,Saint-Denis,France,False,France
+30904,2008-10-15,Belarus,England,1,3,FIFA World Cup qualification,Minsk,Belarus,False,England
+30905,2008-10-15,Belgium,Spain,1,2,FIFA World Cup qualification,Brussels,Belgium,False,Spain
+30917,2008-10-15,Germany,Wales,1,0,FIFA World Cup qualification,Mönchengladbach,Germany,False,Germany
+30918,2008-10-15,Greece,Switzerland,1,2,FIFA World Cup qualification,Athens,Greece,False,Switzerland
+30924,2008-10-15,Italy,Montenegro,2,1,FIFA World Cup qualification,Lecce,Italy,False,Italy
+30934,2008-10-15,Norway,Netherlands,0,1,FIFA World Cup qualification,Oslo,Norway,False,Netherlands
+30936,2008-10-15,Portugal,Albania,0,0,FIFA World Cup qualification,Braga,Portugal,False,Draw
+30991,2008-11-19,Brazil,Portugal,6,2,Friendly,Gama,Brazil,False,Brazil
+30998,2008-11-19,France,Uruguay,0,0,Friendly,Saint-Denis,France,False,Draw
+30999,2008-11-19,Germany,England,1,2,Friendly,Berlin,Germany,False,England
+31001,2008-11-19,Greece,Italy,1,1,Friendly,Piraeus,Greece,False,Draw
+31006,2008-11-19,Luxembourg,Belgium,1,1,Friendly,Luxembourg,Luxembourg,False,Draw
+31012,2008-11-19,Netherlands,Sweden,3,1,Friendly,Amsterdam,Netherlands,False,Netherlands
+31019,2008-11-19,Scotland,Argentina,0,1,Friendly,Glasgow,Scotland,False,Argentina
+31024,2008-11-19,Spain,Chile,3,0,Friendly,Vila-real,Spain,False,Spain
+31174,2009-02-10,Brazil,Italy,2,0,Friendly,London,England,True,Brazil
+31181,2009-02-11,Belgium,Slovenia,2,0,Friendly,Genk,Belgium,False,Belgium
+31190,2009-02-11,France,Argentina,0,2,Friendly,Marseille,France,False,Argentina
+31191,2009-02-11,Germany,Norway,0,1,Friendly,Düsseldorf,Germany,False,Norway
+31192,2009-02-11,Greece,Denmark,1,1,Friendly,Piraeus,Greece,False,Draw
+31208,2009-02-11,Portugal,Finland,1,0,Friendly,Faro,Portugal,False,Portugal
+31213,2009-02-11,Spain,England,2,0,Friendly,Seville,Spain,False,Spain
+31216,2009-02-11,Tunisia,Netherlands,1,1,Friendly,Radès,Tunisia,False,Draw
+31248,2009-03-28,Belgium,Bosnia and Herzegovina,2,4,FIFA World Cup qualification,Genk,Belgium,False,Bosnia and Herzegovina
+31254,2009-03-28,England,Slovakia,4,0,Friendly,London,England,False,England
+31255,2009-03-28,Germany,Liechtenstein,4,0,FIFA World Cup qualification,Leipzig,Germany,False,Germany
+31258,2009-03-28,Israel,Greece,1,1,FIFA World Cup qualification,Ramat-Gan,Israel,False,Draw
+31263,2009-03-28,Lithuania,France,0,1,FIFA World Cup qualification,Kaunas,Lithuania,False,France
+31268,2009-03-28,Montenegro,Italy,0,2,FIFA World Cup qualification,Podgorica,Montenegro,False,Italy
+31271,2009-03-28,Netherlands,Scotland,3,0,FIFA World Cup qualification,Amsterdam,Netherlands,False,Netherlands
+31274,2009-03-28,Portugal,Sweden,0,0,FIFA World Cup qualification,Porto,Portugal,False,Draw
+31280,2009-03-28,Spain,Turkey,1,0,FIFA World Cup qualification,Madrid,Spain,False,Spain
+31295,2009-03-31,Portugal,South Africa,2,0,Friendly,Lausanne,Switzerland,True,Portugal
+31301,2009-04-01,Bosnia and Herzegovina,Belgium,2,1,FIFA World Cup qualification,Zenica,Bosnia and Herzegovina,False,Bosnia and Herzegovina
+31306,2009-04-01,England,Ukraine,2,1,FIFA World Cup qualification,London,England,False,England
+31308,2009-04-01,France,Lithuania,1,0,FIFA World Cup qualification,Saint-Denis,France,False,France
+31310,2009-04-01,Greece,Israel,2,1,FIFA World Cup qualification,Heraklion,Greece,False,Greece
+31314,2009-04-01,Italy,Republic of Ireland,1,1,FIFA World Cup qualification,Bari,Italy,False,Draw
+31321,2009-04-01,Netherlands,North Macedonia,4,0,FIFA World Cup qualification,Amsterdam,Netherlands,False,Netherlands
+31326,2009-04-01,Scotland,Iceland,2,1,FIFA World Cup qualification,Glasgow,Scotland,False,Scotland
+31329,2009-04-01,Turkey,Spain,1,2,FIFA World Cup qualification,Istanbul,Turkey,False,Spain
+31331,2009-04-01,Wales,Germany,0,2,FIFA World Cup qualification,Cardiff,Wales,False,Germany
+31367,2009-05-29,Belgium,Chile,1,1,Kirin Cup,Chiba,Japan,True,Draw
+31368,2009-05-29,China PR,Germany,1,1,Friendly,Shanghai,China PR,False,Draw
+31376,2009-05-31,Japan,Belgium,4,0,Kirin Cup,Tokyo,Japan,False,Japan
+31382,2009-06-02,France,Nigeria,0,1,Friendly,Saint-Étienne,France,False,Nigeria
+31384,2009-06-02,United Arab Emirates,Germany,2,7,Friendly,Dubai,United Arab Emirates,False,Germany
+31392,2009-06-05,France,Turkey,1,0,Friendly,Lyon,France,False,France
+31393,2009-06-06,Albania,Portugal,1,2,FIFA World Cup qualification,Tirana,Albania,False,Portugal
+31407,2009-06-06,Iceland,Netherlands,1,2,FIFA World Cup qualification,Reykjavík,Iceland,False,Netherlands
+31408,2009-06-06,Italy,Northern Ireland,3,0,Friendly,Pisa,Italy,False,Italy
+31409,2009-06-06,Kazakhstan,England,0,4,FIFA World Cup qualification,Almaty,Kazakhstan,False,England
+31433,2009-06-09,Azerbaijan,Spain,0,6,Friendly,Baku,Azerbaijan,False,Spain
+31443,2009-06-10,England,Andorra,6,0,FIFA World Cup qualification,London,England,False,England
+31444,2009-06-10,Estonia,Portugal,0,0,Friendly,Tallinn,Estonia,False,Draw
+31449,2009-06-10,Italy,New Zealand,4,3,Friendly,Atteridgeville,South Africa,True,Italy
+31454,2009-06-10,Netherlands,Norway,2,0,FIFA World Cup qualification,Rotterdam,Netherlands,False,Netherlands
+31462,2009-06-14,New Zealand,Spain,0,5,Confederations Cup,Rustenburg,South Africa,True,Spain
+31465,2009-06-15,United States,Italy,1,3,Confederations Cup,Pretoria,South Africa,True,Italy
+31471,2009-06-17,Spain,Iraq,1,0,Confederations Cup,Bloemfontein,South Africa,True,Spain
+31472,2009-06-18,Egypt,Italy,1,0,Confederations Cup,Johannesburg,South Africa,True,Egypt
+31480,2009-06-20,South Africa,Spain,0,2,Confederations Cup,Bloemfontein,South Africa,False,Spain
+31485,2009-06-21,Italy,Brazil,0,3,Confederations Cup,Pretoria,South Africa,True,Brazil
+31493,2009-06-24,Spain,United States,0,2,Confederations Cup,Bloemfontein,South Africa,True,United States
+31508,2009-06-28,South Africa,Spain,2,3,Confederations Cup,Rustenburg,South Africa,False,Spain
+31585,2009-08-12,Azerbaijan,Germany,0,2,FIFA World Cup qualification,Baku,Azerbaijan,False,Germany
+31591,2009-08-12,Czech Republic,Belgium,3,1,Friendly,Teplice,Czech Republic,False,Czech Republic
+31596,2009-08-12,Faroe Islands,France,0,1,FIFA World Cup qualification,Tórshavn,Faroe Islands,False,France
+31603,2009-08-12,Liechtenstein,Portugal,0,3,Friendly,Vaduz,Liechtenstein,False,Portugal
+31605,2009-08-12,North Macedonia,Spain,2,3,Friendly,Skopje,North Macedonia,False,Spain
+31613,2009-08-12,Netherlands,England,2,2,Friendly,Amsterdam,Netherlands,False,Draw
+31615,2009-08-12,Norway,Scotland,4,0,FIFA World Cup qualification,Oslo,Norway,False,Norway
+31617,2009-08-12,Poland,Greece,2,0,Friendly,Bydgoszcz,Poland,False,Poland
+31624,2009-08-12,Switzerland,Italy,0,0,Friendly,Basel,Switzerland,False,Draw
+31662,2009-09-05,Denmark,Portugal,1,1,FIFA World Cup qualification,Copenhagen,Denmark,False,Draw
+31663,2009-09-05,England,Slovenia,2,1,Friendly,London,England,False,England
+31664,2009-09-05,France,Romania,1,1,FIFA World Cup qualification,Saint-Denis,France,False,Draw
+31666,2009-09-05,Georgia,Italy,0,2,FIFA World Cup qualification,Tbilisi,Georgia,False,Italy
+31667,2009-09-05,Germany,South Africa,2,0,Friendly,Leverkusen,Germany,False,Germany
+31678,2009-09-05,Netherlands,Japan,3,0,Friendly,Enschede,Netherlands,False,Netherlands
+31684,2009-09-05,Scotland,North Macedonia,2,0,FIFA World Cup qualification,Glasgow,Scotland,False,Scotland
+31686,2009-09-05,Spain,Belgium,5,0,FIFA World Cup qualification,La Coruña,Spain,False,Spain
+31688,2009-09-05,Switzerland,Greece,2,0,FIFA World Cup qualification,Basel,Switzerland,False,Switzerland
+31703,2009-09-09,Armenia,Belgium,2,1,FIFA World Cup qualification,Yerevan,Armenia,False,Armenia
+31710,2009-09-09,England,Croatia,5,1,FIFA World Cup qualification,London,England,False,England
+31712,2009-09-09,Germany,Azerbaijan,4,0,FIFA World Cup qualification,Hanover,Germany,False,Germany
+31713,2009-09-09,Hungary,Portugal,0,1,FIFA World Cup qualification,Budapest,Hungary,False,Portugal
+31716,2009-09-09,Italy,Bulgaria,2,0,FIFA World Cup qualification,Turin,Italy,False,Italy
+31723,2009-09-09,Moldova,Greece,1,1,FIFA World Cup qualification,Chișinău,Moldova,False,Draw
+31730,2009-09-09,Scotland,Netherlands,0,1,FIFA World Cup qualification,Glasgow,Scotland,False,Netherlands
+31731,2009-09-09,Serbia,France,1,1,FIFA World Cup qualification,Belgrade,Serbia,False,Draw
+31733,2009-09-09,Spain,Estonia,3,0,FIFA World Cup qualification,Mérida,Spain,False,Spain
+31751,2009-10-10,Armenia,Spain,1,2,FIFA World Cup qualification,Yerevan,Armenia,False,Spain
+31752,2009-10-10,Australia,Netherlands,0,0,Friendly,Sydney,Australia,False,Draw
+31756,2009-10-10,Belgium,Turkey,2,0,FIFA World Cup qualification,Brussels,Belgium,False,Belgium
+31766,2009-10-10,France,Faroe Islands,5,0,FIFA World Cup qualification,Guingamp,France,False,France
+31768,2009-10-10,Greece,Latvia,5,2,FIFA World Cup qualification,Athens,Greece,False,Greece
+31770,2009-10-10,Republic of Ireland,Italy,2,2,FIFA World Cup qualification,Dublin,Republic of Ireland,False,Draw
+31772,2009-10-10,Japan,Scotland,2,0,Friendly,Yokohama,Japan,False,Japan
+31781,2009-10-10,Portugal,Hungary,3,0,FIFA World Cup qualification,Lisbon,Portugal,False,Portugal
+31782,2009-10-10,Russia,Germany,0,1,FIFA World Cup qualification,Moscow,Russia,False,Germany
+31785,2009-10-10,Ukraine,England,1,0,FIFA World Cup qualification,Dnipropetrovs'k,Ukraine,False,Ukraine
+31802,2009-10-14,Bosnia and Herzegovina,Spain,2,5,FIFA World Cup qualification,Zenica,Bosnia and Herzegovina,False,Spain
+31809,2009-10-14,England,Belarus,3,0,FIFA World Cup qualification,London,England,False,England
+31810,2009-10-14,Estonia,Belgium,2,0,FIFA World Cup qualification,Tallinn,Estonia,False,Estonia
+31811,2009-10-14,France,Austria,3,1,FIFA World Cup qualification,Saint-Denis,France,False,France
+31812,2009-10-14,Germany,Finland,1,1,FIFA World Cup qualification,Hamburg,Germany,False,Draw
+31813,2009-10-14,Greece,Luxembourg,2,1,FIFA World Cup qualification,Athens,Greece,False,Greece
+31815,2009-10-14,Italy,Cyprus,3,2,FIFA World Cup qualification,Parma,Italy,False,Italy
+31825,2009-10-14,Portugal,Malta,4,0,FIFA World Cup qualification,Guimarães,Portugal,False,Portugal
+31875,2009-11-14,Belgium,Hungary,3,0,Friendly,Ghent,Belgium,False,Belgium
+31876,2009-11-14,Brazil,England,1,0,Friendly,Doha,Qatar,True,Brazil
+31883,2009-11-14,Greece,Ukraine,0,0,FIFA World Cup qualification,Athens,Greece,False,Draw
+31886,2009-11-14,Republic of Ireland,France,0,1,FIFA World Cup qualification,Dublin,Republic of Ireland,False,France
+31887,2009-11-14,Italy,Netherlands,0,0,Friendly,Pescara,Italy,False,Draw
+31900,2009-11-14,Portugal,Bosnia and Herzegovina,1,0,FIFA World Cup qualification,Lisbon,Portugal,False,Portugal
+31907,2009-11-14,Spain,Argentina,2,1,Friendly,Madrid,Spain,False,Spain
+31913,2009-11-14,Wales,Scotland,3,0,Friendly,Cardiff,Wales,False,Wales
+31917,2009-11-17,Belgium,Qatar,2,0,Friendly,Sedan,France,True,Belgium
+31923,2009-11-18,Austria,Spain,1,5,Friendly,Vienna,Austria,False,Spain
+31926,2009-11-18,Bosnia and Herzegovina,Portugal,0,1,FIFA World Cup qualification,Zenica,Bosnia and Herzegovina,False,Portugal
+31928,2009-11-18,France,Republic of Ireland,1,1,FIFA World Cup qualification,Saint-Denis,France,False,Draw
+31929,2009-11-18,Germany,Ivory Coast,2,2,Friendly,Gelsenkirchen,Germany,False,Draw
+31934,2009-11-18,Italy,Sweden,1,0,Friendly,Cesena,Italy,False,Italy
+31939,2009-11-18,Netherlands,Paraguay,0,0,Friendly,Heerenveen,Netherlands,False,Draw
+31944,2009-11-18,Ukraine,Greece,0,1,FIFA World Cup qualification,Donets'k,Ukraine,False,Greece
+32099,2010-03-03,Belgium,Croatia,0,1,Friendly,Brussels,Belgium,False,Croatia
+32103,2010-03-03,England,Egypt,3,1,Friendly,London,England,False,England
+32104,2010-03-03,France,Spain,0,2,Friendly,Saint-Denis,France,False,Spain
+32106,2010-03-03,Germany,Argentina,0,1,Friendly,Munich,Germany,False,Argentina
+32107,2010-03-03,Greece,Senegal,0,2,Friendly,Vólos,Greece,False,Senegal
+32111,2010-03-03,Italy,Cameroon,0,0,Friendly,Monaco,Monaco,True,Draw
+32122,2010-03-03,Netherlands,United States,2,1,Friendly,Amsterdam,Netherlands,False,Netherlands
+32126,2010-03-03,Portugal,China PR,2,0,Friendly,Coimbra,Portugal,False,Portugal
+32128,2010-03-03,Scotland,Czech Republic,1,0,Friendly,Glasgow,Scotland,False,Scotland
+32159,2010-05-13,Germany,Malta,3,0,Friendly,Aachen,Germany,False,Germany
+32167,2010-05-19,Belgium,Bulgaria,2,1,Friendly,Brussels,Belgium,False,Belgium
+32179,2010-05-24,England,Mexico,3,1,Friendly,London,England,False,England
+32181,2010-05-24,Portugal,Cape Verde,0,0,Friendly,Covilhã,Portugal,False,Draw
+32185,2010-05-25,Greece,North Korea,2,2,Friendly,Altach,Austria,True,Draw
+32194,2010-05-26,France,Costa Rica,2,1,Friendly,Lens,France,False,France
+32195,2010-05-26,Netherlands,Mexico,2,1,Friendly,Freiburg,Germany,True,Netherlands
+32203,2010-05-29,Hungary,Germany,0,3,Friendly,Budapest,Hungary,False,Germany
+32210,2010-05-29,Spain,Saudi Arabia,3,2,Friendly,Innsbruck,Austria,True,Spain
+32219,2010-05-30,Japan,England,1,2,Friendly,Graz,Austria,True,England
+32223,2010-05-30,Tunisia,France,1,1,Friendly,Radès,Tunisia,False,Draw
+32228,2010-06-01,Netherlands,Ghana,4,1,Friendly,Rotterdam,Netherlands,False,Netherlands
+32229,2010-06-01,Portugal,Cameroon,3,1,Friendly,Covilhã,Portugal,False,Portugal
+32236,2010-06-02,Greece,Paraguay,0,2,Friendly,Winterthur,Switzerland,True,Paraguay
+32243,2010-06-03,Germany,Bosnia and Herzegovina,3,1,Friendly,Frankfurt am Main,Germany,False,Germany
+32244,2010-06-03,Italy,Mexico,1,2,Friendly,Brussels,Belgium,True,Mexico
+32245,2010-06-03,Spain,South Korea,1,0,Friendly,Innsbruck,Austria,True,Spain
+32246,2010-06-04,France,China PR,0,1,Friendly,Saint-Pierre,Réunion,True,China PR
+32257,2010-06-05,Netherlands,Hungary,6,1,Friendly,Amsterdam,Netherlands,False,Netherlands
+32262,2010-06-05,Switzerland,Italy,1,1,Friendly,Geneva,Switzerland,False,Draw
+32267,2010-06-08,Mozambique,Portugal,0,3,Friendly,Johannesburg,South Africa,True,Portugal
+32268,2010-06-08,Spain,Poland,6,0,Friendly,Murcia,Spain,False,Spain
+32270,2010-06-11,Uruguay,France,0,0,FIFA World Cup,Cape Town,South Africa,True,Draw
+32272,2010-06-12,England,United States,1,1,FIFA World Cup,Rustenburg,South Africa,True,Draw
+32273,2010-06-12,South Korea,Greece,2,0,FIFA World Cup,Port Elizabeth,South Africa,True,South Korea
+32275,2010-06-13,Germany,Australia,4,0,FIFA World Cup,Durban,South Africa,True,Germany
+32277,2010-06-14,Italy,Paraguay,1,1,FIFA World Cup,Cape Town,South Africa,True,Draw
+32279,2010-06-14,Netherlands,Denmark,2,0,FIFA World Cup,Johannesburg,South Africa,True,Netherlands
+32281,2010-06-15,Ivory Coast,Portugal,0,0,FIFA World Cup,Port Elizabeth,South Africa,True,Draw
+32285,2010-06-16,Spain,Switzerland,0,1,FIFA World Cup,Durban,South Africa,True,Switzerland
+32287,2010-06-17,France,Mexico,0,2,FIFA World Cup,Polokwane,South Africa,True,Mexico
+32288,2010-06-17,Greece,Nigeria,2,1,FIFA World Cup,Bloemfontein,South Africa,True,Greece
+32289,2010-06-18,England,Algeria,0,0,FIFA World Cup,Cape Town,South Africa,True,Draw
+32290,2010-06-18,Germany,Serbia,0,1,FIFA World Cup,Port Elizabeth,South Africa,True,Serbia
+32296,2010-06-19,Netherlands,Japan,1,0,FIFA World Cup,Durban,South Africa,True,Netherlands
+32300,2010-06-20,Italy,New Zealand,1,1,FIFA World Cup,Nelspruit,South Africa,True,Draw
+32305,2010-06-21,Portugal,North Korea,7,0,FIFA World Cup,Cape Town,South Africa,True,Portugal
+32306,2010-06-21,Spain,Honduras,2,0,FIFA World Cup,Johannesburg,South Africa,True,Spain
+32307,2010-06-22,Greece,Argentina,0,2,FIFA World Cup,Polokwane,South Africa,True,Argentina
+32310,2010-06-22,South Africa,France,2,1,FIFA World Cup,Bloemfontein,South Africa,False,South Africa
+32312,2010-06-23,Ghana,Germany,0,1,FIFA World Cup,Johannesburg,South Africa,True,Germany
+32313,2010-06-23,Slovenia,England,0,1,FIFA World Cup,Port Elizabeth,South Africa,True,England
+32315,2010-06-24,Cameroon,Netherlands,1,2,FIFA World Cup,Cape Town,South Africa,True,Netherlands
+32318,2010-06-24,Slovakia,Italy,3,2,FIFA World Cup,Johannesburg,South Africa,True,Slovakia
+32319,2010-06-25,Chile,Spain,1,2,FIFA World Cup,Pretoria,South Africa,True,Spain
+32321,2010-06-25,Portugal,Brazil,0,0,FIFA World Cup,Durban,South Africa,True,Draw
+32327,2010-06-27,Germany,England,4,1,FIFA World Cup,Bloemfontein,South Africa,True,Germany
+32329,2010-06-28,Netherlands,Slovakia,2,1,FIFA World Cup,Durban,South Africa,True,Netherlands
+32331,2010-06-29,Spain,Portugal,1,0,FIFA World Cup,Cape Town,South Africa,True,Spain
+32334,2010-07-02,Netherlands,Brazil,2,1,FIFA World Cup,Port Elizabeth,South Africa,True,Netherlands
+32336,2010-07-03,Argentina,Germany,0,4,FIFA World Cup,Cape Town,South Africa,True,Germany
+32337,2010-07-03,Paraguay,Spain,0,1,FIFA World Cup,Johannesburg,South Africa,True,Spain
+32338,2010-07-06,Uruguay,Netherlands,2,3,FIFA World Cup,Cape Town,South Africa,True,Netherlands
+32339,2010-07-07,Germany,Spain,0,1,FIFA World Cup,Durban,South Africa,True,Spain
+32342,2010-07-10,Uruguay,Germany,2,3,FIFA World Cup,Port Elizabeth,South Africa,True,Germany
+32343,2010-07-11,Netherlands,Spain,0,1,FIFA World Cup,Johannesburg,South Africa,True,Spain
+32347,2010-08-10,Italy,Ivory Coast,0,1,Friendly,London,England,True,Ivory Coast
+32362,2010-08-11,Denmark,Germany,2,2,Friendly,Copenhagen,Denmark,False,Draw
+32364,2010-08-11,England,Hungary,2,1,Friendly,London,England,False,England
+32366,2010-08-11,Finland,Belgium,1,0,Friendly,Turku,Finland,False,Finland
+32376,2010-08-11,Mexico,Spain,1,1,Friendly,Mexico City,Mexico,False,Draw
+32381,2010-08-11,Norway,France,2,1,Friendly,Oslo,Norway,False,Norway
+32388,2010-08-11,Serbia,Greece,0,1,Friendly,Belgrade,Serbia,False,Greece
+32392,2010-08-11,Sweden,Scotland,3,0,Friendly,Solna,Sweden,False,Sweden
+32398,2010-08-11,Ukraine,Netherlands,1,1,Friendly,Donets'k,Ukraine,False,Draw
+32411,2010-09-03,Belgium,Germany,0,1,UEFA Euro qualification,Brussels,Belgium,False,Germany
+32413,2010-09-03,England,Bulgaria,4,0,UEFA Euro qualification,London,England,False,England
+32414,2010-09-03,Estonia,Italy,1,2,UEFA Euro qualification,Tallinn,Estonia,False,Italy
+32416,2010-09-03,France,Belarus,0,1,UEFA Euro qualification,Saint-Denis,France,False,Belarus
+32417,2010-09-03,Greece,Georgia,1,1,UEFA Euro qualification,Piraeus,Greece,False,Draw
+32422,2010-09-03,Liechtenstein,Spain,0,4,UEFA Euro qualification,Vaduz,Liechtenstein,False,Spain
+32423,2010-09-03,Lithuania,Scotland,0,0,UEFA Euro qualification,Kaunas,Lithuania,False,Draw
+32429,2010-09-03,Portugal,Cyprus,4,4,UEFA Euro qualification,Guimarães,Portugal,False,Draw
+32432,2010-09-03,San Marino,Netherlands,0,5,UEFA Euro qualification,Serravalle,San Marino,False,Netherlands
+32466,2010-09-07,Argentina,Spain,4,1,Friendly,Buenos Aires,Argentina,False,Argentina
+32470,2010-09-07,Bosnia and Herzegovina,France,0,2,UEFA Euro qualification,Sarajevo,Bosnia and Herzegovina,False,France
+32474,2010-09-07,Croatia,Greece,0,0,UEFA Euro qualification,Zagreb,Croatia,False,Draw
+32480,2010-09-07,Germany,Azerbaijan,6,1,UEFA Euro qualification,Cologne,Germany,False,Germany
+32483,2010-09-07,Italy,Faroe Islands,5,0,UEFA Euro qualification,Florence,Italy,False,Italy
+32490,2010-09-07,Netherlands,Finland,2,1,UEFA Euro qualification,Rotterdam,Netherlands,False,Netherlands
+32491,2010-09-07,Norway,Portugal,1,0,UEFA Euro qualification,Oslo,Norway,False,Norway
+32496,2010-09-07,Scotland,Liechtenstein,2,1,UEFA Euro qualification,Glasgow,Scotland,False,Scotland
+32499,2010-09-07,Switzerland,England,1,3,UEFA Euro qualification,Basel,Switzerland,False,England
+32500,2010-09-07,Turkey,Belgium,3,2,UEFA Euro qualification,Istanbul,Turkey,False,Turkey
+32564,2010-10-08,Czech Republic,Scotland,1,0,UEFA Euro qualification,Prague,Czech Republic,False,Czech Republic
+32566,2010-10-08,Germany,Turkey,3,0,UEFA Euro qualification,Berlin,Germany,False,Germany
+32567,2010-10-08,Greece,Latvia,1,0,UEFA Euro qualification,Piraeus,Greece,False,Greece
+32573,2010-10-08,Kazakhstan,Belgium,0,2,UEFA Euro qualification,Astana,Kazakhstan,False,Belgium
+32576,2010-10-08,Moldova,Netherlands,0,1,UEFA Euro qualification,Chișinău,Moldova,False,Netherlands
+32579,2010-10-08,Northern Ireland,Italy,0,0,UEFA Euro qualification,Belfast,Northern Ireland,False,Draw
+32583,2010-10-08,Portugal,Denmark,3,1,UEFA Euro qualification,Porto,Portugal,False,Portugal
+32586,2010-10-08,Spain,Lithuania,3,1,UEFA Euro qualification,Salamanca,Spain,False,Spain
+32596,2010-10-09,France,Romania,2,0,UEFA Euro qualification,Saint-Denis,France,False,France
+32626,2010-10-12,Belgium,Austria,4,4,UEFA Euro qualification,Brussels,Belgium,False,Draw
+32633,2010-10-12,England,Montenegro,0,0,UEFA Euro qualification,London,England,False,Draw
+32638,2010-10-12,France,Luxembourg,2,0,UEFA Euro qualification,Metz,France,False,France
+32639,2010-10-12,Greece,Israel,2,1,UEFA Euro qualification,Piraeus,Greece,False,Greece
+32641,2010-10-12,Iceland,Portugal,1,3,UEFA Euro qualification,Reykjavík,Iceland,False,Portugal
+32643,2010-10-12,Italy,Serbia,3,0,UEFA Euro qualification,Genoa,Italy,False,Italy
+32644,2010-10-12,Kazakhstan,Germany,0,3,UEFA Euro qualification,Astana,Kazakhstan,False,Germany
+32651,2010-10-12,Netherlands,Sweden,4,1,UEFA Euro qualification,Amsterdam,Netherlands,False,Netherlands
+32659,2010-10-12,Scotland,Spain,2,3,UEFA Euro qualification,Glasgow,Scotland,False,Spain
+32713,2010-11-16,Scotland,Faroe Islands,3,0,Friendly,Aberdeen,Scotland,False,Scotland
+32716,2010-11-17,Austria,Greece,1,2,Friendly,Vienna,Austria,False,Greece
+32727,2010-11-17,England,France,1,2,Friendly,London,England,False,France
+32737,2010-11-17,Italy,Romania,1,1,Friendly,Klagenfurt,Austria,True,Draw
+32745,2010-11-17,Netherlands,Turkey,1,0,Friendly,Amsterdam,Netherlands,False,Netherlands
+32750,2010-11-17,Portugal,Spain,4,0,Friendly,Lisbon,Portugal,False,Portugal
+32751,2010-11-17,Russia,Belgium,0,2,Friendly,Voronezh,Russia,False,Belgium
+32756,2010-11-17,Sweden,Germany,0,0,Friendly,Gothenburg,Sweden,False,Draw
+32930,2011-02-09,Argentina,Portugal,2,1,Friendly,Geneva,Switzerland,True,Argentina
+32934,2011-02-09,Belgium,Finland,1,1,Friendly,Ghent,Belgium,False,Draw
+32940,2011-02-09,Denmark,England,1,2,Friendly,Copenhagen,Denmark,False,England
+32942,2011-02-09,France,Brazil,1,0,Friendly,Saint-Denis,France,False,France
+32943,2011-02-09,Germany,Italy,1,1,Friendly,Dortmund,Germany,False,Draw
+32944,2011-02-09,Greece,Canada,1,0,Friendly,Lárisa,Greece,False,Greece
+32959,2011-02-09,Netherlands,Austria,3,1,Friendly,Eindhoven,Netherlands,False,Netherlands
+32964,2011-02-09,Scotland,Northern Ireland,3,0,Nations Cup,Dublin,Republic of Ireland,True,Scotland
+32967,2011-02-09,Spain,Colombia,1,0,Friendly,Madrid,Spain,False,Spain
+32996,2011-03-25,Austria,Belgium,0,2,UEFA Euro qualification,Vienna,Austria,False,Belgium
+33002,2011-03-25,Hungary,Netherlands,0,4,UEFA Euro qualification,Budapest,Hungary,False,Netherlands
+33006,2011-03-25,Luxembourg,France,0,2,UEFA Euro qualification,Luxembourg,Luxembourg,False,France
+33011,2011-03-25,Slovenia,Italy,0,1,UEFA Euro qualification,Ljubljana,Slovenia,False,Italy
+33012,2011-03-25,Spain,Czech Republic,2,1,UEFA Euro qualification,Granada,Spain,False,Spain
+33025,2011-03-26,Germany,Kazakhstan,4,0,UEFA Euro qualification,Kaiserslautern,Germany,False,Germany
+33034,2011-03-26,Malta,Greece,0,1,UEFA Euro qualification,Attard,Malta,False,Greece
+33037,2011-03-26,Portugal,Chile,1,1,Friendly,Leiria,Portugal,False,Draw
+33042,2011-03-26,Wales,England,0,2,UEFA Euro qualification,Cardiff,Wales,False,England
+33044,2011-03-27,Brazil,Scotland,2,0,Friendly,London,England,True,Brazil
+33057,2011-03-29,Belgium,Azerbaijan,4,1,UEFA Euro qualification,Brussels,Belgium,False,Belgium
+33066,2011-03-29,England,Ghana,1,1,Friendly,London,England,False,Draw
+33069,2011-03-29,France,Croatia,0,0,Friendly,Saint-Denis,France,False,Draw
+33070,2011-03-29,Germany,Australia,1,2,Friendly,Mönchengladbach,Germany,False,Australia
+33071,2011-03-29,Greece,Poland,0,0,Friendly,Piraeus,Greece,False,Draw
+33076,2011-03-29,Lithuania,Spain,1,3,UEFA Euro qualification,Kaunas,Lithuania,False,Spain
+33078,2011-03-29,Netherlands,Hungary,5,3,UEFA Euro qualification,Amsterdam,Netherlands,False,Netherlands
+33082,2011-03-29,Portugal,Finland,2,0,Friendly,Aveiro,Portugal,False,Portugal
+33089,2011-03-29,Ukraine,Italy,0,2,Friendly,Kyiv,Ukraine,False,Italy
+33111,2011-05-25,Wales,Scotland,1,3,Nations Cup,Dublin,Republic of Ireland,True,Scotland
+33121,2011-05-29,Germany,Uruguay,2,1,Friendly,Sinsheim,Germany,False,Germany
+33122,2011-05-29,Republic of Ireland,Scotland,1,0,Nations Cup,Dublin,Republic of Ireland,False,Republic of Ireland
+33134,2011-06-03,Austria,Germany,1,2,UEFA Euro qualification,Vienna,Austria,False,Germany
+33135,2011-06-03,Belarus,France,1,1,UEFA Euro qualification,Minsk,Belarus,False,Draw
+33136,2011-06-03,Belgium,Turkey,1,1,UEFA Euro qualification,Brussels,Belgium,False,Draw
+33140,2011-06-03,Italy,Estonia,3,0,UEFA Euro qualification,Modena,Italy,False,Italy
+33149,2011-06-04,Brazil,Netherlands,0,0,Friendly,Goiânia,Brazil,False,Draw
+33152,2011-06-04,England,Switzerland,2,2,UEFA Euro qualification,London,England,False,Draw
+33153,2011-06-04,Greece,Malta,3,1,UEFA Euro qualification,Piraeus,Greece,False,Greece
+33160,2011-06-04,Portugal,Norway,1,0,UEFA Euro qualification,Lisbon,Portugal,False,Portugal
+33165,2011-06-04,United States,Spain,0,4,Friendly,Foxborough,United States,False,Spain
+33187,2011-06-06,Ukraine,France,1,4,Friendly,Donets'k,Ukraine,False,France
+33190,2011-06-07,Azerbaijan,Germany,1,3,UEFA Euro qualification,Baku,Azerbaijan,False,Germany
+33194,2011-06-07,Ecuador,Greece,1,1,Friendly,New York,United States,True,Draw
+33197,2011-06-07,Italy,Republic of Ireland,0,2,Friendly,Liège,Belgium,True,Republic of Ireland
+33207,2011-06-07,Venezuela,Spain,0,3,Friendly,Puerto la Cruz,Venezuela,False,Spain
+33209,2011-06-08,Uruguay,Netherlands,1,1,Friendly,Montevideo,Uruguay,False,Draw
+33212,2011-06-09,Poland,France,0,1,Friendly,Warsaw,Poland,False,France
+33385,2011-08-10,Bosnia and Herzegovina,Greece,0,0,Friendly,Sarajevo,Bosnia and Herzegovina,False,Draw
+33391,2011-08-10,France,Chile,1,1,Friendly,Montpellier,France,False,Draw
+33394,2011-08-10,Germany,Brazil,3,2,Friendly,Stuttgart,Germany,False,Germany
+33399,2011-08-10,Italy,Spain,2,1,Friendly,Bari,Italy,False,Italy
+33413,2011-08-10,Portugal,Luxembourg,5,0,Friendly,Faro,Portugal,False,Portugal
+33416,2011-08-10,Scotland,Denmark,2,1,Friendly,Glasgow,Scotland,False,Scotland
+33418,2011-08-10,Slovenia,Belgium,0,0,Friendly,Ljubljana,Slovenia,False,Draw
+33464,2011-09-02,Albania,France,1,2,UEFA Euro qualification,Tirana,Albania,False,France
+33469,2011-09-02,Azerbaijan,Belgium,1,1,UEFA Euro qualification,Baku,Azerbaijan,False,Draw
+33472,2011-09-02,Bulgaria,England,0,3,UEFA Euro qualification,Sofia,Bulgaria,False,England
+33475,2011-09-02,Cyprus,Portugal,0,4,UEFA Euro qualification,Nicosia,Cyprus,False,Portugal
+33479,2011-09-02,Faroe Islands,Italy,0,1,UEFA Euro qualification,Tórshavn,Faroe Islands,False,Italy
+33482,2011-09-02,Germany,Austria,6,2,UEFA Euro qualification,Gelsenkirchen,Germany,False,Germany
+33491,2011-09-02,Israel,Greece,0,1,UEFA Euro qualification,Jaffa,Israel,False,Greece
+33497,2011-09-02,Netherlands,San Marino,11,0,UEFA Euro qualification,Eindhoven,Netherlands,False,Netherlands
+33506,2011-09-02,Spain,Chile,3,2,Friendly,St. Gallen,Switzerland,True,Spain
+33527,2011-09-03,Scotland,Czech Republic,2,2,UEFA Euro qualification,Glasgow,Scotland,False,Draw
+33554,2011-09-06,Belgium,United States,1,0,Friendly,Brussels,Belgium,False,Belgium
+33564,2011-09-06,England,Wales,1,0,UEFA Euro qualification,London,England,False,England
+33566,2011-09-06,Finland,Netherlands,0,2,UEFA Euro qualification,Helsinki,Finland,False,Netherlands
+33572,2011-09-06,Italy,Slovenia,1,0,UEFA Euro qualification,Florence,Italy,False,Italy
+33577,2011-09-06,Latvia,Greece,1,1,UEFA Euro qualification,Riga,Latvia,False,Draw
+33584,2011-09-06,Poland,Germany,2,2,Friendly,Gdańsk,Poland,False,Draw
+33587,2011-09-06,Romania,France,0,0,UEFA Euro qualification,Bucharest,Romania,False,Draw
+33591,2011-09-06,Scotland,Lithuania,1,0,UEFA Euro qualification,Glasgow,Scotland,False,Scotland
+33595,2011-09-06,Spain,Liechtenstein,6,0,UEFA Euro qualification,Logroño,Spain,False,Spain
+33628,2011-10-07,Belgium,Kazakhstan,4,1,UEFA Euro qualification,Brussels,Belgium,False,Belgium
+33637,2011-10-07,Czech Republic,Spain,0,2,UEFA Euro qualification,Prague,Czech Republic,False,Spain
+33642,2011-10-07,France,Albania,3,0,UEFA Euro qualification,Saint-Denis,France,False,France
+33644,2011-10-07,Greece,Croatia,2,0,UEFA Euro qualification,Piraeus,Greece,False,Greece
+33649,2011-10-07,Montenegro,England,2,2,UEFA Euro qualification,Podgorica,Montenegro,False,Draw
+33650,2011-10-07,Netherlands,Moldova,1,0,UEFA Euro qualification,Rotterdam,Netherlands,False,Netherlands
+33653,2011-10-07,Portugal,Iceland,5,3,UEFA Euro qualification,Porto,Portugal,False,Portugal
+33656,2011-10-07,Serbia,Italy,1,1,UEFA Euro qualification,Belgrade,Serbia,False,Draw
+33660,2011-10-07,Turkey,Germany,1,3,UEFA Euro qualification,Istanbul,Turkey,False,Germany
+33672,2011-10-08,Liechtenstein,Scotland,0,1,UEFA Euro qualification,Vaduz,Liechtenstein,False,Scotland
+33698,2011-10-11,Denmark,Portugal,2,1,UEFA Euro qualification,Copenhagen,Denmark,False,Denmark
+33702,2011-10-11,France,Bosnia and Herzegovina,1,1,UEFA Euro qualification,Saint-Denis,France,False,Draw
+33703,2011-10-11,Georgia,Greece,1,2,UEFA Euro qualification,Tbilisi,Georgia,False,Greece
+33704,2011-10-11,Germany,Belgium,3,1,UEFA Euro qualification,Düsseldorf,Germany,False,Germany
+33713,2011-10-11,Italy,Northern Ireland,3,0,UEFA Euro qualification,Pescara,Italy,False,Italy
+33731,2011-10-11,Spain,Scotland,3,1,UEFA Euro qualification,Alicante,Spain,False,Spain
+33734,2011-10-11,Sweden,Netherlands,3,2,UEFA Euro qualification,Solna,Sweden,False,Sweden
+33752,2011-11-11,Belgium,Romania,2,1,Friendly,Liège,Belgium,False,Belgium
+33754,2011-11-11,Bosnia and Herzegovina,Portugal,0,0,UEFA Euro qualification,Zenica,Bosnia and Herzegovina,False,Draw
+33760,2011-11-11,Cyprus,Scotland,1,2,Friendly,Larnaca,Cyprus,False,Scotland
+33768,2011-11-11,France,United States,1,0,Friendly,Saint-Denis,France,False,France
+33770,2011-11-11,Greece,Russia,1,1,Friendly,Piraeus,Greece,False,Draw
+33781,2011-11-11,Netherlands,Switzerland,0,0,Friendly,Amsterdam,Netherlands,False,Draw
+33786,2011-11-11,Poland,Italy,0,2,Friendly,Wrocław,Poland,False,Italy
+33797,2011-11-11,Ukraine,Germany,3,3,Friendly,Kyiv,Ukraine,False,Draw
+33803,2011-11-12,England,Spain,1,0,Friendly,London,England,False,England
+33823,2011-11-15,Costa Rica,Spain,2,2,Friendly,San José,Costa Rica,False,Draw
+33829,2011-11-15,England,Sweden,1,0,Friendly,London,England,False,England
+33830,2011-11-15,France,Belgium,0,0,Friendly,Saint-Denis,France,False,Draw
+33831,2011-11-15,Germany,Netherlands,3,0,Friendly,Hamburg,Germany,False,Germany
+33833,2011-11-15,Greece,Romania,1,3,Friendly,Altach,Austria,True,Romania
+33839,2011-11-15,Italy,Uruguay,0,1,Friendly,Rome,Italy,False,Uruguay
+33855,2011-11-15,Portugal,Bosnia and Herzegovina,6,2,UEFA Euro qualification,Lisbon,Portugal,False,Portugal
+34029,2012-02-29,England,Netherlands,2,3,Friendly,London,England,False,Netherlands
+34033,2012-02-29,Germany,France,1,2,Friendly,Bremen,Germany,False,France
+34034,2012-02-29,Greece,Belgium,1,1,Friendly,Heraklion,Greece,False,Draw
+34043,2012-02-29,Italy,United States,0,1,Friendly,Genoa,Italy,False,United States
+34063,2012-02-29,Poland,Portugal,0,0,Friendly,Warsaw,Poland,False,Draw
+34068,2012-02-29,Slovenia,Scotland,1,1,Friendly,Koper,Slovenia,False,Draw
+34070,2012-02-29,Spain,Venezuela,5,0,Friendly,Málaga,Spain,False,Spain
+34132,2012-05-25,Belgium,Montenegro,2,2,Friendly,Brussels,Belgium,False,Draw
+34143,2012-05-26,Greece,Slovenia,1,1,Friendly,Kufstein,Austria,True,Draw
+34149,2012-05-26,Netherlands,Bulgaria,1,2,Friendly,Amsterdam,Netherlands,False,Bulgaria
+34150,2012-05-26,Norway,England,0,1,Friendly,Oslo,Norway,False,England
+34152,2012-05-26,Portugal,North Macedonia,0,0,Friendly,Leiria,Portugal,False,Draw
+34153,2012-05-26,Spain,Serbia,2,0,Friendly,St. Gallen,Switzerland,True,Spain
+34154,2012-05-26,Switzerland,Germany,5,3,Friendly,Basel,Switzerland,False,Switzerland
+34156,2012-05-26,United States,Scotland,5,1,Friendly,Jacksonville,United States,False,United States
+34159,2012-05-27,France,Iceland,3,2,Friendly,Valenciennes,France,False,France
+34172,2012-05-30,Netherlands,Slovakia,2,0,Friendly,Rotterdam,Netherlands,False,Netherlands
+34173,2012-05-30,Spain,South Korea,4,1,Friendly,Berne,Switzerland,True,Spain
+34177,2012-05-31,Armenia,Greece,0,1,Friendly,Kufstein,Austria,True,Greece
+34178,2012-05-31,France,Serbia,2,0,Friendly,Reims,France,False,France
+34179,2012-05-31,Germany,Israel,2,0,Friendly,Leipzig,Germany,False,Germany
+34188,2012-06-01,Italy,Russia,0,3,Friendly,Zürich,Switzerland,True,Russia
+34204,2012-06-02,England,Belgium,1,0,Friendly,London,England,False,England
+34210,2012-06-02,Netherlands,Northern Ireland,6,0,Friendly,Amsterdam,Netherlands,False,Netherlands
+34213,2012-06-02,Portugal,Turkey,1,3,Friendly,Lisbon,Portugal,False,Turkey
+34234,2012-06-03,Spain,China PR,1,0,Friendly,Seville,Spain,False,Spain
+34248,2012-06-05,France,Estonia,4,0,Friendly,Le Mans,France,False,France
+34276,2012-06-08,Poland,Greece,1,1,UEFA Euro,Warsaw,Poland,False,Draw
+34293,2012-06-09,Germany,Portugal,1,0,UEFA Euro,Lviv,Ukraine,True,Germany
+34297,2012-06-09,Netherlands,Denmark,0,1,UEFA Euro,Kharkiv,Ukraine,True,Denmark
+34318,2012-06-10,Spain,Italy,1,1,UEFA Euro,Gdańsk,Poland,True,Draw
+34322,2012-06-11,France,England,1,1,UEFA Euro,Donets'k,Ukraine,True,Draw
+34329,2012-06-12,Greece,Czech Republic,1,2,UEFA Euro,Wrocław,Poland,True,Czech Republic
+34339,2012-06-13,Denmark,Portugal,2,3,UEFA Euro,Lviv,Ukraine,True,Portugal
+34340,2012-06-13,Netherlands,Germany,1,2,UEFA Euro,Kharkiv,Ukraine,True,Germany
+34341,2012-06-14,Italy,Croatia,1,1,UEFA Euro,Poznań,Poland,True,Draw
+34342,2012-06-14,Spain,Republic of Ireland,4,0,UEFA Euro,Gdańsk,Poland,True,Spain
+34346,2012-06-15,Sweden,England,2,3,UEFA Euro,Kyiv,Ukraine,True,England
+34347,2012-06-15,Ukraine,France,0,2,UEFA Euro,Donets'k,Ukraine,False,France
+34350,2012-06-16,Greece,Russia,1,0,UEFA Euro,Warsaw,Poland,True,Greece
+34359,2012-06-17,Denmark,Germany,1,2,UEFA Euro,Lviv,Ukraine,True,Germany
+34360,2012-06-17,Portugal,Netherlands,2,1,UEFA Euro,Kharkiv,Ukraine,True,Portugal
+34363,2012-06-18,Croatia,Spain,0,1,UEFA Euro,Gdańsk,Poland,True,Spain
+34364,2012-06-18,Italy,Republic of Ireland,2,0,UEFA Euro,Poznań,Poland,True,Italy
+34367,2012-06-19,Sweden,France,2,0,UEFA Euro,Kyiv,Ukraine,True,Sweden
+34368,2012-06-19,Ukraine,England,0,1,UEFA Euro,Donets'k,Ukraine,False,England
+34369,2012-06-21,Czech Republic,Portugal,0,1,UEFA Euro,Warsaw,Poland,True,Portugal
+34370,2012-06-22,Germany,Greece,4,2,UEFA Euro,Gdańsk,Poland,True,Germany
+34373,2012-06-23,Spain,France,2,0,UEFA Euro,Donets'k,Ukraine,True,Spain
+34374,2012-06-24,England,Italy,0,0,UEFA Euro,Kyiv,Ukraine,True,Draw
+34379,2012-06-27,Portugal,Spain,0,0,UEFA Euro,Donets'k,Ukraine,True,Draw
+34380,2012-06-28,Germany,Italy,1,2,UEFA Euro,Warsaw,Poland,True,Italy
+34385,2012-07-01,Spain,Italy,4,0,UEFA Euro,Kyiv,Ukraine,True,Spain
+34413,2012-08-15,Belgium,Netherlands,4,2,Friendly,Brussels,Belgium,False,Belgium
+34424,2012-08-15,England,Italy,2,1,Friendly,Berne,Switzerland,True,England
+34427,2012-08-15,France,Uruguay,0,0,Friendly,Le Havre,France,False,Draw
+34428,2012-08-15,Germany,Argentina,1,3,Friendly,Frankfurt am Main,Germany,False,Argentina
+34443,2012-08-15,Norway,Greece,2,3,Friendly,Oslo,Norway,False,Greece
+34445,2012-08-15,Portugal,Panama,2,0,Friendly,Faro,Portugal,False,Portugal
+34446,2012-08-15,Puerto Rico,Spain,1,2,Friendly,Bayamón,Puerto Rico,False,Spain
+34448,2012-08-15,Scotland,Australia,3,1,Friendly,Edinburgh,Scotland,False,Scotland
+34484,2012-09-07,Bulgaria,Italy,2,2,FIFA World Cup qualification,Sofia,Bulgaria,False,Draw
+34493,2012-09-07,Finland,France,0,1,FIFA World Cup qualification,Helsinki,Finland,False,France
+34495,2012-09-07,Germany,Faroe Islands,3,0,FIFA World Cup qualification,Hanover,Germany,False,Germany
+34501,2012-09-07,Latvia,Greece,1,2,FIFA World Cup qualification,Riga,Latvia,False,Greece
+34504,2012-09-07,Luxembourg,Portugal,1,2,FIFA World Cup qualification,Luxembourg,Luxembourg,False,Portugal
+34507,2012-09-07,Moldova,England,0,5,FIFA World Cup qualification,Chișinău,Moldova,False,England
+34509,2012-09-07,Netherlands,Turkey,2,0,FIFA World Cup qualification,Amsterdam,Netherlands,False,Netherlands
+34516,2012-09-07,Spain,Saudi Arabia,5,0,Friendly,Pontevedra,Spain,False,Spain
+34518,2012-09-07,Wales,Belgium,0,2,FIFA World Cup qualification,Cardiff,Wales,False,Belgium
+34528,2012-09-08,Scotland,Serbia,0,0,FIFA World Cup qualification,Glasgow,Scotland,False,Draw
+34544,2012-09-11,Austria,Germany,1,2,FIFA World Cup qualification,Vienna,Austria,False,Germany
+34545,2012-09-11,Belgium,Croatia,1,1,FIFA World Cup qualification,Brussels,Belgium,False,Draw
+34552,2012-09-11,England,Ukraine,1,1,FIFA World Cup qualification,London,England,False,Draw
+34553,2012-09-11,France,Belarus,3,1,FIFA World Cup qualification,Saint-Denis,France,False,France
+34555,2012-09-11,Georgia,Spain,0,1,FIFA World Cup qualification,Tbilisi,Georgia,False,Spain
+34556,2012-09-11,Greece,Lithuania,2,0,FIFA World Cup qualification,Piraeus,Greece,False,Greece
+34560,2012-09-11,Hungary,Netherlands,1,4,FIFA World Cup qualification,Budapest,Hungary,False,Netherlands
+34563,2012-09-11,Italy,Malta,2,0,FIFA World Cup qualification,Modena,Italy,False,Italy
+34577,2012-09-11,Portugal,Azerbaijan,3,0,FIFA World Cup qualification,Braga,Portugal,False,Portugal
+34580,2012-09-11,Scotland,North Macedonia,1,1,FIFA World Cup qualification,Glasgow,Scotland,False,Draw
+34642,2012-10-12,Armenia,Italy,1,3,FIFA World Cup qualification,Yerevan,Armenia,False,Italy
+34644,2012-10-12,Belarus,Spain,0,4,FIFA World Cup qualification,Minsk,Belarus,False,Spain
+34653,2012-10-12,England,San Marino,5,0,FIFA World Cup qualification,London,England,False,England
+34657,2012-10-12,France,Japan,0,1,Friendly,Saint-Denis,France,False,Japan
+34659,2012-10-12,Greece,Bosnia and Herzegovina,0,0,FIFA World Cup qualification,Piraeus,Greece,False,Draw
+34662,2012-10-12,Republic of Ireland,Germany,1,6,FIFA World Cup qualification,Dublin,Republic of Ireland,False,Germany
+34669,2012-10-12,Netherlands,Andorra,3,0,FIFA World Cup qualification,Rotterdam,Netherlands,False,Netherlands
+34672,2012-10-12,Russia,Portugal,1,0,FIFA World Cup qualification,Moscow,Russia,False,Russia
+34673,2012-10-12,Serbia,Belgium,0,3,FIFA World Cup qualification,Belgrade,Serbia,False,Belgium
+34681,2012-10-12,Wales,Scotland,2,1,FIFA World Cup qualification,Cardiff,Wales,False,Wales
+34693,2012-10-16,Belgium,Scotland,2,0,FIFA World Cup qualification,Brussels,Belgium,False,Belgium
+34705,2012-10-16,Germany,Sweden,4,4,FIFA World Cup qualification,Berlin,Germany,False,Draw
+34713,2012-10-16,Italy,Denmark,3,1,FIFA World Cup qualification,Milan,Italy,False,Italy
+34726,2012-10-16,Portugal,Northern Ireland,1,1,FIFA World Cup qualification,Porto,Portugal,False,Draw
+34728,2012-10-16,Romania,Netherlands,1,4,FIFA World Cup qualification,Bucharest,Romania,False,Netherlands
+34732,2012-10-16,Slovakia,Greece,0,1,FIFA World Cup qualification,Bratislava,Slovakia,False,Greece
+34733,2012-10-16,Spain,France,1,1,FIFA World Cup qualification,Madrid,Spain,False,Draw
+34739,2012-10-17,Poland,England,1,1,FIFA World Cup qualification,Warsaw,Poland,False,Draw
+34774,2012-11-14,Gabon,Portugal,2,2,Friendly,Libreville,Gabon,False,Draw
+34783,2012-11-14,Republic of Ireland,Greece,0,1,Friendly,Dublin,Republic of Ireland,False,Greece
+34785,2012-11-14,Italy,France,1,2,Friendly,Parma,Italy,False,France
+34789,2012-11-14,Luxembourg,Scotland,1,2,Friendly,Luxembourg,Luxembourg,False,Scotland
+34794,2012-11-14,Netherlands,Germany,0,0,Friendly,Amsterdam,Netherlands,False,Draw
+34798,2012-11-14,Panama,Spain,1,5,Friendly,Panama City,Panama,False,Spain
+34802,2012-11-14,Romania,Belgium,2,1,Friendly,Bucharest,Romania,False,Romania
+34808,2012-11-14,Sweden,England,4,2,Friendly,Solna,Sweden,False,Sweden
+35035,2013-02-06,Belgium,Slovakia,2,1,Friendly,Bruges,Belgium,False,Belgium
+35041,2013-02-06,England,Brazil,2,1,Friendly,London,England,False,England
+35042,2013-02-06,France,Germany,1,2,Friendly,Saint-Denis,France,False,Germany
+35043,2013-02-06,Greece,Switzerland,0,0,Friendly,Piraeus,Greece,False,Draw
+35062,2013-02-06,Netherlands,Italy,1,1,Friendly,Amsterdam,Netherlands,False,Draw
+35066,2013-02-06,Portugal,Ecuador,2,3,Friendly,Guimarães,Portugal,False,Ecuador
+35071,2013-02-06,Scotland,Estonia,1,0,Friendly,Aberdeen,Scotland,False,Scotland
+35073,2013-02-06,Spain,Uruguay,3,1,Friendly,Doha,Qatar,True,Spain
+35119,2013-03-21,Italy,Brazil,2,2,Friendly,Geneva,Switzerland,True,Draw
+35128,2013-03-22,Bosnia and Herzegovina,Greece,3,1,FIFA World Cup qualification,Zenica,Bosnia and Herzegovina,False,Bosnia and Herzegovina
+35135,2013-03-22,France,Georgia,3,1,FIFA World Cup qualification,Saint-Denis,France,False,France
+35139,2013-03-22,Israel,Portugal,3,3,FIFA World Cup qualification,Ramat-Gan,Israel,False,Draw
+35142,2013-03-22,Kazakhstan,Germany,0,3,FIFA World Cup qualification,Astana,Kazakhstan,False,Germany
+35146,2013-03-22,North Macedonia,Belgium,0,2,FIFA World Cup qualification,Skopje,North Macedonia,False,Belgium
+35149,2013-03-22,Netherlands,Estonia,3,0,FIFA World Cup qualification,Amsterdam,Netherlands,False,Netherlands
+35154,2013-03-22,San Marino,England,0,8,FIFA World Cup qualification,Serravalle,San Marino,False,England
+35155,2013-03-22,Scotland,Wales,1,2,FIFA World Cup qualification,Glasgow,Scotland,False,Wales
+35158,2013-03-22,Spain,Finland,1,1,FIFA World Cup qualification,Gijón,Spain,False,Draw
+35194,2013-03-26,Azerbaijan,Portugal,0,2,FIFA World Cup qualification,Baku,Azerbaijan,False,Portugal
+35195,2013-03-26,Belgium,North Macedonia,1,0,FIFA World Cup qualification,Brussels,Belgium,False,Belgium
+35203,2013-03-26,France,Spain,0,1,FIFA World Cup qualification,Saint-Denis,France,False,Spain
+35204,2013-03-26,Germany,Kazakhstan,4,1,FIFA World Cup qualification,Nuremberg,Germany,False,Germany
+35212,2013-03-26,Malta,Italy,0,2,FIFA World Cup qualification,Attard,Malta,False,Italy
+35214,2013-03-26,Montenegro,England,1,1,FIFA World Cup qualification,Podgorica,Montenegro,False,Draw
+35215,2013-03-26,Netherlands,Romania,4,0,FIFA World Cup qualification,Amsterdam,Netherlands,False,Netherlands
+35222,2013-03-26,Serbia,Scotland,2,0,FIFA World Cup qualification,Novi Sad,Serbia,False,Serbia
+35249,2013-05-29,Ecuador,Germany,2,4,Friendly,Boca Raton,United States,True,Germany
+35250,2013-05-29,England,Republic of Ireland,1,1,Friendly,London,England,False,Draw
+35253,2013-05-29,United States,Belgium,2,4,Friendly,Cleveland,United States,False,Belgium
+35255,2013-05-31,Italy,San Marino,4,0,Friendly,Bologna,Italy,False,Italy
+35261,2013-06-02,Brazil,England,2,2,Friendly,Rio de Janeiro,Brazil,False,Draw
+35267,2013-06-02,United States,Germany,4,3,Friendly,Washington,United States,False,United States
+35285,2013-06-05,Uruguay,France,1,0,Friendly,Montevideo,Uruguay,False,Uruguay
+35293,2013-06-07,Belgium,Serbia,2,1,FIFA World Cup qualification,Brussels,Belgium,False,Belgium
+35296,2013-06-07,Croatia,Scotland,0,1,FIFA World Cup qualification,Zagreb,Croatia,False,Scotland
+35297,2013-06-07,Czech Republic,Italy,0,0,FIFA World Cup qualification,Prague,Czech Republic,False,Draw
+35301,2013-06-07,Indonesia,Netherlands,0,3,Friendly,Jakarta,Indonesia,False,Netherlands
+35308,2013-06-07,Lithuania,Greece,0,1,FIFA World Cup qualification,Vilnius,Lithuania,False,Greece
+35314,2013-06-07,Portugal,Russia,1,0,FIFA World Cup qualification,Lisbon,Portugal,False,Portugal
+35323,2013-06-08,Haiti,Spain,1,2,Friendly,Miami Gardens,United States,True,Spain
+35330,2013-06-09,Brazil,France,3,0,Friendly,Porto Alegre,Brazil,False,Brazil
+35336,2013-06-10,Croatia,Portugal,0,1,Friendly,Geneva,Switzerland,True,Portugal
+35340,2013-06-11,China PR,Netherlands,0,2,Friendly,Beijing,China PR,False,Netherlands
+35349,2013-06-11,Italy,Haiti,2,2,Friendly,Rio de Janeiro,Brazil,True,Draw
+35354,2013-06-11,Spain,Republic of Ireland,2,0,Friendly,New York,United States,True,Spain
+35381,2013-06-16,Mexico,Italy,1,2,Confederations Cup,Rio de Janeiro,Brazil,True,Italy
+35384,2013-06-16,Spain,Uruguay,2,1,Confederations Cup,Recife,Brazil,True,Spain
+35394,2013-06-19,Italy,Japan,4,3,Confederations Cup,Recife,Brazil,True,Italy
+35396,2013-06-20,Spain,Tahiti,10,0,Confederations Cup,Rio de Janeiro,Brazil,True,Spain
+35397,2013-06-22,Brazil,Italy,4,2,Confederations Cup,Salvador,Brazil,False,Brazil
+35400,2013-06-23,Nigeria,Spain,0,3,Confederations Cup,Fortaleza,Brazil,True,Spain
+35404,2013-06-27,Spain,Italy,0,0,Confederations Cup,Fortaleza,Brazil,True,Draw
+35407,2013-06-30,Brazil,Spain,3,0,Confederations Cup,Rio de Janeiro,Brazil,False,Brazil
+35408,2013-06-30,Uruguay,Italy,2,2,Confederations Cup,Salvador,Brazil,True,Draw
+35489,2013-08-14,Austria,Greece,0,2,Friendly,Salzburg,Austria,False,Greece
+35492,2013-08-14,Belgium,France,0,0,Friendly,Brussels,Belgium,False,Draw
+35497,2013-08-14,Ecuador,Spain,0,2,Friendly,Guayaquil,Ecuador,False,Spain
+35499,2013-08-14,England,Scotland,3,2,Friendly,London,England,False,England
+35503,2013-08-14,Germany,Paraguay,3,3,Friendly,Kaiserslautern,Germany,False,Draw
+35507,2013-08-14,Italy,Argentina,1,2,Friendly,Rome,Italy,False,Argentina
+35520,2013-08-14,Portugal,Netherlands,1,1,Friendly,Faro,Portugal,False,Draw
+35570,2013-09-06,England,Moldova,4,0,FIFA World Cup qualification,London,England,False,England
+35571,2013-09-06,Estonia,Netherlands,2,2,FIFA World Cup qualification,Tallinn,Estonia,False,Draw
+35572,2013-09-06,Finland,Spain,0,2,FIFA World Cup qualification,Helsinki,Finland,False,Spain
+35573,2013-09-06,Georgia,France,0,0,FIFA World Cup qualification,Tbilisi,Georgia,False,Draw
+35574,2013-09-06,Germany,Austria,3,0,FIFA World Cup qualification,Munich,Germany,False,Germany
+35577,2013-09-06,Italy,Bulgaria,1,0,FIFA World Cup qualification,Palermo,Italy,False,Italy
+35585,2013-09-06,Liechtenstein,Greece,0,1,FIFA World Cup qualification,Vaduz,Liechtenstein,False,Greece
+35589,2013-09-06,Northern Ireland,Portugal,2,4,FIFA World Cup qualification,Belfast,Northern Ireland,False,Portugal
+35597,2013-09-06,Scotland,Belgium,0,2,FIFA World Cup qualification,Glasgow,Scotland,False,Belgium
+35631,2013-09-10,Andorra,Netherlands,0,2,FIFA World Cup qualification,Sant Julià de Lòria,Andorra,False,Netherlands
+35634,2013-09-10,Belarus,France,2,4,FIFA World Cup qualification,Homel,Belarus,False,France
+35636,2013-09-10,Brazil,Portugal,3,1,Friendly,Foxborough,United States,True,Brazil
+35641,2013-09-10,Faroe Islands,Germany,0,3,FIFA World Cup qualification,Tórshavn,Faroe Islands,False,Germany
+35643,2013-09-10,Greece,Latvia,1,0,FIFA World Cup qualification,Piraeus,Greece,False,Greece
+35648,2013-09-10,Italy,Czech Republic,2,1,FIFA World Cup qualification,Turin,Italy,False,Italy
+35655,2013-09-10,North Macedonia,Scotland,1,2,FIFA World Cup qualification,Skopje,North Macedonia,False,Scotland
+35665,2013-09-10,Spain,Chile,2,2,Friendly,Geneva,Switzerland,True,Draw
+35666,2013-09-10,Ukraine,England,0,0,FIFA World Cup qualification,Kyiv,Ukraine,False,Draw
+35688,2013-10-11,Croatia,Belgium,1,2,FIFA World Cup qualification,Zagreb,Croatia,False,Belgium
+35689,2013-10-11,Denmark,Italy,2,2,FIFA World Cup qualification,Copenhagen,Denmark,False,Draw
+35691,2013-10-11,England,Montenegro,4,1,FIFA World Cup qualification,London,England,False,England
+35694,2013-10-11,France,Australia,6,0,Friendly,Saint-Denis,France,False,France
+35695,2013-10-11,Germany,Republic of Ireland,3,0,FIFA World Cup qualification,Cologne,Germany,False,Germany
+35696,2013-10-11,Greece,Slovakia,1,0,FIFA World Cup qualification,Piraeus,Greece,False,Greece
+35705,2013-10-11,Netherlands,Hungary,8,1,FIFA World Cup qualification,Amsterdam,Netherlands,False,Netherlands
+35707,2013-10-11,Portugal,Israel,1,1,FIFA World Cup qualification,Lisbon,Portugal,False,Draw
+35710,2013-10-11,Spain,Belarus,2,1,FIFA World Cup qualification,Palma de Mallorca,Spain,False,Spain
+35725,2013-10-15,Belgium,Wales,1,1,FIFA World Cup qualification,Brussels,Belgium,False,Draw
+35732,2013-10-15,England,Poland,2,0,FIFA World Cup qualification,London,England,False,England
+35734,2013-10-15,France,Finland,3,0,FIFA World Cup qualification,Saint-Denis,France,False,France
+35736,2013-10-15,Greece,Liechtenstein,2,0,FIFA World Cup qualification,Piraeus,Greece,False,Greece
+35744,2013-10-15,Italy,Armenia,2,2,FIFA World Cup qualification,Naples,Italy,False,Draw
+35759,2013-10-15,Portugal,Luxembourg,3,0,FIFA World Cup qualification,Coimbra,Portugal,False,Portugal
+35762,2013-10-15,Scotland,Croatia,2,0,FIFA World Cup qualification,Glasgow,Scotland,False,Scotland
+35765,2013-10-15,Spain,Georgia,2,0,FIFA World Cup qualification,Albacete,Spain,False,Spain
+35766,2013-10-15,Sweden,Germany,3,5,FIFA World Cup qualification,Solna,Sweden,False,Germany
+35769,2013-10-15,Turkey,Netherlands,0,2,FIFA World Cup qualification,Istanbul,Turkey,False,Netherlands
+35779,2013-11-14,Belgium,Colombia,0,2,Friendly,Brussels,Belgium,False,Colombia
+35789,2013-11-15,England,Chile,0,2,Friendly,London,England,False,Chile
+35791,2013-11-15,Greece,Romania,3,1,FIFA World Cup qualification,Piraeus,Greece,False,Greece
+35795,2013-11-15,Italy,Germany,1,1,Friendly,Milan,Italy,False,Draw
+35801,2013-11-15,Portugal,Sweden,1,0,FIFA World Cup qualification,Lisbon,Portugal,False,Portugal
+35804,2013-11-15,Scotland,United States,0,0,Friendly,Glasgow,Scotland,False,Draw
+35809,2013-11-15,Ukraine,France,2,0,FIFA World Cup qualification,Kyiv,Ukraine,False,Ukraine
+35815,2013-11-16,Equatorial Guinea,Spain,1,2,Friendly,Malabo,Equatorial Guinea,False,Spain
+35817,2013-11-16,Netherlands,Japan,2,2,Friendly,Genk,Belgium,True,Draw
+35825,2013-11-18,Italy,Nigeria,2,2,Friendly,London,England,True,Draw
+35831,2013-11-19,Belgium,Japan,2,3,Friendly,Brussels,Belgium,False,Japan
+35837,2013-11-19,England,Germany,0,1,Friendly,London,England,False,Germany
+35838,2013-11-19,France,Ukraine,3,0,FIFA World Cup qualification,Saint-Denis,France,False,France
+35851,2013-11-19,Netherlands,Colombia,0,0,Friendly,Amsterdam,Netherlands,False,Draw
+35852,2013-11-19,Norway,Scotland,0,1,Friendly,Molde,Norway,False,Scotland
+35854,2013-11-19,Romania,Greece,1,1,FIFA World Cup qualification,Bucharest,Romania,False,Draw
+35857,2013-11-19,South Africa,Spain,1,0,Friendly,Johannesburg,South Africa,False,South Africa
+35858,2013-11-19,Sweden,Portugal,2,3,FIFA World Cup qualification,Solna,Sweden,False,Portugal
+35971,2014-03-05,Belgium,Ivory Coast,2,2,Friendly,Brussels,Belgium,False,Draw
+35980,2014-03-05,England,Denmark,1,0,Friendly,London,England,False,England
+35981,2014-03-05,France,Netherlands,2,0,Friendly,Saint-Denis,France,False,France
+35983,2014-03-05,Germany,Chile,1,0,Friendly,Stuttgart,Germany,False,Germany
+35985,2014-03-05,Greece,South Korea,0,2,Friendly,Piraeus,Greece,False,South Korea
+36007,2014-03-05,Poland,Scotland,0,1,Friendly,Warsaw,Poland,False,Scotland
+36008,2014-03-05,Portugal,Cameroon,5,1,Friendly,Leiria,Portugal,False,Portugal
+36014,2014-03-05,Spain,Italy,1,0,Friendly,Madrid,Spain,False,Spain
+36044,2014-05-13,Germany,Poland,0,0,Friendly,Hamburg,Germany,False,Draw
+36050,2014-05-17,Netherlands,Ecuador,1,1,Friendly,Amsterdam,Netherlands,False,Draw
+36085,2014-05-26,Belgium,Luxembourg,5,1,Friendly,Genk,Belgium,False,Belgium
+36092,2014-05-27,France,Norway,4,0,Friendly,Saint-Denis,France,False,France
+36103,2014-05-28,Nigeria,Scotland,2,2,Friendly,London,England,True,Draw
+36115,2014-05-30,England,Peru,3,0,Friendly,London,England,False,England
+36122,2014-05-30,Spain,Bolivia,2,0,Friendly,Seville,Spain,False,Spain
+36132,2014-05-31,Italy,Republic of Ireland,0,0,Friendly,London,England,True,Draw
+36135,2014-05-31,Netherlands,Ghana,1,0,Friendly,Rotterdam,Netherlands,False,Netherlands
+36137,2014-05-31,Portugal,Greece,0,0,Friendly,Oeiras,Portugal,False,Draw
+36146,2014-06-01,France,Paraguay,1,1,Friendly,Nice,France,False,Draw
+36147,2014-06-01,Germany,Cameroon,2,2,Friendly,Mönchengladbach,Germany,False,Draw
+36150,2014-06-01,Sweden,Belgium,0,2,Friendly,Solna,Sweden,False,Belgium
+36169,2014-06-03,Greece,Nigeria,0,0,Friendly,Chester,United States,True,Draw
+36177,2014-06-04,Ecuador,England,2,2,Friendly,Miami Gardens,United States,True,Draw
+36182,2014-06-04,Italy,Luxembourg,1,1,Friendly,Perugia,Italy,False,Draw
+36184,2014-06-04,Netherlands,Wales,2,0,Friendly,Amsterdam,Netherlands,False,Netherlands
+36194,2014-06-06,Bolivia,Greece,1,2,Friendly,Harrison,United States,True,Greece
+36199,2014-06-06,Germany,Armenia,6,1,Friendly,Mainz,Germany,False,Germany
+36201,2014-06-06,Mexico,Portugal,0,1,Friendly,Foxborough,United States,True,Portugal
+36207,2014-06-07,Belgium,Tunisia,1,0,Friendly,Brussels,Belgium,False,Belgium
+36209,2014-06-07,El Salvador,Spain,0,2,Friendly,Landover,United States,True,Spain
+36211,2014-06-07,Honduras,England,0,0,Friendly,Miami Gardens,United States,True,Draw
+36218,2014-06-08,France,Jamaica,8,0,Friendly,Villeneuve-d'Ascq,France,False,France
+36224,2014-06-10,Republic of Ireland,Portugal,1,5,Friendly,East Rutherford,United States,True,Portugal
+36228,2014-06-13,Spain,Netherlands,1,5,FIFA World Cup,Salvador,Brazil,True,Netherlands
+36229,2014-06-14,Colombia,Greece,3,0,FIFA World Cup,Belo Horizonte,Brazil,True,Colombia
+36230,2014-06-14,England,Italy,1,2,FIFA World Cup,Manaus,Brazil,True,Italy
+36234,2014-06-15,France,Honduras,3,0,FIFA World Cup,Porto Alegre,Brazil,True,France
+36236,2014-06-16,Germany,Portugal,4,0,FIFA World Cup,Salvador,Brazil,True,Germany
+36239,2014-06-17,Belgium,Algeria,2,1,FIFA World Cup,Belo Horizonte,Brazil,True,Belgium
+36242,2014-06-18,Australia,Netherlands,2,3,FIFA World Cup,Curitiba,Brazil,True,Netherlands
+36245,2014-06-18,Spain,Chile,0,2,FIFA World Cup,Rio de Janeiro,Brazil,True,Chile
+36247,2014-06-19,Japan,Greece,0,0,FIFA World Cup,Natal,Brazil,True,Draw
+36248,2014-06-19,Uruguay,England,2,1,FIFA World Cup,São Paulo,Brazil,True,Uruguay
+36250,2014-06-20,Italy,Costa Rica,0,1,FIFA World Cup,Recife,Brazil,True,Costa Rica
+36251,2014-06-20,Switzerland,France,2,5,FIFA World Cup,Salvador,Brazil,True,France
+36253,2014-06-21,Germany,Ghana,2,2,FIFA World Cup,Fortaleza,Brazil,True,Draw
+36256,2014-06-22,Belgium,Russia,1,0,FIFA World Cup,Rio de Janeiro,Brazil,True,Belgium
+36259,2014-06-22,United States,Portugal,2,2,FIFA World Cup,Manaus,Brazil,True,Draw
+36260,2014-06-23,Australia,Spain,0,3,FIFA World Cup,Curitiba,Brazil,True,Spain
+36263,2014-06-23,Netherlands,Chile,2,0,FIFA World Cup,São Paulo,Brazil,True,Netherlands
+36264,2014-06-24,Costa Rica,England,0,0,FIFA World Cup,Belo Horizonte,Brazil,True,Draw
+36265,2014-06-24,Greece,Ivory Coast,2,1,FIFA World Cup,Fortaleza,Brazil,True,Greece
+36266,2014-06-24,Italy,Uruguay,0,1,FIFA World Cup,Natal,Brazil,True,Uruguay
+36269,2014-06-25,Ecuador,France,0,0,FIFA World Cup,Rio de Janeiro,Brazil,True,Draw
+36274,2014-06-26,South Korea,Belgium,0,1,FIFA World Cup,São Paulo,Brazil,True,Belgium
+36275,2014-06-26,Portugal,Ghana,2,1,FIFA World Cup,Brasília,Brazil,True,Portugal
+36276,2014-06-26,United States,Germany,0,1,FIFA World Cup,Recife,Brazil,True,Germany
+36280,2014-06-29,Costa Rica,Greece,1,1,FIFA World Cup,Recife,Brazil,True,Draw
+36281,2014-06-29,Netherlands,Mexico,2,1,FIFA World Cup,Fortaleza,Brazil,True,Netherlands
+36282,2014-06-30,France,Nigeria,2,0,FIFA World Cup,Brasília,Brazil,True,France
+36283,2014-06-30,Germany,Algeria,2,1,FIFA World Cup,Porto Alegre,Brazil,True,Germany
+36285,2014-07-01,Belgium,United States,2,1,FIFA World Cup,Salvador,Brazil,True,Belgium
+36288,2014-07-04,France,Germany,0,1,FIFA World Cup,Rio de Janeiro,Brazil,True,Germany
+36289,2014-07-05,Argentina,Belgium,1,0,FIFA World Cup,Brasília,Brazil,True,Argentina
+36290,2014-07-05,Netherlands,Costa Rica,0,0,FIFA World Cup,Salvador,Brazil,True,Draw
+36292,2014-07-08,Brazil,Germany,1,7,FIFA World Cup,Belo Horizonte,Brazil,False,Germany
+36293,2014-07-09,Netherlands,Argentina,0,0,FIFA World Cup,São Paulo,Brazil,True,Draw
+36295,2014-07-12,Brazil,Netherlands,0,3,FIFA World Cup,Brasília,Brazil,False,Netherlands
+36297,2014-07-13,Germany,Argentina,1,0,FIFA World Cup,Rio de Janeiro,Brazil,True,Germany
+36344,2014-09-03,England,Norway,1,0,Friendly,London,England,False,England
+36345,2014-09-03,Germany,Argentina,2,4,Friendly,Düsseldorf,Germany,False,Argentina
+36357,2014-09-04,Belgium,Australia,2,0,Friendly,Liège,Belgium,False,Belgium
+36361,2014-09-04,France,Spain,1,0,Friendly,Saint-Denis,France,False,France
+36363,2014-09-04,Italy,Netherlands,2,0,Friendly,Bari,Italy,False,Italy
+36402,2014-09-07,Germany,Scotland,2,1,UEFA Euro qualification,Dortmund,Germany,False,Germany
+36404,2014-09-07,Greece,Romania,0,1,UEFA Euro qualification,Piraeus,Greece,False,Romania
+36410,2014-09-07,Portugal,Albania,0,1,UEFA Euro qualification,Aveiro,Portugal,False,Albania
+36412,2014-09-07,Serbia,France,1,1,Friendly,Belgrade,Serbia,False,Draw
+36421,2014-09-08,Spain,North Macedonia,5,1,UEFA Euro qualification,Valencia,Spain,False,Spain
+36422,2014-09-08,Switzerland,England,0,2,UEFA Euro qualification,Basel,Switzerland,False,England
+36430,2014-09-09,Czech Republic,Netherlands,2,1,UEFA Euro qualification,Prague,Czech Republic,False,Czech Republic
+36438,2014-09-09,Norway,Italy,0,2,UEFA Euro qualification,Oslo,Norway,False,Italy
+36467,2014-10-09,England,San Marino,5,0,UEFA Euro qualification,London,England,False,England
+36474,2014-10-09,Slovakia,Spain,2,1,UEFA Euro qualification,Žilina,Slovakia,False,Slovakia
+36477,2014-10-10,Belgium,Andorra,6,0,UEFA Euro qualification,Brussels,Belgium,False,Belgium
+36484,2014-10-10,Italy,Azerbaijan,2,1,UEFA Euro qualification,Palermo,Italy,False,Italy
+36491,2014-10-10,Netherlands,Kazakhstan,3,1,UEFA Euro qualification,Amsterdam,Netherlands,False,Netherlands
+36509,2014-10-11,Finland,Greece,1,1,UEFA Euro qualification,Helsinki,Finland,False,Draw
+36510,2014-10-11,France,Portugal,2,1,Friendly,Saint-Denis,France,False,France
+36518,2014-10-11,Poland,Germany,2,0,UEFA Euro qualification,Warsaw,Poland,False,Poland
+36520,2014-10-11,Scotland,Georgia,1,0,UEFA Euro qualification,Glasgow,Scotland,False,Scotland
+36527,2014-10-12,Estonia,England,0,1,UEFA Euro qualification,Tallinn,Estonia,False,England
+36532,2014-10-12,Luxembourg,Spain,0,4,UEFA Euro qualification,Luxembourg,Luxembourg,False,Spain
+36543,2014-10-13,Bosnia and Herzegovina,Belgium,1,1,UEFA Euro qualification,Zenica,Bosnia and Herzegovina,False,Draw
+36545,2014-10-13,Iceland,Netherlands,2,0,UEFA Euro qualification,Reykjavík,Iceland,False,Iceland
+36549,2014-10-13,Malta,Italy,0,1,UEFA Euro qualification,Attard,Malta,False,Italy
+36554,2014-10-14,Armenia,France,0,3,Friendly,Yerevan,Armenia,False,France
+36558,2014-10-14,Denmark,Portugal,0,1,UEFA Euro qualification,Copenhagen,Denmark,False,Portugal
+36561,2014-10-14,Germany,Republic of Ireland,1,1,UEFA Euro qualification,Gelsenkirchen,Germany,False,Draw
+36563,2014-10-14,Greece,Northern Ireland,0,2,UEFA Euro qualification,Piraeus,Greece,False,Northern Ireland
+36569,2014-10-14,Poland,Scotland,2,2,UEFA Euro qualification,Warsaw,Poland,False,Draw
+36615,2014-11-12,Belgium,Iceland,3,1,Friendly,Brussels,Belgium,False,Belgium
+36617,2014-11-12,Netherlands,Mexico,2,3,Friendly,Amsterdam,Netherlands,False,Mexico
+36630,2014-11-14,France,Albania,1,1,Friendly,Rennes,France,False,Draw
+36632,2014-11-14,Germany,Gibraltar,4,0,UEFA Euro qualification,Nuremberg,Germany,False,Germany
+36633,2014-11-14,Greece,Faroe Islands,0,1,UEFA Euro qualification,Piraeus,Greece,False,Faroe Islands
+36642,2014-11-14,Portugal,Armenia,1,0,UEFA Euro qualification,Faro,Portugal,False,Portugal
+36644,2014-11-14,Scotland,Republic of Ireland,1,0,UEFA Euro qualification,Glasgow,Scotland,False,Scotland
+36655,2014-11-15,England,Slovenia,3,1,UEFA Euro qualification,London,England,False,England
+36667,2014-11-15,Spain,Belarus,3,0,UEFA Euro qualification,Huelva,Spain,False,Spain
+36673,2014-11-16,Belgium,Wales,0,0,UEFA Euro qualification,Brussels,Belgium,False,Draw
+36679,2014-11-16,Italy,Croatia,1,1,UEFA Euro qualification,Milan,Italy,False,Draw
+36681,2014-11-16,Netherlands,Latvia,6,0,UEFA Euro qualification,Amsterdam,Netherlands,False,Netherlands
+36697,2014-11-18,France,Sweden,1,0,Friendly,Marseille,France,False,France
+36698,2014-11-18,Greece,Serbia,0,2,Friendly,Perivólia,Greece,False,Serbia
+36702,2014-11-18,Italy,Albania,1,0,Friendly,Genoa,Italy,False,Italy
+36708,2014-11-18,Portugal,Argentina,1,0,Friendly,Manchester,England,True,Portugal
+36710,2014-11-18,Scotland,England,1,3,Friendly,Glasgow,Scotland,False,England
+36713,2014-11-18,Spain,Germany,0,1,Friendly,Vigo,Spain,False,Germany
+36886,2015-03-25,Germany,Australia,2,2,Friendly,Kaiserslautern,Germany,False,Draw
+36890,2015-03-25,Scotland,Northern Ireland,1,0,Friendly,Glasgow,Scotland,False,Scotland
+36895,2015-03-26,France,Brazil,1,3,Friendly,Saint-Denis,France,False,Brazil
+36906,2015-03-27,England,Lithuania,4,0,UEFA Euro qualification,London,England,False,England
+36916,2015-03-27,Spain,Ukraine,1,0,UEFA Euro qualification,Seville,Spain,False,Spain
+36921,2015-03-28,Belgium,Cyprus,5,0,UEFA Euro qualification,Brussels,Belgium,False,Belgium
+36922,2015-03-28,Bulgaria,Italy,2,2,UEFA Euro qualification,Sofia,Bulgaria,False,Draw
+36932,2015-03-28,Netherlands,Turkey,1,1,UEFA Euro qualification,Amsterdam,Netherlands,False,Draw
+36939,2015-03-29,France,Denmark,2,0,Friendly,Saint-Étienne,France,False,France
+36940,2015-03-29,Georgia,Germany,0,2,UEFA Euro qualification,Tbilisi,Georgia,False,Germany
+36943,2015-03-29,Hungary,Greece,0,0,UEFA Euro qualification,Budapest,Hungary,False,Draw
+36947,2015-03-29,Portugal,Serbia,2,1,UEFA Euro qualification,Lisbon,Portugal,False,Portugal
+36949,2015-03-29,Scotland,Gibraltar,6,1,UEFA Euro qualification,Glasgow,Scotland,False,Scotland
+36968,2015-03-31,Israel,Belgium,0,1,UEFA Euro qualification,Jerusalem,Israel,False,Belgium
+36969,2015-03-31,Italy,England,1,1,Friendly,Turin,Italy,False,Draw
+36976,2015-03-31,Netherlands,Spain,2,0,Friendly,Amsterdam,Netherlands,False,Netherlands
+36979,2015-03-31,Portugal,Cape Verde,0,2,Friendly,Estoril,Portugal,False,Cape Verde
+37039,2015-06-05,Netherlands,United States,3,4,Friendly,Amsterdam,Netherlands,False,United States
+37041,2015-06-05,Scotland,Qatar,1,0,Friendly,Edinburgh,Scotland,False,Scotland
+37057,2015-06-07,France,Belgium,3,4,Friendly,Saint-Denis,France,False,Belgium
+37058,2015-06-07,Republic of Ireland,England,0,0,Friendly,Dublin,Republic of Ireland,False,Draw
+37076,2015-06-10,Germany,United States,1,2,Friendly,Cologne,Germany,False,United States
+37094,2015-06-11,Spain,Costa Rica,2,1,Friendly,León,Spain,False,Spain
+37100,2015-06-12,Croatia,Italy,1,1,UEFA Euro qualification,Split,Croatia,False,Draw
+37104,2015-06-12,Latvia,Netherlands,0,2,UEFA Euro qualification,Riga,Latvia,False,Netherlands
+37110,2015-06-12,Wales,Belgium,1,0,UEFA Euro qualification,Cardiff,Wales,False,Wales
+37111,2015-06-13,Albania,France,1,0,Friendly,Elbasan,Albania,False,Albania
+37115,2015-06-13,Armenia,Portugal,2,3,UEFA Euro qualification,Yerevan,Armenia,False,Portugal
+37119,2015-06-13,Faroe Islands,Greece,2,1,UEFA Euro qualification,Tórshavn,Faroe Islands,False,Faroe Islands
+37121,2015-06-13,Gibraltar,Germany,0,7,UEFA Euro qualification,Faro,Portugal,True,Germany
+37122,2015-06-13,Republic of Ireland,Scotland,1,1,UEFA Euro qualification,Dublin,Republic of Ireland,False,Draw
+37134,2015-06-14,Belarus,Spain,0,1,UEFA Euro qualification,Barysaw,Belarus,False,Spain
+37153,2015-06-14,Slovenia,England,2,3,UEFA Euro qualification,Ljubljana,Slovenia,False,England
+37170,2015-06-16,Italy,Portugal,0,1,Friendly,Geneva,Switzerland,True,Portugal
+37178,2015-06-16,Poland,Greece,0,0,Friendly,Gdańsk,Poland,False,Draw
+37316,2015-09-03,Belgium,Bosnia and Herzegovina,3,1,UEFA Euro qualification,Brussels,Belgium,False,Belgium
+37324,2015-09-03,Italy,Malta,1,0,UEFA Euro qualification,Florence,Italy,False,Italy
+37329,2015-09-03,Netherlands,Iceland,0,1,UEFA Euro qualification,Amsterdam,Netherlands,False,Iceland
+37344,2015-09-04,Georgia,Scotland,1,0,UEFA Euro qualification,Tbilisi,Georgia,False,Georgia
+37345,2015-09-04,Germany,Poland,3,1,UEFA Euro qualification,Frankfurt am Main,Germany,False,Germany
+37347,2015-09-04,Greece,Finland,0,1,UEFA Euro qualification,Piraeus,Greece,False,Finland
+37350,2015-09-04,Portugal,France,0,1,Friendly,Lisbon,Portugal,False,France
+37369,2015-09-05,San Marino,England,0,6,UEFA Euro qualification,Serravalle,San Marino,False,England
+37373,2015-09-05,Spain,Slovakia,2,0,UEFA Euro qualification,Oviedo,Spain,False,Spain
+37380,2015-09-06,Cyprus,Belgium,0,1,UEFA Euro qualification,Nicosia,Cyprus,False,Belgium
+37382,2015-09-06,Italy,Bulgaria,1,0,UEFA Euro qualification,Palermo,Italy,False,Italy
+37392,2015-09-06,Turkey,Netherlands,3,0,UEFA Euro qualification,Konya,Turkey,False,Turkey
+37394,2015-09-07,Albania,Portugal,0,1,UEFA Euro qualification,Elbasan,Albania,False,Portugal
+37398,2015-09-07,France,Serbia,2,1,Friendly,Bordeaux,France,False,France
+37402,2015-09-07,Romania,Greece,0,0,UEFA Euro qualification,Bucharest,Romania,False,Draw
+37403,2015-09-07,Scotland,Germany,2,3,UEFA Euro qualification,Glasgow,Scotland,False,Germany
+37411,2015-09-08,England,Switzerland,2,0,UEFA Euro qualification,London,England,False,England
+37419,2015-09-08,North Macedonia,Spain,0,1,UEFA Euro qualification,Skopje,North Macedonia,False,Spain
+37453,2015-10-08,France,Armenia,4,0,Friendly,Nice,France,False,France
+37456,2015-10-08,Republic of Ireland,Germany,1,0,UEFA Euro qualification,Dublin,Republic of Ireland,False,Republic of Ireland
+37464,2015-10-08,Northern Ireland,Greece,3,1,UEFA Euro qualification,Belfast,Northern Ireland,False,Northern Ireland
+37466,2015-10-08,Portugal,Denmark,1,0,UEFA Euro qualification,Braga,Portugal,False,Portugal
+37471,2015-10-08,Scotland,Poland,2,2,UEFA Euro qualification,Glasgow,Scotland,False,Draw
+37480,2015-10-09,England,Estonia,2,0,UEFA Euro qualification,London,England,False,England
+37490,2015-10-09,Spain,Luxembourg,4,0,UEFA Euro qualification,Logroño,Spain,False,Spain
+37494,2015-10-10,Andorra,Belgium,1,4,UEFA Euro qualification,Sant Julià de Lòria,Andorra,False,Belgium
+37495,2015-10-10,Azerbaijan,Italy,1,3,UEFA Euro qualification,Baku,Azerbaijan,False,Italy
+37503,2015-10-10,Kazakhstan,Netherlands,1,2,UEFA Euro qualification,Astana,Kazakhstan,False,Netherlands
+37509,2015-10-11,Denmark,France,1,2,Friendly,Copenhagen,Denmark,False,France
+37514,2015-10-11,Germany,Georgia,2,1,UEFA Euro qualification,Leipzig,Germany,False,Germany
+37515,2015-10-11,Gibraltar,Scotland,0,6,UEFA Euro qualification,Faro,Portugal,True,Scotland
+37516,2015-10-11,Greece,Hungary,4,3,UEFA Euro qualification,Piraeus,Greece,False,Greece
+37521,2015-10-11,Serbia,Portugal,1,2,UEFA Euro qualification,Belgrade,Serbia,False,Portugal
+37526,2015-10-12,Lithuania,England,0,3,UEFA Euro qualification,Vilnius,Lithuania,False,England
+37532,2015-10-12,Ukraine,Spain,0,1,UEFA Euro qualification,Kyiv,Ukraine,False,Spain
+37535,2015-10-13,Belgium,Israel,3,1,UEFA Euro qualification,Brussels,Belgium,False,Belgium
+37549,2015-10-13,Italy,Norway,2,1,UEFA Euro qualification,Rome,Italy,False,Italy
+37561,2015-10-13,Netherlands,Czech Republic,2,3,UEFA Euro qualification,Amsterdam,Netherlands,False,Czech Republic
+37643,2015-11-13,Belgium,Italy,3,1,Friendly,Brussels,Belgium,False,Belgium
+37648,2015-11-13,France,Germany,2,0,Friendly,Saint-Denis,France,False,France
+37653,2015-11-13,Luxembourg,Greece,1,0,Friendly,Luxembourg,Luxembourg,False,Luxembourg
+37662,2015-11-13,Spain,England,2,0,Friendly,Alicante,Spain,False,Spain
+37664,2015-11-13,Wales,Netherlands,2,3,Friendly,Cardiff,Wales,False,Netherlands
+37670,2015-11-14,Russia,Portugal,1,0,Friendly,Krasnodar,Russia,False,Russia
+37698,2015-11-17,England,France,2,0,Friendly,London,England,False,England
+37704,2015-11-17,Italy,Romania,2,2,Friendly,Bologna,Italy,False,Draw
+37709,2015-11-17,Luxembourg,Portugal,0,2,Friendly,Luxembourg,Luxembourg,False,Portugal
+37724,2015-11-17,Turkey,Greece,0,0,Friendly,Istanbul,Turkey,False,Draw
+37852,2016-03-24,Czech Republic,Scotland,0,1,Friendly,Prague,Czech Republic,False,Scotland
+37858,2016-03-24,Greece,Montenegro,2,1,Friendly,Piraeus,Greece,False,Greece
+37861,2016-03-24,Italy,Spain,1,1,Friendly,Udine,Italy,False,Draw
+37895,2016-03-25,Netherlands,France,2,3,Friendly,Amsterdam,Netherlands,False,France
+37897,2016-03-25,Portugal,Bulgaria,0,1,Friendly,Leiria,Portugal,False,Bulgaria
+37913,2016-03-26,Germany,England,2,3,Friendly,Berlin,Germany,False,England
+37926,2016-03-27,Romania,Spain,0,0,Friendly,Cluj,Romania,False,Draw
+37947,2016-03-29,England,Netherlands,1,2,Friendly,London,England,False,Netherlands
+37950,2016-03-29,France,Russia,4,2,Friendly,Saint-Denis,France,False,France
+37954,2016-03-29,Germany,Italy,4,1,Friendly,Munich,Germany,False,Germany
+37956,2016-03-29,Greece,Iceland,2,3,Friendly,Piraeus,Greece,False,Iceland
+37981,2016-03-29,Portugal,Belgium,2,1,Friendly,Leiria,Portugal,False,Portugal
+37983,2016-03-29,Scotland,Denmark,1,0,Friendly,Glasgow,Scotland,False,Scotland
+38003,2016-05-22,England,Turkey,2,1,Friendly,Manchester,England,False,England
+38010,2016-05-27,England,Australia,2,1,Friendly,Sunderland,England,False,England
+38011,2016-05-27,Republic of Ireland,Netherlands,1,1,Friendly,Dublin,Republic of Ireland,False,Draw
+38026,2016-05-28,Switzerland,Belgium,1,2,Friendly,Geneva,Switzerland,False,Belgium
+38030,2016-05-29,Bosnia and Herzegovina,Spain,1,3,Friendly,St. Gallen,Switzerland,True,Spain
+38032,2016-05-29,Germany,Slovakia,1,3,Friendly,Augsburg,Germany,False,Slovakia
+38033,2016-05-29,Italy,Scotland,1,0,Friendly,Attard,Malta,True,Italy
+38038,2016-05-29,Portugal,Norway,3,0,Friendly,Porto,Portugal,False,Portugal
+38046,2016-05-30,France,Cameroon,3,2,Friendly,Nantes,France,False,France
+38066,2016-06-01,Belgium,Finland,1,1,Friendly,Brussels,Belgium,False,Draw
+38077,2016-06-01,Poland,Netherlands,1,2,Friendly,Gdańsk,Poland,False,Netherlands
+38078,2016-06-01,Spain,South Korea,6,1,Friendly,Salzburg,Austria,True,Spain
+38082,2016-06-02,England,Portugal,1,0,Friendly,London,England,False,England
+38114,2016-06-04,Australia,Greece,1,0,Friendly,Sydney,Australia,False,Australia
+38115,2016-06-04,Austria,Netherlands,0,2,Friendly,Vienna,Austria,False,Netherlands
+38122,2016-06-04,France,Scotland,3,0,Friendly,Metz,France,False,France
+38124,2016-06-04,Germany,Hungary,2,0,Friendly,Gelsenkirchen,Germany,False,Germany
+38138,2016-06-05,Belgium,Norway,3,2,Friendly,Brussels,Belgium,False,Belgium
+38163,2016-06-06,Italy,Finland,2,0,Friendly,Verona,Italy,False,Italy
+38168,2016-06-07,Australia,Greece,1,2,Friendly,Melbourne,Australia,False,Greece
+38180,2016-06-07,Spain,Georgia,0,1,Friendly,Getafe,Spain,False,Georgia
+38188,2016-06-08,Portugal,Estonia,7,0,Friendly,Lisbon,Portugal,False,Portugal
+38193,2016-06-10,France,Romania,2,1,UEFA Euro,Saint-Denis,France,False,France
+38196,2016-06-11,England,Russia,1,1,UEFA Euro,Marseille,France,True,Draw
+38205,2016-06-12,Germany,Ukraine,2,0,UEFA Euro,Villeneuve-d'Ascq,France,True,Germany
+38210,2016-06-13,Belgium,Italy,0,2,UEFA Euro,Lyon,France,True,Italy
+38214,2016-06-13,Spain,Czech Republic,1,0,UEFA Euro,Toulouse,France,True,Spain
+38222,2016-06-14,Portugal,Iceland,1,1,UEFA Euro,Saint-Étienne,France,True,Draw
+38223,2016-06-15,France,Albania,2,0,UEFA Euro,Marseille,France,False,France
+38229,2016-06-16,England,Wales,2,1,UEFA Euro,Lens,France,True,England
+38230,2016-06-16,Germany,Poland,0,0,UEFA Euro,Saint-Denis,France,True,Draw
+38235,2016-06-17,Italy,Sweden,1,0,UEFA Euro,Toulouse,France,True,Italy
+38237,2016-06-17,Spain,Turkey,3,0,UEFA Euro,Nice,France,True,Spain
+38239,2016-06-18,Belgium,Republic of Ireland,3,0,UEFA Euro,Bordeaux,France,True,Belgium
+38243,2016-06-18,Portugal,Austria,0,0,UEFA Euro,Lyon,France,True,Draw
+38246,2016-06-19,France,Switzerland,0,0,UEFA Euro,Villeneuve-d'Ascq,France,False,Draw
+38251,2016-06-20,Slovakia,England,0,0,UEFA Euro,Saint-Étienne,France,True,Draw
+38252,2016-06-21,Croatia,Spain,2,1,UEFA Euro,Bordeaux,France,True,Croatia
+38256,2016-06-21,Northern Ireland,Germany,0,1,UEFA Euro,Paris,France,True,Germany
+38261,2016-06-22,Hungary,Portugal,3,3,UEFA Euro,Lyon,France,True,Draw
+38263,2016-06-22,Italy,Republic of Ireland,0,1,UEFA Euro,Villeneuve-d'Ascq,France,True,Republic of Ireland
+38266,2016-06-22,Sweden,Belgium,0,1,UEFA Euro,Nice,France,True,Belgium
+38268,2016-06-25,Croatia,Portugal,0,1,UEFA Euro,Lens,France,True,Portugal
+38276,2016-06-26,France,Republic of Ireland,2,1,UEFA Euro,Lyon,France,False,France
+38277,2016-06-26,Germany,Slovakia,3,0,UEFA Euro,Villeneuve-d'Ascq,France,True,Germany
+38278,2016-06-26,Hungary,Belgium,0,4,UEFA Euro,Toulouse,France,True,Belgium
+38279,2016-06-27,England,Iceland,1,2,UEFA Euro,Nice,France,True,Iceland
+38280,2016-06-27,Italy,Spain,2,0,UEFA Euro,Saint-Denis,France,True,Italy
+38282,2016-06-30,Poland,Portugal,1,1,UEFA Euro,Marseille,France,True,Draw
+38283,2016-07-01,Wales,Belgium,3,1,UEFA Euro,Villeneuve-d'Ascq,France,True,Wales
+38284,2016-07-02,Germany,Italy,1,1,UEFA Euro,Bordeaux,France,True,Draw
+38287,2016-07-03,France,Iceland,5,2,UEFA Euro,Saint-Denis,France,False,France
+38289,2016-07-06,Portugal,Wales,2,0,UEFA Euro,Lyon,France,True,Portugal
+38290,2016-07-07,France,Germany,2,0,UEFA Euro,Marseille,France,False,France
+38291,2016-07-10,France,Portugal,0,1,UEFA Euro,Saint-Denis,France,False,Portugal
+38316,2016-08-31,Germany,Finland,2,0,Friendly,Mönchengladbach,Germany,False,Germany
+38324,2016-09-01,Belgium,Spain,0,2,Friendly,Brussels,Belgium,False,Spain
+38330,2016-09-01,Italy,France,1,3,Friendly,Bari,Italy,False,France
+38334,2016-09-01,Netherlands,Greece,1,2,Friendly,Eindhoven,Netherlands,False,Greece
+38336,2016-09-01,Portugal,Gibraltar,5,0,Friendly,Porto,Portugal,False,Portugal
+38369,2016-09-04,Malta,Scotland,1,5,FIFA World Cup qualification,Attard,Malta,False,Scotland
+38370,2016-09-04,Norway,Germany,0,3,FIFA World Cup qualification,Oslo,Norway,False,Germany
+38373,2016-09-04,Slovakia,England,0,1,FIFA World Cup qualification,Trnava,Slovakia,False,England
+38381,2016-09-05,Israel,Italy,1,3,FIFA World Cup qualification,Haifa,Israel,False,Italy
+38384,2016-09-05,Spain,Liechtenstein,8,0,FIFA World Cup qualification,León,Spain,False,Spain
+38389,2016-09-06,Belarus,France,0,0,FIFA World Cup qualification,Barysaw,Belarus,False,Draw
+38398,2016-09-06,Cyprus,Belgium,0,3,FIFA World Cup qualification,Nicosia,Cyprus,False,Belgium
+38400,2016-09-06,Gibraltar,Greece,1,4,FIFA World Cup qualification,Faro,Portugal,True,Greece
+38412,2016-09-06,Sweden,Netherlands,1,1,FIFA World Cup qualification,Solna,Sweden,False,Draw
+38413,2016-09-06,Switzerland,Portugal,2,0,FIFA World Cup qualification,Basel,Switzerland,False,Switzerland
+38435,2016-10-06,Italy,Spain,1,1,FIFA World Cup qualification,Turin,Italy,False,Draw
+38452,2016-10-07,Belgium,Bosnia and Herzegovina,4,0,FIFA World Cup qualification,Brussels,Belgium,False,Belgium
+38455,2016-10-07,France,Bulgaria,4,1,FIFA World Cup qualification,Saint-Denis,France,False,France
+38457,2016-10-07,Greece,Cyprus,2,0,FIFA World Cup qualification,Piraeus,Greece,False,Greece
+38461,2016-10-07,Netherlands,Belarus,4,1,FIFA World Cup qualification,Rotterdam,Netherlands,False,Netherlands
+38464,2016-10-07,Portugal,Andorra,6,0,FIFA World Cup qualification,Aveiro,Portugal,False,Portugal
+38472,2016-10-08,England,Malta,2,0,FIFA World Cup qualification,London,England,False,England
+38475,2016-10-08,Germany,Czech Republic,3,0,FIFA World Cup qualification,Hamburg,Germany,False,Germany
+38481,2016-10-08,Scotland,Lithuania,1,1,FIFA World Cup qualification,Glasgow,Scotland,False,Draw
+38487,2016-10-09,Albania,Spain,0,2,FIFA World Cup qualification,Shkodër,Albania,False,Spain
+38495,2016-10-09,North Macedonia,Italy,2,3,FIFA World Cup qualification,Skopje,North Macedonia,False,Italy
+38508,2016-10-10,Estonia,Greece,0,2,FIFA World Cup qualification,Tallinn,Estonia,False,Greece
+38509,2016-10-10,Faroe Islands,Portugal,0,6,FIFA World Cup qualification,Tórshavn,Faroe Islands,False,Portugal
+38510,2016-10-10,Gibraltar,Belgium,0,6,FIFA World Cup qualification,Faro,Portugal,True,Belgium
+38512,2016-10-10,Netherlands,France,0,1,FIFA World Cup qualification,Amsterdam,Netherlands,False,France
+38522,2016-10-11,Germany,Northern Ireland,2,0,FIFA World Cup qualification,Hanover,Germany,False,Germany
+38540,2016-10-11,Slovakia,Scotland,3,0,FIFA World Cup qualification,Trnava,Slovakia,False,Slovakia
+38541,2016-10-11,Slovenia,England,0,0,FIFA World Cup qualification,Ljubljana,Slovenia,False,Draw
+38566,2016-11-09,Greece,Belarus,0,1,Friendly,Piraeus,Greece,False,Belarus
+38571,2016-11-09,Netherlands,Belgium,1,1,Friendly,Amsterdam,Netherlands,False,Draw
+38589,2016-11-11,England,Scotland,3,0,FIFA World Cup qualification,London,England,False,England
+38590,2016-11-11,France,Sweden,2,1,FIFA World Cup qualification,Saint-Denis,France,False,France
+38598,2016-11-11,San Marino,Germany,0,8,FIFA World Cup qualification,Serravalle,San Marino,False,Germany
+38611,2016-11-12,Liechtenstein,Italy,0,4,FIFA World Cup qualification,Vaduz,Liechtenstein,False,Italy
+38618,2016-11-12,Spain,North Macedonia,4,0,FIFA World Cup qualification,Granada,Spain,False,Spain
+38623,2016-11-13,Belgium,Estonia,8,1,FIFA World Cup qualification,Brussels,Belgium,False,Belgium
+38627,2016-11-13,Greece,Bosnia and Herzegovina,1,1,FIFA World Cup qualification,Piraeus,Greece,False,Draw
+38631,2016-11-13,Luxembourg,Netherlands,1,3,FIFA World Cup qualification,Luxembourg,Luxembourg,False,Netherlands
+38632,2016-11-13,Portugal,Latvia,4,1,FIFA World Cup qualification,Faro,Portugal,False,Portugal
+38652,2016-11-15,England,Spain,2,2,Friendly,London,England,False,Draw
+38653,2016-11-15,France,Ivory Coast,0,0,Friendly,Lens,France,False,Draw
+38656,2016-11-15,Italy,Germany,0,0,Friendly,Milan,Italy,False,Draw
+38781,2017-03-22,Germany,England,1,0,Friendly,Dortmund,Germany,False,Germany
+38784,2017-03-22,Scotland,Canada,1,1,Friendly,Edinburgh,Scotland,False,Draw
+38810,2017-03-24,Italy,Albania,2,0,FIFA World Cup qualification,Palermo,Italy,False,Italy
+38818,2017-03-24,Spain,Israel,4,1,FIFA World Cup qualification,Gijón,Spain,False,Spain
+38824,2017-03-25,Belgium,Greece,1,1,FIFA World Cup qualification,Brussels,Belgium,False,Draw
+38826,2017-03-25,Bulgaria,Netherlands,2,0,FIFA World Cup qualification,Sofia,Bulgaria,False,Bulgaria
+38829,2017-03-25,Luxembourg,France,1,3,FIFA World Cup qualification,Luxembourg,Luxembourg,False,France
+38831,2017-03-25,Portugal,Hungary,3,0,FIFA World Cup qualification,Lisbon,Portugal,False,Portugal
+38837,2017-03-26,Azerbaijan,Germany,1,4,FIFA World Cup qualification,Baku,Azerbaijan,False,Germany
+38839,2017-03-26,England,Lithuania,2,0,FIFA World Cup qualification,London,England,False,England
+38847,2017-03-26,Scotland,Slovenia,1,0,FIFA World Cup qualification,Glasgow,Scotland,False,Scotland
+38866,2017-03-28,France,Spain,0,2,Friendly,Saint-Denis,France,False,Spain
+38883,2017-03-28,Netherlands,Italy,1,2,Friendly,Amsterdam,Netherlands,False,Italy
+38889,2017-03-28,Portugal,Sweden,2,3,Friendly,Funchal,Portugal,False,Sweden
+38890,2017-03-28,Russia,Belgium,3,3,Friendly,Sochi,Russia,False,Draw
+38918,2017-05-31,Italy,San Marino,8,0,Friendly,Empoli,Italy,False,Italy
+38920,2017-05-31,Morocco,Netherlands,1,2,Friendly,Agadir,Morocco,False,Netherlands
+38926,2017-06-02,France,Paraguay,5,0,Friendly,Rennes,France,False,France
+38931,2017-06-03,Portugal,Cyprus,4,0,Friendly,Estoril,Portugal,False,Portugal
+38939,2017-06-04,Netherlands,Ivory Coast,5,0,Friendly,Rotterdam,Netherlands,False,Netherlands
+38942,2017-06-05,Belgium,Czech Republic,2,1,Friendly,Brussels,Belgium,False,Belgium
+38954,2017-06-06,Denmark,Germany,1,1,Friendly,Brøndby,Denmark,False,Draw
+38971,2017-06-07,Italy,Uruguay,3,0,Friendly,Nice,France,True,Italy
+38973,2017-06-07,Spain,Colombia,2,2,Friendly,Murcia,Spain,False,Draw
+38989,2017-06-09,Bosnia and Herzegovina,Greece,0,0,FIFA World Cup qualification,Zenica,Bosnia and Herzegovina,False,Draw
+38990,2017-06-09,Estonia,Belgium,0,2,FIFA World Cup qualification,Tallinn,Estonia,False,Belgium
+38993,2017-06-09,Latvia,Portugal,0,3,FIFA World Cup qualification,Riga,Latvia,False,Portugal
+38995,2017-06-09,Netherlands,Luxembourg,5,0,FIFA World Cup qualification,Rotterdam,Netherlands,False,Netherlands
+38999,2017-06-09,Sweden,France,2,1,FIFA World Cup qualification,Solna,Sweden,False,Sweden
+39009,2017-06-10,Germany,San Marino,7,0,FIFA World Cup qualification,Nuremberg,Germany,False,Germany
+39022,2017-06-10,Scotland,England,2,2,FIFA World Cup qualification,Glasgow,Scotland,False,Draw
+39040,2017-06-11,Italy,Liechtenstein,5,0,FIFA World Cup qualification,Udine,Italy,False,Italy
+39042,2017-06-11,North Macedonia,Spain,1,2,FIFA World Cup qualification,Skopje,North Macedonia,False,Spain
+39058,2017-06-13,France,England,3,2,Friendly,Saint-Denis,France,False,France
+39083,2017-06-18,Portugal,Mexico,2,2,Confederations Cup,Kazan,Russia,True,Draw
+39084,2017-06-19,Australia,Germany,2,3,Confederations Cup,Sochi,Russia,True,Germany
+39086,2017-06-21,Russia,Portugal,0,1,Confederations Cup,Moscow,Russia,False,Portugal
+39088,2017-06-22,Germany,Chile,1,1,Confederations Cup,Kazan,Russia,True,Draw
+39091,2017-06-24,New Zealand,Portugal,0,4,Confederations Cup,Saint Petersburg,Russia,True,Portugal
+39094,2017-06-25,Germany,Cameroon,3,1,Confederations Cup,Sochi,Russia,True,Germany
+39127,2017-06-28,Portugal,Chile,0,0,Confederations Cup,Kazan,Russia,True,Draw
+39131,2017-06-29,Germany,Mexico,4,1,Confederations Cup,Sochi,Russia,True,Germany
+39152,2017-07-02,Chile,Germany,0,1,Confederations Cup,Saint Petersburg,Russia,True,Germany
+39153,2017-07-02,Portugal,Mexico,2,1,Confederations Cup,Moscow,Russia,True,Portugal
+39254,2017-08-31,Belgium,Gibraltar,9,0,FIFA World Cup qualification,Liège,Belgium,False,Belgium
+39260,2017-08-31,France,Netherlands,4,0,FIFA World Cup qualification,Saint-Denis,France,False,France
+39261,2017-08-31,Greece,Estonia,0,0,FIFA World Cup qualification,Piraeus,Greece,False,Draw
+39270,2017-08-31,Portugal,Faroe Islands,5,1,FIFA World Cup qualification,Porto,Portugal,False,Portugal
+39279,2017-09-01,Czech Republic,Germany,1,2,FIFA World Cup qualification,Prague,Czech Republic,False,Germany
+39283,2017-09-01,Lithuania,Scotland,0,3,FIFA World Cup qualification,Vilnius,Lithuania,False,Scotland
+39284,2017-09-01,Malta,England,0,4,FIFA World Cup qualification,Attard,Malta,False,England
+39307,2017-09-02,Spain,Italy,3,0,FIFA World Cup qualification,Madrid,Spain,False,Spain
+39315,2017-09-03,France,Luxembourg,0,0,FIFA World Cup qualification,Toulouse,France,False,Draw
+39317,2017-09-03,Greece,Belgium,1,2,FIFA World Cup qualification,Piraeus,Greece,False,Belgium
+39318,2017-09-03,Hungary,Portugal,0,1,FIFA World Cup qualification,Budapest,Hungary,False,Portugal
+39320,2017-09-03,Netherlands,Bulgaria,3,1,FIFA World Cup qualification,Amsterdam,Netherlands,False,Netherlands
+39324,2017-09-04,England,Slovakia,2,1,FIFA World Cup qualification,London,England,False,England
+39325,2017-09-04,Germany,Norway,6,0,FIFA World Cup qualification,Stuttgart,Germany,False,Germany
+39331,2017-09-04,Scotland,Malta,2,0,FIFA World Cup qualification,Glasgow,Scotland,False,Scotland
+39353,2017-09-05,Italy,Israel,1,0,FIFA World Cup qualification,Reggio Emilia,Italy,False,Italy
+39358,2017-09-05,Liechtenstein,Spain,0,8,FIFA World Cup qualification,Vaduz,Liechtenstein,False,Spain
+39385,2017-10-05,England,Slovenia,1,0,FIFA World Cup qualification,London,England,False,England
+39391,2017-10-05,Northern Ireland,Germany,1,3,FIFA World Cup qualification,Belfast,Northern Ireland,False,Germany
+39395,2017-10-05,Scotland,Slovakia,1,0,FIFA World Cup qualification,Glasgow,Scotland,False,Scotland
+39403,2017-10-06,Italy,North Macedonia,1,1,FIFA World Cup qualification,Turin,Italy,False,Draw
+39410,2017-10-06,Spain,Albania,3,0,FIFA World Cup qualification,Alicante,Spain,False,Spain
+39413,2017-10-07,Andorra,Portugal,0,2,FIFA World Cup qualification,Sant Julià de Lòria,Andorra,False,Portugal
+39414,2017-10-07,Belarus,Netherlands,1,3,FIFA World Cup qualification,Barysaw,Belarus,False,Netherlands
+39415,2017-10-07,Bosnia and Herzegovina,Belgium,3,4,FIFA World Cup qualification,Sarajevo,Bosnia and Herzegovina,False,Belgium
+39416,2017-10-07,Bulgaria,France,0,1,FIFA World Cup qualification,Sofia,Bulgaria,False,France
+39420,2017-10-07,Cyprus,Greece,1,2,FIFA World Cup qualification,Nicosia,Cyprus,False,Greece
+39439,2017-10-08,Germany,Azerbaijan,5,1,FIFA World Cup qualification,Kaiserslautern,Germany,False,Germany
+39441,2017-10-08,Lithuania,England,0,1,FIFA World Cup qualification,Vilnius,Lithuania,False,England
+39445,2017-10-08,Slovenia,Scotland,2,2,FIFA World Cup qualification,Ljubljana,Slovenia,False,Draw
+39447,2017-10-09,Albania,Italy,0,1,FIFA World Cup qualification,Shkodër,Albania,False,Italy
+39451,2017-10-09,Israel,Spain,0,1,FIFA World Cup qualification,Jerusalem,Israel,False,Spain
+39459,2017-10-10,Belgium,Cyprus,4,0,FIFA World Cup qualification,Brussels,Belgium,False,Belgium
+39465,2017-10-10,France,Belarus,2,1,FIFA World Cup qualification,Saint-Denis,France,False,France
+39466,2017-10-10,Greece,Gibraltar,4,0,FIFA World Cup qualification,Piraeus,Greece,False,Greece
+39476,2017-10-10,Netherlands,Sweden,2,0,FIFA World Cup qualification,Amsterdam,Netherlands,False,Netherlands
+39481,2017-10-10,Portugal,Switzerland,2,0,FIFA World Cup qualification,Lisbon,Portugal,False,Portugal
+39500,2017-11-09,Croatia,Greece,4,1,FIFA World Cup qualification,Zagreb,Croatia,False,Croatia
+39507,2017-11-09,Scotland,Netherlands,0,1,Friendly,Aberdeen,Scotland,False,Netherlands
+39510,2017-11-10,Belgium,Mexico,3,3,Friendly,Brussels,Belgium,False,Draw
+39512,2017-11-10,England,Germany,0,0,Friendly,London,England,False,Draw
+39513,2017-11-10,France,Wales,2,0,Friendly,Saint-Denis,France,False,France
+39520,2017-11-10,Portugal,Saudi Arabia,3,0,Friendly,Viseu,Portugal,False,Portugal
+39522,2017-11-10,Sweden,Italy,1,0,FIFA World Cup qualification,Solna,Sweden,False,Sweden
+39536,2017-11-11,Spain,Costa Rica,5,0,Friendly,Málaga,Spain,False,Spain
+39543,2017-11-12,Greece,Croatia,0,0,FIFA World Cup qualification,Piraeus,Greece,False,Draw
+39552,2017-11-13,Italy,Sweden,0,0,FIFA World Cup qualification,Milan,Italy,False,Draw
+39560,2017-11-14,Belgium,Japan,1,0,Friendly,Bruges,Belgium,False,Belgium
+39565,2017-11-14,England,Brazil,0,0,Friendly,London,England,False,Draw
+39567,2017-11-14,Germany,France,2,2,Friendly,Cologne,Germany,False,Draw
+39576,2017-11-14,Portugal,United States,1,1,Friendly,Leiria,Portugal,False,Draw
+39578,2017-11-14,Romania,Netherlands,0,3,Friendly,Bucharest,Romania,False,Netherlands
+39579,2017-11-14,Russia,Spain,3,3,Friendly,Saint Petersburg,Russia,False,Draw
+39739,2018-03-23,France,Colombia,2,3,Friendly,Saint-Denis,France,False,Colombia
+39741,2018-03-23,Germany,Spain,1,1,Friendly,Düsseldorf,Germany,False,Draw
+39742,2018-03-23,Greece,Switzerland,0,1,Friendly,Athens,Greece,False,Switzerland
+39745,2018-03-23,Italy,Argentina,0,2,Friendly,Manchester,England,True,Argentina
+39748,2018-03-23,Netherlands,England,0,1,Friendly,Amsterdam,Netherlands,False,England
+39752,2018-03-23,Portugal,Egypt,2,1,Friendly,Zürich,Switzerland,True,Portugal
+39754,2018-03-23,Scotland,Costa Rica,0,1,Friendly,Glasgow,Scotland,False,Costa Rica
+39793,2018-03-26,Portugal,Netherlands,0,3,Friendly,Geneva,Switzerland,True,Netherlands
+39801,2018-03-27,Belgium,Saudi Arabia,4,0,Friendly,Brussels,Belgium,False,Belgium
+39806,2018-03-27,England,Italy,1,1,Friendly,London,England,False,Draw
+39808,2018-03-27,Germany,Brazil,0,1,Friendly,Berlin,Germany,False,Brazil
+39809,2018-03-27,Greece,Egypt,1,0,Friendly,Zürich,Switzerland,True,Greece
+39810,2018-03-27,Hungary,Scotland,0,1,Friendly,Budapest,Hungary,False,Scotland
+39831,2018-03-27,Russia,France,1,3,Friendly,Saint Petersburg,Russia,False,France
+39835,2018-03-27,Spain,Argentina,6,1,Friendly,Madrid,Spain,False,Spain
+39855,2018-05-15,Saudi Arabia,Greece,2,0,Friendly,Seville,Spain,True,Saudi Arabia
+39868,2018-05-28,Portugal,Tunisia,2,2,Friendly,Braga,Portugal,False,Draw
+39869,2018-05-28,Italy,Saudi Arabia,2,1,Friendly,St. Gallen,Switzerland,True,Italy
+39870,2018-05-28,France,Republic of Ireland,2,0,Friendly,Saint-Denis,France,False,France
+39881,2018-05-29,Peru,Scotland,2,0,Friendly,Lima,Peru,False,Peru
+39896,2018-05-31,Slovakia,Netherlands,1,1,Friendly,Trnava,Slovakia,False,Draw
+39905,2018-06-01,France,Italy,3,1,Friendly,Nice,France,False,France
+39917,2018-06-02,England,Nigeria,2,1,Friendly,London,England,False,England
+39919,2018-06-02,Mexico,Scotland,1,0,Friendly,Mexico City,Mexico,False,Mexico
+39922,2018-06-02,Belgium,Portugal,0,0,Friendly,Brussels,Belgium,False,Draw
+39923,2018-06-02,Austria,Germany,2,1,Friendly,Klagenfurt,Austria,False,Austria
+39940,2018-06-03,Spain,Switzerland,1,1,Friendly,Vila-real,Spain,False,Draw
+39955,2018-06-04,Italy,Netherlands,1,1,Friendly,Turin,Italy,False,Draw
+39978,2018-06-06,Belgium,Egypt,3,0,Friendly,Brussels,Belgium,False,Belgium
+39982,2018-06-07,England,Costa Rica,2,0,Friendly,Leeds,England,False,England
+39984,2018-06-07,Portugal,Algeria,3,0,Friendly,Lisbon,Portugal,False,Portugal
+39996,2018-06-08,Germany,Saudi Arabia,2,1,Friendly,Leverkusen,Germany,False,Germany
+40012,2018-06-09,Tunisia,Spain,0,1,Friendly,Krasnodar,Russia,True,Spain
+40013,2018-06-09,France,United States,1,1,Friendly,Lyon,France,False,Draw
+40024,2018-06-11,Belgium,Costa Rica,4,1,Friendly,Brussels,Belgium,False,Belgium
+40030,2018-06-15,Portugal,Spain,3,3,FIFA World Cup,Sochi,Russia,True,Draw
+40031,2018-06-16,France,Australia,2,1,FIFA World Cup,Kazan,Russia,True,France
+40036,2018-06-17,Germany,Mexico,0,1,FIFA World Cup,Moscow,Russia,True,Mexico
+40039,2018-06-18,Belgium,Panama,3,0,FIFA World Cup,Sochi,Russia,True,Belgium
+40040,2018-06-18,Tunisia,England,1,2,FIFA World Cup,Volgograd,Russia,True,England
+40044,2018-06-20,Portugal,Morocco,1,0,FIFA World Cup,Moscow,Russia,True,Portugal
+40046,2018-06-20,Iran,Spain,0,1,FIFA World Cup,Kazan,Russia,True,Spain
+40048,2018-06-21,France,Peru,1,0,FIFA World Cup,Ekaterinburg,Russia,True,France
+40053,2018-06-23,Belgium,Tunisia,5,2,FIFA World Cup,Moscow,Russia,True,Belgium
+40055,2018-06-23,Germany,Sweden,2,1,FIFA World Cup,Sochi,Russia,True,Germany
+40056,2018-06-24,England,Panama,6,1,FIFA World Cup,Nizhny Novgorod,Russia,True,England
+40061,2018-06-25,Spain,Morocco,2,2,FIFA World Cup,Kaliningrad,Russia,True,Draw
+40062,2018-06-25,Iran,Portugal,1,1,FIFA World Cup,Saransk,Russia,True,Draw
+40064,2018-06-26,Denmark,France,0,0,FIFA World Cup,Moscow,Russia,True,Draw
+40067,2018-06-27,South Korea,Germany,2,0,FIFA World Cup,Kazan,Russia,True,South Korea
+40074,2018-06-28,England,Belgium,0,1,FIFA World Cup,Kaliningrad,Russia,True,Belgium
+40075,2018-06-30,France,Argentina,4,3,FIFA World Cup,Kazan,Russia,True,France
+40076,2018-06-30,Uruguay,Portugal,2,1,FIFA World Cup,Sochi,Russia,True,Uruguay
+40077,2018-07-01,Russia,Spain,1,1,FIFA World Cup,Moscow,Russia,False,Draw
+40080,2018-07-02,Belgium,Japan,3,2,FIFA World Cup,Rostov-on-Don,Russia,True,Belgium
+40082,2018-07-03,Colombia,England,1,1,FIFA World Cup,Moscow,Russia,True,Draw
+40084,2018-07-06,Uruguay,France,0,2,FIFA World Cup,Nizhny Novgorod,Russia,True,France
+40085,2018-07-06,Brazil,Belgium,1,2,FIFA World Cup,Kazan,Russia,True,Belgium
+40086,2018-07-07,Sweden,England,0,2,FIFA World Cup,Samara,Russia,True,England
+40088,2018-07-10,France,Belgium,1,0,FIFA World Cup,Saint Petersburg,Russia,True,France
+40089,2018-07-11,Croatia,England,2,1,FIFA World Cup,Moscow,Russia,True,Croatia
+40090,2018-07-14,Belgium,England,2,0,FIFA World Cup,Saint Petersburg,Russia,True,Belgium
+40091,2018-07-15,France,Croatia,4,2,FIFA World Cup,Moscow,Russia,True,France
+40117,2018-09-06,Germany,France,0,0,UEFA Nations League,Munich,Germany,False,Draw
+40130,2018-09-06,Netherlands,Peru,2,1,Friendly,Amsterdam,Netherlands,False,Netherlands
+40131,2018-09-06,Portugal,Croatia,1,1,Friendly,Faro-Loulé,Portugal,False,Draw
+40140,2018-09-07,Italy,Poland,1,1,UEFA Nations League,Bologna,Italy,False,Draw
+40153,2018-09-07,Scotland,Belgium,0,4,Friendly,Glasgow,Scotland,False,Belgium
+40162,2018-09-08,England,Spain,1,2,UEFA Nations League,London,England,False,Spain
+40165,2018-09-08,Estonia,Greece,0,1,UEFA Nations League,Tallinn,Estonia,False,Greece
+40183,2018-09-09,France,Netherlands,2,1,UEFA Nations League,Paris,France,False,France
+40191,2018-09-09,Germany,Peru,2,1,Friendly,Sinsheim,Germany,False,Germany
+40201,2018-09-10,Portugal,Italy,1,0,UEFA Nations League,Lisbon,Portugal,False,Portugal
+40203,2018-09-10,Scotland,Albania,2,0,UEFA Nations League,Glasgow,Scotland,False,Scotland
+40217,2018-09-11,Iceland,Belgium,0,3,UEFA Nations League,Reykjavík,Iceland,False,Belgium
+40218,2018-09-11,Spain,Croatia,6,0,UEFA Nations League,Elche,Spain,False,Spain
+40220,2018-09-11,Hungary,Greece,2,1,UEFA Nations League,Budapest,Hungary,False,Hungary
+40226,2018-09-11,England,Switzerland,1,0,Friendly,London,England,False,England
+40251,2018-10-10,Italy,Ukraine,1,1,Friendly,Genoa,Italy,False,Draw
+40254,2018-10-11,Poland,Portugal,2,3,UEFA Nations League,Chorzów,Poland,False,Portugal
+40256,2018-10-11,Israel,Scotland,2,1,UEFA Nations League,Haifa,Israel,False,Israel
+40263,2018-10-11,France,Iceland,2,2,Friendly,Guingamp,France,False,Draw
+40270,2018-10-11,Wales,Spain,1,4,Friendly,Cardiff,Wales,False,Spain
+40273,2018-10-12,Belgium,Switzerland,2,1,UEFA Nations League,Brussels,Belgium,False,Belgium
+40274,2018-10-12,Croatia,England,0,0,UEFA Nations League,Rijeka,Croatia,False,Draw
+40277,2018-10-12,Greece,Hungary,1,0,UEFA Nations League,Athens,Greece,False,Greece
+40301,2018-10-13,Netherlands,Germany,3,0,UEFA Nations League,Amsterdam,Netherlands,False,Netherlands
+40320,2018-10-14,Poland,Italy,0,1,UEFA Nations League,Chorzów,Poland,False,Italy
+40327,2018-10-14,Scotland,Portugal,1,3,Friendly,Glasgow,Scotland,False,Portugal
+40335,2018-10-15,Spain,England,2,3,UEFA Nations League,Seville,Spain,False,England
+40338,2018-10-15,Finland,Greece,2,0,UEFA Nations League,Tampere,Finland,False,Finland
+40344,2018-10-16,France,Germany,2,1,UEFA Nations League,Paris,France,False,France
+40354,2018-10-16,Belgium,Netherlands,1,1,Friendly,Brussels,Belgium,False,Draw
+40402,2018-11-15,Belgium,Iceland,2,0,UEFA Nations League,Brussels,Belgium,False,Belgium
+40403,2018-11-15,Croatia,Spain,3,2,UEFA Nations League,Zagreb,Croatia,False,Croatia
+40406,2018-11-15,Greece,Finland,1,0,UEFA Nations League,Athens,Greece,False,Greece
+40411,2018-11-15,England,United States,3,0,Friendly,London,England,False,England
+40412,2018-11-15,Germany,Russia,3,0,Friendly,Leipzig,Germany,False,Germany
+40419,2018-11-16,Netherlands,France,2,0,UEFA Nations League,Rotterdam,Netherlands,False,Netherlands
+40446,2018-11-17,Italy,Portugal,0,0,UEFA Nations League,Milan,Italy,False,Draw
+40448,2018-11-17,Albania,Scotland,0,4,UEFA Nations League,Shkodër,Albania,False,Scotland
+40467,2018-11-18,Switzerland,Belgium,5,2,UEFA Nations League,Lucerne,Switzerland,False,Switzerland
+40468,2018-11-18,England,Croatia,2,1,UEFA Nations League,London,England,False,England
+40470,2018-11-18,Greece,Estonia,0,1,UEFA Nations League,Athens,Greece,False,Estonia
+40474,2018-11-18,Spain,Bosnia and Herzegovina,1,0,Friendly,Las Palmas,Spain,False,Spain
+40484,2018-11-19,Germany,Netherlands,2,2,UEFA Nations League,Gelsenkirchen,Germany,False,Draw
+40497,2018-11-20,Portugal,Poland,1,1,UEFA Nations League,Guimarães,Portugal,False,Draw
+40499,2018-11-20,Scotland,Israel,3,2,UEFA Nations League,Glasgow,Scotland,False,Scotland
+40511,2018-11-20,France,Uruguay,1,0,Friendly,Paris,France,False,France
+40514,2018-11-20,Italy,United States,1,0,Friendly,Genk,Belgium,True,Italy

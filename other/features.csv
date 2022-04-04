@@ -1,0 +1,2037 @@
+,date,home_team,away_team,home_score,away_score,tournament,neutral,winner,GD,home_team_curr_form,away_team_curr_form,home_team_home_form,home_rank,away_rank,rank_diff
+0,2000-01-26,Spain,Poland,3,0,Friendly,False,Spain,3,10,1,10,7,43,36
+1,2000-02-23,Belgium,Portugal,1,1,Friendly,False,Draw,0,8,11,5,27,6,21
+2,2000-02-23,Croatia,Spain,0,0,Friendly,False,Draw,0,2,8,4,18,7,11
+3,2000-02-23,England,Argentina,0,0,Friendly,False,Draw,0,8,8,8,17,3,14
+4,2000-02-23,France,Poland,1,0,Friendly,False,France,1,13,1,12,2,43,41
+5,2000-02-23,Greece,Austria,4,1,Friendly,False,Greece,3,11,1,11,42,44,2
+6,2000-02-23,Italy,Sweden,1,0,Friendly,False,Italy,1,5,8,7,4,23,19
+7,2000-02-23,Netherlands,Germany,2,1,Friendly,False,Netherlands,1,7,10,6,8,11,3
+8,2000-03-29,Belgium,Netherlands,2,2,Friendly,False,Draw,0,8,7,6,27,8,19
+9,2000-03-29,Croatia,Germany,1,1,Friendly,False,Draw,0,3,8,4,18,11,7
+10,2000-03-29,Greece,Romania,2,0,Friendly,False,Greece,2,11,8,11,42,13,29
+11,2000-03-29,Portugal,Denmark,2,1,Friendly,False,Portugal,1,11,4,15,6,22,16
+12,2000-03-29,Scotland,France,0,2,Friendly,False,France,2,9,15,6,25,2,23
+13,2000-03-29,Spain,Italy,2,0,Friendly,False,Spain,2,8,4,10,7,4,3
+14,2000-04-26,France,Slovenia,3,2,Friendly,False,France,1,15,1,12,2,35,33
+15,2000-04-26,Germany,Switzerland,1,1,Friendly,False,Draw,0,6,4,11,11,58,47
+16,2000-04-26,Republic of Ireland,Greece,0,1,Friendly,False,Greece,1,1,13,4,31,42,11
+17,2000-04-26,Italy,Portugal,2,0,Friendly,False,Italy,2,7,8,9,4,6,2
+18,2000-04-26,Netherlands,Scotland,0,0,Friendly,False,Draw,0,7,7,7,8,25,17
+19,2000-04-26,Norway,Belgium,0,2,Friendly,False,Belgium,2,7,8,5,14,27,13
+20,2000-05-27,England,Brazil,1,1,Friendly,False,Draw,0,8,9,8,17,1,16
+21,2000-05-27,Netherlands,Romania,2,1,Friendly,False,Netherlands,1,9,7,9,8,13,5
+22,2000-05-28,Croatia,France,0,2,Friendly,False,France,2,2,15,4,18,2,16
+23,2000-05-30,Republic of Ireland,Scotland,1,2,Friendly,False,Scotland,1,1,7,1,31,25,6
+24,2000-05-31,England,Ukraine,2,0,Friendly,False,England,2,8,3,8,17,34,17
+25,2000-06-02,Portugal,Wales,3,0,Friendly,False,Portugal,3,10,3,15,6,109,103
+26,2000-06-03,Denmark,Belgium,2,2,Friendly,False,Draw,0,5,9,8,22,27,5
+27,2000-06-03,Germany,Czech Republic,3,2,Friendly,False,Germany,1,8,10,11,11,5,6
+28,2000-06-03,Malta,England,1,2,Friendly,False,England,1,0,8,0,119,17,102
+29,2000-06-03,Norway,Italy,1,0,Friendly,False,Norway,1,9,6,7,14,4,10
+30,2000-06-03,Romania,Greece,2,1,Friendly,False,Romania,1,7,10,13,13,42,29
+31,2000-06-03,Sweden,Spain,1,1,Friendly,False,Draw,0,8,8,11,23,7,16
+32,2000-06-04,France,Japan,2,2,Friendly,True,Draw,0,13,3,13,2,38,36
+33,2000-06-04,Netherlands,Poland,3,1,Friendly,True,Netherlands,2,11,1,11,8,43,35
+34,2000-06-06,Morocco,France,1,5,Friendly,False,France,4,6,13,4,28,2,26
+35,2000-06-07,Germany,Liechtenstein,8,2,Friendly,False,Germany,6,8,0,11,11,147,136
+36,2000-06-07,Luxembourg,Spain,0,1,Friendly,False,Spain,1,1,11,1,139,7,132
+37,2000-06-10,Belgium,Sweden,2,1,UEFA Euro,False,Belgium,1,9,5,8,27,23,4
+38,2000-06-11,France,Denmark,3,0,UEFA Euro,True,France,3,13,5,13,2,22,20
+39,2000-06-11,Netherlands,Czech Republic,1,0,UEFA Euro,False,Netherlands,1,11,7,13,8,5,3
+40,2000-06-11,Turkey,Italy,1,2,UEFA Euro,True,Italy,1,5,9,6,30,4,26
+41,2000-06-12,Germany,Romania,1,1,UEFA Euro,True,Draw,0,9,5,9,11,13,2
+42,2000-06-12,Portugal,England,3,2,UEFA Euro,True,Portugal,1,10,8,15,6,17,11
+43,2000-06-13,Spain,Norway,0,1,UEFA Euro,True,Norway,1,8,9,7,7,14,7
+44,2000-06-14,Belgium,Italy,0,2,UEFA Euro,False,Italy,2,8,9,8,27,4,23
+45,2000-06-16,Czech Republic,France,1,2,UEFA Euro,True,France,1,4,13,7,5,2,3
+46,2000-06-16,Netherlands,Denmark,3,0,UEFA Euro,False,Netherlands,3,13,4,13,8,22,14
+47,2000-06-17,England,Germany,1,0,UEFA Euro,True,England,1,10,8,8,17,11,6
+48,2000-06-17,Romania,Portugal,0,1,UEFA Euro,True,Portugal,1,4,12,10,13,6,7
+49,2000-06-18,Slovenia,Spain,1,2,UEFA Euro,True,Spain,1,1,10,1,35,7,28
+50,2000-06-19,Belgium,Turkey,0,2,UEFA Euro,False,Turkey,2,7,8,5,27,30,3
+51,2000-06-19,Italy,Sweden,2,1,UEFA Euro,True,Italy,1,12,2,9,4,23,19
+52,2000-06-20,England,Romania,2,3,UEFA Euro,True,Romania,1,9,7,8,17,13,4
+53,2000-06-20,Portugal,Germany,3,0,UEFA Euro,True,Portugal,3,12,7,15,6,11,5
+54,2000-06-21,Netherlands,France,3,2,UEFA Euro,False,Netherlands,1,15,10,15,8,2,6
+55,2000-06-21,Serbia,Spain,3,4,UEFA Euro,True,Spain,1,2,10,1,201,7,194
+56,2000-06-24,Italy,Romania,2,0,UEFA Euro,True,Italy,2,12,7,12,4,13,9
+57,2000-06-24,Turkey,Portugal,0,2,UEFA Euro,True,Portugal,2,7,15,6,30,6,24
+58,2000-06-25,Netherlands,Serbia,6,1,UEFA Euro,False,Netherlands,5,15,2,15,8,201,193
+59,2000-06-25,Spain,France,1,2,UEFA Euro,True,France,1,9,12,6,7,2,5
+60,2000-06-28,France,Portugal,2,1,UEFA Euro,True,France,1,12,12,13,2,6,4
+61,2000-06-29,Netherlands,Italy,0,0,UEFA Euro,False,Italy,0,12,15,12,8,4,4
+62,2000-07-02,France,Italy,2,1,UEFA Euro,True,France,1,12,12,13,2,4,2
+63,2000-08-16,Bulgaria,Belgium,1,3,Friendly,False,Belgium,2,5,7,7,53,27,26
+64,2000-08-16,Germany,Spain,4,1,Friendly,False,Germany,3,7,6,11,11,7,4
+65,2000-08-16,Portugal,Lithuania,5,1,Friendly,False,Portugal,4,12,4,15,6,85,79
+66,2000-08-16,Switzerland,Greece,2,2,Friendly,False,Draw,0,4,10,3,58,42,16
+67,2000-09-02,Belgium,Croatia,0,0,FIFA World Cup qualification,False,Draw,0,7,3,5,27,18,9
+68,2000-09-02,Bosnia and Herzegovina,Spain,1,2,FIFA World Cup qualification,False,Spain,1,3,9,3,78,7,71
+69,2000-09-02,France,England,1,1,Friendly,False,Draw,0,10,7,11,2,17,15
+70,2000-09-02,Germany,Greece,2,0,FIFA World Cup qualification,False,Germany,2,7,7,13,11,42,31
+71,2000-09-02,Latvia,Scotland,0,1,FIFA World Cup qualification,False,Scotland,1,4,10,2,92,25,67
+72,2000-09-02,Netherlands,Republic of Ireland,2,2,FIFA World Cup qualification,False,Draw,0,10,2,10,8,31,23
+73,2000-09-03,Estonia,Portugal,1,3,FIFA World Cup qualification,False,Portugal,2,2,12,2,67,6,61
+74,2000-09-03,Hungary,Italy,2,2,FIFA World Cup qualification,False,Draw,0,2,10,3,47,4,43
+75,2000-10-04,France,Cameroon,1,1,Friendly,False,Draw,0,11,5,11,2,39,37
+76,2000-10-07,Cyprus,Netherlands,0,4,FIFA World Cup qualification,False,Netherlands,4,3,10,4,62,8,54
+77,2000-10-07,England,Germany,0,1,FIFA World Cup qualification,False,Germany,1,4,9,7,17,11,6
+78,2000-10-07,Greece,Finland,1,0,FIFA World Cup qualification,False,Greece,1,7,3,13,42,59,17
+79,2000-10-07,Italy,Romania,3,0,FIFA World Cup qualification,False,Italy,3,10,4,15,4,13,9
+80,2000-10-07,Latvia,Belgium,0,4,FIFA World Cup qualification,False,Belgium,4,4,7,1,92,27,65
+81,2000-10-07,Portugal,Republic of Ireland,1,1,FIFA World Cup qualification,False,Draw,0,10,2,13,6,31,25
+82,2000-10-07,San Marino,Scotland,0,2,FIFA World Cup qualification,False,Scotland,2,0,10,0,168,25,143
+83,2000-10-07,South Africa,France,0,0,Friendly,False,Draw,0,1,9,2,20,2,18
+84,2000-10-07,Spain,Israel,2,0,FIFA World Cup qualification,False,Spain,2,9,0,9,7,41,34
+85,2000-10-11,Albania,Greece,2,0,FIFA World Cup qualification,False,Albania,2,4,4,4,72,42,30
+86,2000-10-11,Austria,Spain,1,1,FIFA World Cup qualification,False,Draw,0,2,7,4,44,7,37
+87,2000-10-11,Croatia,Scotland,1,1,FIFA World Cup qualification,False,Draw,0,4,11,4,18,25,7
+88,2000-10-11,Finland,England,0,0,FIFA World Cup qualification,False,Draw,0,4,5,5,59,17,42
+89,2000-10-11,Italy,Georgia,2,0,FIFA World Cup qualification,False,Italy,2,10,1,15,4,66,62
+90,2000-10-11,Netherlands,Portugal,0,2,FIFA World Cup qualification,False,Portugal,2,7,10,7,8,6,2
+91,2000-11-15,Denmark,Germany,2,1,Friendly,False,Denmark,1,4,9,8,22,11,11
+92,2000-11-15,Greece,Slovakia,0,2,Friendly,False,Slovakia,2,4,3,10,42,24,18
+93,2000-11-15,Italy,England,1,0,Friendly,False,Italy,1,10,2,15,4,17,13
+94,2000-11-15,Portugal,Israel,2,1,Friendly,False,Portugal,1,13,0,13,6,41,35
+95,2000-11-15,Scotland,Australia,0,2,Friendly,False,Australia,2,10,3,6,25,73,48
+96,2000-11-15,Spain,Netherlands,1,2,Friendly,False,Netherlands,1,7,7,6,7,8,1
+97,2000-11-15,Turkey,France,0,4,Friendly,False,France,4,4,9,3,30,2,28
+98,2000-12-13,Greece,Serbia,1,1,Friendly,False,Draw,0,4,2,10,42,201,159
+99,2001-02-27,France,Germany,1,0,Friendly,False,France,1,9,9,11,1,12,11
+100,2001-02-28,Belgium,San Marino,10,1,FIFA World Cup qualification,False,Belgium,9,10,0,7,20,158,138
+101,2001-02-28,England,Spain,3,0,Friendly,False,England,3,5,7,9,10,7,3
+102,2001-02-28,Greece,Russia,3,3,Friendly,False,Draw,0,5,7,8,57,21,36
+103,2001-02-28,Italy,Argentina,1,2,Friendly,False,Argentina,1,10,8,12,6,2,4
+104,2001-02-28,Netherlands,Turkey,0,0,Friendly,False,Draw,0,8,4,5,8,23,15
+105,2001-02-28,Portugal,Andorra,3,0,FIFA World Cup qualification,False,Portugal,3,13,0,13,4,140,136
+106,2001-03-24,Andorra,Netherlands,0,5,FIFA World Cup qualification,True,Netherlands,5,0,10,0,140,8,132
+107,2001-03-24,England,Finland,2,1,FIFA World Cup qualification,False,England,1,7,4,9,10,46,36
+108,2001-03-24,France,Japan,5,0,Friendly,False,France,5,11,3,11,1,34,33
+109,2001-03-24,Germany,Albania,2,1,FIFA World Cup qualification,False,Germany,1,9,4,13,12,96,84
+110,2001-03-24,Romania,Italy,0,2,FIFA World Cup qualification,False,Italy,2,3,12,7,15,6,9
+111,2001-03-24,Scotland,Belgium,2,2,FIFA World Cup qualification,False,Draw,0,8,11,4,50,20,30
+112,2001-03-24,Spain,Liechtenstein,5,0,FIFA World Cup qualification,False,Spain,5,7,0,6,7,150,143
+113,2001-03-28,Albania,England,1,3,FIFA World Cup qualification,False,England,2,4,10,4,96,10,86
+114,2001-03-28,Greece,Germany,2,4,FIFA World Cup qualification,False,Germany,2,2,9,5,57,12,45
+115,2001-03-28,Italy,Lithuania,4,0,FIFA World Cup qualification,False,Italy,4,12,1,12,6,97,91
+116,2001-03-28,Portugal,Netherlands,2,2,FIFA World Cup qualification,False,Draw,0,11,8,11,4,8,4
+117,2001-03-28,Scotland,San Marino,4,0,FIFA World Cup qualification,False,Scotland,4,8,0,4,50,158,108
+118,2001-03-28,Spain,France,2,1,Friendly,False,Spain,1,7,10,9,7,1,6
+119,2001-04-25,Croatia,Greece,2,2,Friendly,False,Draw,0,4,3,4,19,57,38
+120,2001-04-25,Czech Republic,Belgium,1,1,Friendly,False,Draw,0,2,9,5,14,20,6
+121,2001-04-25,France,Portugal,4,0,Friendly,False,France,4,12,10,11,1,4,3
+122,2001-04-25,Italy,South Africa,1,0,Friendly,False,Italy,1,12,1,12,6,35,29
+123,2001-04-25,Netherlands,Cyprus,4,0,FIFA World Cup qualification,False,Netherlands,4,11,3,5,8,79,71
+124,2001-04-25,Poland,Scotland,1,1,Friendly,False,Draw,0,2,6,3,33,50,17
+125,2001-04-25,Spain,Japan,1,0,Friendly,False,Spain,1,9,2,12,7,34,27
+126,2001-05-25,England,Mexico,4,0,Friendly,False,England,4,12,2,9,10,9,1
+127,2001-05-29,Germany,Slovakia,2,0,Friendly,False,Germany,2,9,3,13,12,47,35
+128,2001-05-30,South Korea,France,0,5,Confederations Cup,False,France,5,1,12,0,42,1,41
+129,2001-06-01,Australia,France,1,0,Confederations Cup,True,Australia,1,6,9,3,48,1,47
+130,2001-06-02,Belgium,Latvia,3,1,FIFA World Cup qualification,False,Belgium,2,11,4,7,20,106,86
+131,2001-06-02,Estonia,Netherlands,2,4,FIFA World Cup qualification,False,Netherlands,2,2,11,2,83,8,75
+132,2001-06-02,Finland,Germany,2,2,FIFA World Cup qualification,False,Draw,0,2,10,3,46,12,34
+133,2001-06-02,Georgia,Italy,1,2,FIFA World Cup qualification,False,Italy,1,1,12,1,58,6,52
+134,2001-06-02,Greece,Albania,1,0,FIFA World Cup qualification,False,Greece,1,6,3,5,57,96,39
+135,2001-06-02,Republic of Ireland,Portugal,1,1,FIFA World Cup qualification,False,Draw,0,3,8,2,17,4,13
+136,2001-06-02,Spain,Bosnia and Herzegovina,4,1,FIFA World Cup qualification,False,Spain,3,12,0,12,7,69,62
+137,2001-06-03,France,Mexico,4,0,Confederations Cup,True,France,4,9,2,13,1,9,8
+138,2001-06-06,Albania,Germany,0,2,FIFA World Cup qualification,False,Germany,2,3,13,4,96,12,84
+139,2001-06-06,Greece,England,0,2,FIFA World Cup qualification,False,England,2,5,15,5,57,10,47
+140,2001-06-06,Israel,Spain,1,1,FIFA World Cup qualification,False,Draw,0,1,13,3,49,7,42
+141,2001-06-06,Portugal,Cyprus,6,0,FIFA World Cup qualification,False,Portugal,6,8,0,11,4,79,75
+142,2001-06-06,San Marino,Belgium,1,4,FIFA World Cup qualification,False,Belgium,3,0,11,0,158,20,138
+143,2001-06-07,France,Brazil,2,1,Confederations Cup,True,France,1,12,6,15,1,3,2
+144,2001-06-10,Japan,France,0,1,Confederations Cup,False,France,1,2,12,2,34,1,33
+145,2001-08-15,England,Netherlands,0,2,Friendly,False,Netherlands,2,12,13,9,10,8,2
+146,2001-08-15,Finland,Belgium,4,1,Friendly,False,Finland,3,5,8,5,46,20,26
+147,2001-08-15,France,Denmark,1,0,Friendly,False,France,1,12,4,15,1,18,17
+148,2001-08-15,Hungary,Germany,2,5,Friendly,False,Germany,3,2,13,2,66,12,54
+149,2001-08-15,Portugal,Moldova,3,0,Friendly,False,Portugal,3,8,0,13,4,103,99
+150,2001-08-15,Russia,Greece,0,0,Friendly,False,Draw,0,5,5,5,21,57,36
+151,2001-09-01,Andorra,Portugal,1,7,FIFA World Cup qualification,True,Portugal,6,0,10,0,140,4,136
+152,2001-09-01,Chile,France,2,1,Friendly,False,Chile,1,7,12,3,39,1,38
+153,2001-09-01,Germany,England,1,5,FIFA World Cup qualification,False,England,4,10,12,12,12,10,2
+154,2001-09-01,Republic of Ireland,Netherlands,1,0,FIFA World Cup qualification,False,Republic of Ireland,1,6,10,5,17,8,9
+155,2001-09-01,Lithuania,Italy,0,0,FIFA World Cup qualification,False,Draw,0,2,13,5,97,6,91
+156,2001-09-01,Scotland,Croatia,0,0,FIFA World Cup qualification,False,Draw,0,6,4,5,50,19,31
+157,2001-09-01,Spain,Austria,4,0,FIFA World Cup qualification,False,Spain,4,13,1,15,7,56,49
+158,2001-09-05,Belgium,Scotland,2,0,FIFA World Cup qualification,False,Belgium,2,10,6,10,20,50,30
+159,2001-09-05,Cyprus,Portugal,1,3,FIFA World Cup qualification,False,Portugal,2,0,13,3,79,4,75
+160,2001-09-05,England,Albania,2,0,FIFA World Cup qualification,False,England,2,12,0,12,10,96,86
+161,2001-09-05,Finland,Greece,5,1,FIFA World Cup qualification,False,Finland,4,8,5,8,46,57,11
+162,2001-09-05,Italy,Morocco,1,0,Friendly,False,Italy,1,13,3,12,6,36,30
+163,2001-09-05,Liechtenstein,Spain,0,2,FIFA World Cup qualification,False,Spain,2,0,13,0,150,7,143
+164,2001-09-05,Netherlands,Estonia,5,0,FIFA World Cup qualification,False,Netherlands,5,12,2,8,8,83,75
+165,2001-10-06,Croatia,Belgium,1,0,FIFA World Cup qualification,False,Croatia,1,7,9,6,19,20,1
+166,2001-10-06,England,Greece,2,2,FIFA World Cup qualification,False,Draw,0,10,5,10,10,57,47
+167,2001-10-06,France,Algeria,4,1,Friendly,False,France,3,12,0,15,1,75,74
+168,2001-10-06,Germany,Finland,0,0,FIFA World Cup qualification,False,Draw,0,8,8,10,12,46,34
+169,2001-10-06,Italy,Hungary,1,0,FIFA World Cup qualification,False,Italy,1,13,2,12,6,66,60
+170,2001-10-06,Netherlands,Andorra,4,0,FIFA World Cup qualification,False,Netherlands,4,12,0,10,8,140,132
+171,2001-10-06,Portugal,Estonia,5,0,FIFA World Cup qualification,False,Portugal,5,15,1,13,4,83,79
+172,2001-10-06,Scotland,Latvia,2,1,FIFA World Cup qualification,False,Scotland,1,8,3,8,50,106,56
+173,2001-11-07,Japan,Italy,1,1,Friendly,False,Draw,0,2,11,3,34,6,28
+174,2001-11-10,Belgium,Czech Republic,1,0,FIFA World Cup qualification,False,Belgium,1,9,1,13,20,14,6
+175,2001-11-10,Denmark,Netherlands,1,1,Friendly,False,Draw,0,4,10,6,18,8,10
+176,2001-11-10,England,Sweden,1,1,Friendly,False,Draw,0,8,2,8,10,16,6
+177,2001-11-10,Greece,Estonia,4,2,Friendly,False,Greece,2,5,0,7,57,83,26
+178,2001-11-10,Ukraine,Germany,1,1,FIFA World Cup qualification,False,Draw,0,4,8,6,45,12,33
+179,2001-11-11,Australia,France,1,1,Friendly,False,Draw,0,7,10,4,48,1,47
+180,2001-11-14,Czech Republic,Belgium,0,1,FIFA World Cup qualification,False,Belgium,1,1,9,5,14,20,6
+181,2001-11-14,Germany,Ukraine,4,1,FIFA World Cup qualification,False,Germany,3,8,3,10,12,45,33
+182,2001-11-14,Greece,Cyprus,1,2,Friendly,False,Cyprus,1,5,3,6,57,79,22
+183,2001-11-14,Portugal,Angola,5,1,Friendly,False,Portugal,4,15,0,13,4,55,51
+184,2001-11-14,Spain,Mexico,1,0,Friendly,False,Spain,1,13,1,15,7,9,2
+185,2002-02-13,Belgium,Norway,1,0,Friendly,False,Belgium,1,12,6,15,17,26,9
+186,2002-02-13,France,Romania,2,1,Friendly,False,France,1,10,3,15,2,24,22
+187,2002-02-13,Germany,Israel,7,1,Friendly,False,Germany,6,8,1,10,4,46,42
+188,2002-02-13,Greece,Sweden,2,2,Friendly,False,Draw,0,5,3,7,48,25,23
+189,2002-02-13,Italy,United States,1,0,Friendly,False,Italy,1,11,7,15,13,10,3
+190,2002-02-13,Netherlands,England,1,1,Friendly,False,Draw,0,8,9,11,6,7,1
+191,2002-02-13,Spain,Portugal,1,1,Friendly,False,Draw,0,11,13,13,3,11,8
+192,2002-03-27,England,Italy,1,2,Friendly,False,Italy,1,6,13,5,7,13,6
+193,2002-03-27,France,Scotland,5,0,Friendly,False,France,5,10,5,15,2,59,57
+194,2002-03-27,Germany,United States,4,2,Friendly,False,Germany,2,11,6,10,4,10,6
+195,2002-03-27,Netherlands,Spain,1,0,Friendly,False,Netherlands,1,11,10,13,6,3,3
+196,2002-03-27,Portugal,Finland,1,4,Friendly,False,Finland,3,10,11,12,11,43,32
+197,2002-04-17,Belgium,Slovakia,1,1,Friendly,False,Draw,0,10,4,13,17,55,38
+198,2002-04-17,England,Paraguay,4,0,Friendly,False,England,4,6,1,8,7,18,11
+199,2002-04-17,France,Russia,0,0,Friendly,False,Draw,0,11,6,13,2,23,21
+200,2002-04-17,Germany,Argentina,0,1,Friendly,False,Argentina,1,10,11,10,4,5,1
+201,2002-04-17,Greece,Czech Republic,0,0,Friendly,False,Draw,0,6,2,5,48,15,33
+202,2002-04-17,Italy,Uruguay,1,1,Friendly,False,Draw,0,11,3,13,13,28,15
+203,2002-04-17,Northern Ireland,Spain,0,5,Friendly,False,Spain,5,0,10,1,103,3,100
+204,2002-04-17,Portugal,Brazil,1,1,Friendly,False,Draw,0,8,4,10,11,1,10
+205,2002-04-17,Scotland,Nigeria,1,2,Friendly,False,Nigeria,1,4,6,8,59,29,30
+206,2002-05-09,Germany,Kuwait,7,0,Friendly,False,Germany,7,12,0,12,4,83,79
+207,2002-05-14,Belgium,Algeria,0,0,Friendly,False,Draw,0,11,1,11,17,68,51
+208,2002-05-14,Wales,Germany,1,0,Friendly,False,Wales,1,3,9,3,52,4,48
+209,2002-05-15,Greece,Cyprus,3,1,Friendly,False,Greece,2,8,3,8,48,80,32
+210,2002-05-16,South Korea,Scotland,4,1,Friendly,False,South Korea,3,4,3,3,20,59,39
+211,2002-05-18,Czech Republic,Italy,1,0,Friendly,False,Czech Republic,1,5,8,7,15,13,2
+212,2002-05-18,France,Belgium,1,2,Friendly,False,Belgium,1,8,11,10,2,17,15
+213,2002-05-18,Germany,Austria,6,2,Friendly,False,Germany,4,9,1,12,4,54,50
+214,2002-05-19,United States,Netherlands,0,2,Friendly,False,Netherlands,2,6,11,7,10,6,4
+215,2002-05-20,Scotland,South Africa,0,2,Friendly,True,South Africa,2,3,4,7,59,30,29
+216,2002-05-21,South Korea,England,1,1,Friendly,False,Draw,0,5,6,4,20,7,13
+217,2002-05-25,China PR,Portugal,0,2,Friendly,True,Portugal,2,0,8,0,63,11,52
+218,2002-05-26,Belgium,Costa Rica,1,0,Friendly,True,Belgium,1,11,3,11,17,21,4
+219,2002-05-26,Cameroon,England,2,2,Friendly,True,Draw,0,3,6,1,16,7,9
+220,2002-05-26,South Korea,France,2,3,Friendly,False,France,1,4,10,4,20,2,18
+221,2002-05-31,France,Senegal,0,1,FIFA World Cup,True,Senegal,1,7,3,7,2,27,25
+222,2002-06-01,Germany,Saudi Arabia,8,0,FIFA World Cup,True,Germany,8,9,4,12,4,38,34
+223,2002-06-02,England,Sweden,1,1,FIFA World Cup,True,Draw,0,6,3,6,7,25,18
+224,2002-06-02,Spain,Slovenia,3,1,FIFA World Cup,True,Spain,2,10,1,13,3,36,33
+225,2002-06-03,Italy,Ecuador,2,0,FIFA World Cup,True,Italy,2,10,0,13,13,31,18
+226,2002-06-04,Japan,Belgium,2,2,FIFA World Cup,False,Draw,0,2,9,4,22,17,5
+227,2002-06-05,Germany,Republic of Ireland,1,1,FIFA World Cup,True,Draw,0,10,7,10,4,14,10
+228,2002-06-05,United States,Portugal,3,2,FIFA World Cup,True,United States,1,6,5,10,10,11,1
+229,2002-06-06,France,Uruguay,0,0,FIFA World Cup,True,Draw,0,5,4,5,2,28,26
+230,2002-06-07,Argentina,England,0,1,FIFA World Cup,True,England,1,10,9,9,5,7,2
+231,2002-06-07,Spain,Paraguay,3,1,FIFA World Cup,True,Spain,2,10,1,13,3,18,15
+232,2002-06-08,Italy,Croatia,1,2,FIFA World Cup,True,Croatia,1,7,9,10,13,32,19
+233,2002-06-10,Portugal,Poland,4,0,FIFA World Cup,True,Portugal,4,7,1,10,11,34,23
+234,2002-06-10,Tunisia,Belgium,1,1,FIFA World Cup,True,Draw,0,6,9,7,41,17,24
+235,2002-06-11,Cameroon,Germany,0,2,FIFA World Cup,True,Germany,2,3,10,1,16,4,12
+236,2002-06-11,Denmark,France,2,0,FIFA World Cup,True,Denmark,2,7,4,9,12,2,10
+237,2002-06-12,Nigeria,England,0,0,FIFA World Cup,True,Draw,0,7,7,1,29,7,22
+238,2002-06-12,South Africa,Spain,2,3,FIFA World Cup,True,Spain,1,4,12,2,30,3,27
+239,2002-06-13,Mexico,Italy,1,1,FIFA World Cup,True,Draw,0,1,5,2,8,13,5
+240,2002-06-14,Belgium,Russia,3,2,FIFA World Cup,True,Belgium,1,11,6,11,17,23,6
+241,2002-06-14,South Korea,Portugal,1,0,FIFA World Cup,False,South Korea,1,7,7,7,20,11,9
+242,2002-06-15,Denmark,England,0,3,FIFA World Cup,True,England,3,7,9,8,12,7,5
+243,2002-06-15,Germany,Paraguay,1,0,FIFA World Cup,True,Germany,1,13,1,13,4,18,14
+244,2002-06-16,Spain,Republic of Ireland,1,1,FIFA World Cup,True,Spain,0,15,6,13,3,14,11
+245,2002-06-17,Brazil,Belgium,2,0,FIFA World Cup,True,Brazil,2,6,8,13,1,17,16
+246,2002-06-18,South Korea,Italy,2,1,FIFA World Cup,False,South Korea,1,10,4,10,20,13,7
+247,2002-06-21,England,Brazil,1,2,FIFA World Cup,True,Brazil,1,8,8,5,7,1,6
+248,2002-06-21,Germany,United States,1,0,FIFA World Cup,True,Germany,1,13,3,13,4,10,6
+249,2002-06-22,South Korea,Spain,0,0,FIFA World Cup,False,South Korea,0,10,12,10,20,3,17
+250,2002-06-25,South Korea,Germany,0,1,FIFA World Cup,False,Germany,1,9,13,9,20,4,16
+251,2002-06-30,Germany,Brazil,0,2,FIFA World Cup,True,Brazil,2,12,10,10,4,1,3
+252,2002-08-21,Bulgaria,Germany,2,2,Friendly,False,Draw,0,5,10,5,42,4,38
+253,2002-08-21,Hungary,Spain,1,1,Friendly,False,Draw,0,2,10,3,56,3,53
+254,2002-08-21,Italy,Slovenia,0,1,Friendly,False,Slovenia,1,4,3,7,13,36,23
+255,2002-08-21,Norway,Netherlands,0,1,Friendly,False,Netherlands,1,6,11,6,26,6,20
+256,2002-08-21,Poland,Belgium,1,1,Friendly,False,Draw,0,2,6,3,34,17,17
+257,2002-08-21,Romania,Greece,0,1,Friendly,False,Greece,1,0,8,4,24,48,24
+258,2002-08-21,Scotland,Denmark,0,1,Friendly,False,Denmark,1,0,7,4,59,12,47
+259,2002-08-21,Tunisia,France,1,1,Friendly,False,Draw,0,4,5,7,41,2,39
+260,2002-09-07,Azerbaijan,Italy,0,2,UEFA Euro qualification,False,Italy,2,0,4,0,113,13,100
+261,2002-09-07,Belgium,Bulgaria,0,2,UEFA Euro qualification,False,Bulgaria,2,5,5,8,17,42,25
+262,2002-09-07,Cyprus,France,1,2,UEFA Euro qualification,False,France,1,3,5,3,80,2,78
+263,2002-09-07,England,Portugal,1,1,Friendly,False,Draw,0,8,7,5,7,11,4
+264,2002-09-07,Faroe Islands,Scotland,2,2,UEFA Euro qualification,False,Draw,0,2,1,2,114,59,55
+265,2002-09-07,Greece,Spain,0,2,UEFA Euro qualification,False,Spain,2,8,10,5,48,3,45
+266,2002-09-07,Lithuania,Germany,0,2,UEFA Euro qualification,False,Germany,2,1,10,5,100,4,96
+267,2002-09-07,Netherlands,Belarus,3,0,UEFA Euro qualification,False,Netherlands,3,13,2,13,6,74,68
+268,2002-10-11,Bosnia and Herzegovina,Germany,1,1,Friendly,False,Draw,0,1,8,4,87,4,83
+269,2002-10-12,Andorra,Belgium,0,1,UEFA Euro qualification,False,Belgium,1,0,7,0,137,17,120
+270,2002-10-12,France,Slovenia,5,0,UEFA Euro qualification,False,France,5,8,3,5,2,36,34
+271,2002-10-12,Iceland,Scotland,0,2,UEFA Euro qualification,False,Scotland,2,1,4,4,58,59,1
+272,2002-10-12,Italy,Serbia,1,1,UEFA Euro qualification,False,Draw,0,5,2,5,13,201,188
+273,2002-10-12,Portugal,Tunisia,1,1,Friendly,False,Draw,0,5,4,8,11,41,30
+274,2002-10-12,Slovakia,England,1,2,UEFA Euro qualification,False,England,1,4,8,1,55,7,48
+275,2002-10-12,Spain,Northern Ireland,3,0,UEFA Euro qualification,False,Spain,3,10,0,13,3,103,100
+276,2002-10-12,Ukraine,Greece,2,0,UEFA Euro qualification,False,Ukraine,2,5,7,9,45,48,3
+277,2002-10-15,Scotland,Canada,3,1,Friendly,False,Scotland,2,7,1,6,59,70,11
+278,2002-10-16,Austria,Netherlands,0,3,UEFA Euro qualification,False,Netherlands,3,1,15,3,54,6,48
+279,2002-10-16,England,North Macedonia,2,2,UEFA Euro qualification,False,Draw,0,8,2,6,7,85,78
+280,2002-10-16,Estonia,Belgium,0,1,UEFA Euro qualification,False,Belgium,1,0,7,2,60,17,43
+281,2002-10-16,Germany,Faroe Islands,2,1,UEFA Euro qualification,False,Germany,1,8,2,10,4,114,110
+282,2002-10-16,Greece,Armenia,2,0,UEFA Euro qualification,False,Greece,2,9,0,8,48,107,59
+283,2002-10-16,Malta,France,0,4,UEFA Euro qualification,False,France,4,0,10,0,122,2,120
+284,2002-10-16,Spain,Paraguay,0,0,Friendly,False,Draw,0,8,1,13,3,18,15
+285,2002-10-16,Sweden,Portugal,2,3,Friendly,False,Portugal,1,3,8,8,25,11,14
+286,2002-10-16,Wales,Italy,2,1,UEFA Euro qualification,False,Wales,1,6,4,6,52,13,39
+287,2002-11-20,France,Serbia,3,0,Friendly,False,France,3,13,2,7,2,201,199
+288,2002-11-20,Germany,Netherlands,1,3,Friendly,False,Netherlands,2,8,15,9,4,6,2
+289,2002-11-20,Greece,Republic of Ireland,0,0,Friendly,False,Draw,0,7,6,8,48,14,34
+290,2002-11-20,Italy,Turkey,1,1,Friendly,False,Draw,0,5,5,5,13,9,4
+291,2002-11-20,Portugal,Scotland,2,0,Friendly,False,Portugal,2,8,7,8,11,59,48
+292,2002-11-20,Spain,Bulgaria,1,0,Friendly,False,Spain,1,11,4,13,3,42,39
+293,2003-01-29,Cyprus,Greece,1,2,Friendly,False,Greece,1,3,7,0,97,30,67
+294,2003-02-12,Algeria,Belgium,1,3,Friendly,False,Belgium,2,1,10,0,62,16,46
+295,2003-02-12,England,Australia,1,3,Friendly,False,Australia,2,5,10,3,8,82,74
+296,2003-02-12,France,Czech Republic,0,2,Friendly,False,Czech Republic,2,12,7,7,2,6,4
+297,2003-02-12,Greece,Norway,1,0,Friendly,False,Greece,1,10,6,10,30,42,12
+298,2003-02-12,Italy,Portugal,1,0,Friendly,False,Italy,1,8,8,5,10,17,7
+299,2003-02-12,Netherlands,Argentina,1,0,Friendly,False,Netherlands,1,15,7,13,4,5,1
+300,2003-02-12,Scotland,Republic of Ireland,0,2,Friendly,False,Republic of Ireland,2,7,8,3,54,14,40
+301,2003-02-12,Spain,Germany,3,1,Friendly,False,Spain,2,13,7,13,3,12,9
+302,2003-03-26,Austria,Greece,2,2,Friendly,False,Draw,0,2,11,3,67,30,37
+303,2003-03-29,Croatia,Belgium,4,0,UEFA Euro qualification,False,Croatia,4,11,9,8,20,16,4
+304,2003-03-29,France,Malta,6,0,UEFA Euro qualification,False,France,6,12,0,10,2,129,127
+305,2003-03-29,Germany,Lithuania,1,1,UEFA Euro qualification,False,Draw,0,5,2,7,12,101,89
+306,2003-03-29,Italy,Finland,2,0,UEFA Euro qualification,False,Italy,2,8,10,8,10,40,30
+307,2003-03-29,Liechtenstein,England,0,2,UEFA Euro qualification,False,England,2,0,8,0,148,8,140
+308,2003-03-29,Netherlands,Czech Republic,1,1,UEFA Euro qualification,False,Draw,0,13,8,11,4,6,2
+309,2003-03-29,Portugal,Brazil,2,1,Friendly,False,Portugal,1,10,10,11,17,1,16
+310,2003-03-29,Scotland,Iceland,2,1,UEFA Euro qualification,False,Scotland,1,9,1,6,54,58,4
+311,2003-03-29,Ukraine,Spain,2,2,UEFA Euro qualification,False,Draw,0,5,11,7,60,3,57
+312,2003-04-02,England,Turkey,2,0,UEFA Euro qualification,False,England,2,10,2,5,8,8,0
+313,2003-04-02,Israel,France,1,2,UEFA Euro qualification,True,France,1,1,12,2,51,2,49
+314,2003-04-02,Lithuania,Scotland,1,0,UEFA Euro qualification,False,Lithuania,1,5,6,8,101,54,47
+315,2003-04-02,North Macedonia,Portugal,0,1,Friendly,True,Portugal,1,2,12,0,92,17,75
+316,2003-04-02,Moldova,Netherlands,1,2,UEFA Euro qualification,False,Netherlands,1,0,13,0,106,4,102
+317,2003-04-02,Northern Ireland,Greece,0,2,UEFA Euro qualification,False,Greece,2,0,11,0,122,30,92
+318,2003-04-02,Spain,Armenia,3,0,UEFA Euro qualification,False,Spain,3,11,0,13,3,113,110
+319,2003-04-30,Belgium,Poland,3,1,Friendly,False,Belgium,2,12,2,10,16,25,9
+320,2003-04-30,France,Egypt,5,0,Friendly,False,France,5,12,4,12,2,32,30
+321,2003-04-30,Germany,Serbia,1,0,Friendly,False,Germany,1,7,2,7,12,201,189
+322,2003-04-30,Netherlands,Portugal,1,1,Friendly,False,Draw,0,11,10,11,4,17,13
+323,2003-04-30,Scotland,Austria,0,2,Friendly,False,Austria,2,3,4,6,54,67,13
+324,2003-04-30,Slovakia,Greece,2,2,Friendly,False,Draw,0,5,11,2,50,30,20
+325,2003-04-30,Spain,Ecuador,4,0,Friendly,False,Spain,4,13,0,13,3,37,34
+326,2003-04-30,Switzerland,Italy,1,2,Friendly,False,Italy,1,4,10,3,44,10,34
+327,2003-05-22,South Africa,England,1,2,Friendly,False,England,1,4,10,2,36,8,28
+328,2003-05-27,Scotland,New Zealand,1,1,Friendly,False,Draw,0,4,1,7,54,88,34
+329,2003-06-01,Germany,Canada,4,1,Friendly,False,Germany,3,7,1,10,12,87,75
+330,2003-06-03,England,Serbia,2,1,Friendly,False,England,1,12,2,8,8,201,193
+331,2003-06-03,Italy,Northern Ireland,2,0,Friendly,False,Italy,2,13,0,11,10,122,112
+332,2003-06-06,Portugal,Paraguay,0,0,Friendly,False,Draw,0,8,2,11,17,22,5
+333,2003-06-07,Belarus,Netherlands,0,2,UEFA Euro qualification,False,Netherlands,2,2,11,4,90,4,86
+334,2003-06-07,Bulgaria,Belgium,2,2,UEFA Euro qualification,False,Draw,0,5,10,6,34,16,18
+335,2003-06-07,Scotland,Germany,1,1,UEFA Euro qualification,False,Draw,0,5,8,5,54,12,42
+336,2003-06-07,Spain,Greece,0,1,UEFA Euro qualification,False,Greece,1,10,11,12,3,30,27
+337,2003-06-10,Portugal,Bolivia,4,0,Friendly,False,Portugal,4,11,1,11,17,99,82
+338,2003-06-11,Belgium,Andorra,3,0,UEFA Euro qualification,False,Belgium,3,10,0,12,16,147,131
+339,2003-06-11,England,Slovakia,2,1,UEFA Euro qualification,False,England,1,15,2,10,8,50,42
+340,2003-06-11,Faroe Islands,Germany,0,2,UEFA Euro qualification,False,Germany,2,2,11,2,126,12,114
+341,2003-06-11,Finland,Italy,0,2,UEFA Euro qualification,False,Italy,2,7,15,8,40,10,30
+342,2003-06-11,Greece,Ukraine,1,0,UEFA Euro qualification,False,Greece,1,11,5,10,30,60,30
+343,2003-06-11,Northern Ireland,Spain,0,0,UEFA Euro qualification,False,Draw,0,1,8,1,122,3,119
+344,2003-06-18,France,Colombia,1,0,Confederations Cup,False,France,1,12,1,12,2,39,37
+345,2003-06-20,France,Japan,2,1,Confederations Cup,False,France,1,15,2,12,2,29,27
+346,2003-06-22,France,New Zealand,5,0,Confederations Cup,False,France,5,15,1,15,2,88,86
+347,2003-06-26,France,Turkey,3,2,Confederations Cup,False,France,1,15,2,15,2,8,6
+348,2003-06-29,France,Cameroon,1,0,Confederations Cup,False,France,1,15,2,15,2,14,12
+349,2003-08-20,Belgium,Netherlands,1,1,Friendly,False,Draw,0,8,9,10,16,4,12
+350,2003-08-20,England,Croatia,3,1,Friendly,False,England,2,15,10,12,8,20,12
+351,2003-08-20,Germany,Italy,0,1,Friendly,False,Italy,1,10,15,7,12,10,2
+352,2003-08-20,Norway,Scotland,0,0,Friendly,False,Draw,0,4,3,4,42,54,12
+353,2003-08-20,Portugal,Kazakhstan,1,0,Friendly,False,Portugal,1,11,0,13,17,136,119
+354,2003-08-20,Sweden,Greece,1,2,Friendly,False,Greece,1,3,13,7,19,30,11
+355,2003-08-20,Switzerland,France,0,2,Friendly,False,France,2,3,15,3,44,2,42
+356,2003-09-06,Armenia,Greece,0,1,UEFA Euro qualification,False,Greece,1,0,13,1,113,30,83
+357,2003-09-06,France,Cyprus,5,0,UEFA Euro qualification,False,France,5,15,3,15,2,97,95
+358,2003-09-06,Iceland,Germany,0,0,UEFA Euro qualification,False,Draw,0,2,8,5,58,12,46
+359,2003-09-06,Italy,Wales,4,0,UEFA Euro qualification,False,Italy,4,15,6,13,10,66,56
+360,2003-09-06,North Macedonia,England,1,2,UEFA Euro qualification,False,England,1,1,15,0,92,8,84
+361,2003-09-06,Netherlands,Austria,3,1,UEFA Euro qualification,False,Netherlands,2,11,4,11,4,67,63
+362,2003-09-06,Portugal,Spain,0,3,Friendly,False,Spain,3,8,10,10,17,3,14
+363,2003-09-06,Scotland,Faroe Islands,3,1,UEFA Euro qualification,False,Scotland,2,6,2,8,54,126,72
+364,2003-09-10,Belgium,Croatia,2,1,UEFA Euro qualification,False,Belgium,1,11,9,10,16,20,4
+365,2003-09-10,Czech Republic,Netherlands,3,1,UEFA Euro qualification,False,Czech Republic,2,11,8,7,6,4,2
+366,2003-09-10,England,Liechtenstein,2,0,UEFA Euro qualification,False,England,2,15,0,15,8,148,140
+367,2003-09-10,Germany,Scotland,2,1,UEFA Euro qualification,False,Germany,1,8,6,10,12,54,42
+368,2003-09-10,Norway,Portugal,0,1,Friendly,False,Portugal,1,1,10,4,42,17,25
+369,2003-09-10,Serbia,Italy,1,1,UEFA Euro qualification,False,Draw,0,2,13,2,201,10,191
+370,2003-09-10,Slovenia,France,0,2,UEFA Euro qualification,False,France,2,3,15,1,31,2,29
+371,2003-09-10,Spain,Ukraine,2,1,UEFA Euro qualification,False,Spain,1,10,4,12,3,60,57
+372,2003-10-11,Armenia,Spain,0,4,UEFA Euro qualification,False,Spain,4,0,10,1,113,3,110
+373,2003-10-11,Belgium,Estonia,2,0,UEFA Euro qualification,False,Belgium,2,11,0,13,16,68,52
+374,2003-10-11,France,Israel,3,0,UEFA Euro qualification,False,France,3,15,1,15,2,51,49
+375,2003-10-11,Germany,Iceland,3,0,UEFA Euro qualification,False,Germany,3,10,1,12,12,58,46
+376,2003-10-11,Greece,Northern Ireland,1,0,UEFA Euro qualification,False,Greece,1,15,1,13,30,122,92
+377,2003-10-11,Italy,Azerbaijan,4,0,UEFA Euro qualification,False,Italy,4,13,0,15,10,119,109
+378,2003-10-11,Netherlands,Moldova,5,0,UEFA Euro qualification,False,Netherlands,5,10,0,11,4,106,102
+379,2003-10-11,Portugal,Albania,5,3,Friendly,False,Portugal,2,12,0,10,17,89,72
+380,2003-10-11,Scotland,Lithuania,1,0,UEFA Euro qualification,False,Scotland,1,8,5,8,54,101,47
+381,2003-10-11,Turkey,England,0,0,UEFA Euro qualification,False,Draw,0,3,13,4,8,8,0
+382,2003-11-12,Poland,Italy,3,1,Friendly,False,Poland,2,5,10,6,25,10,15
+383,2003-11-15,Germany,France,0,3,Friendly,False,France,3,7,15,9,12,2,10
+384,2003-11-15,Portugal,Greece,1,1,Friendly,False,Draw,0,10,13,10,17,30,13
+385,2003-11-15,Scotland,Netherlands,1,0,UEFA Euro qualification,False,Scotland,1,10,7,11,54,4,50
+386,2003-11-15,Spain,Norway,2,1,UEFA Euro qualification,False,Spain,1,13,1,12,3,42,39
+387,2003-11-16,England,Denmark,2,3,Friendly,False,Denmark,1,10,10,12,8,13,5
+388,2003-11-16,Italy,Romania,1,0,Friendly,False,Italy,1,10,0,15,10,27,17
+389,2003-11-19,Netherlands,Scotland,6,0,UEFA Euro qualification,False,Netherlands,6,9,9,11,4,54,50
+390,2003-11-19,Norway,Spain,0,3,UEFA Euro qualification,False,Spain,3,1,15,4,42,3,39
+391,2003-11-19,Portugal,Kuwait,8,0,Friendly,False,Portugal,8,10,0,10,17,48,31
+392,2004-02-18,Belgium,France,0,2,Friendly,False,France,2,10,15,10,45,2,43
+393,2004-02-18,Croatia,Germany,1,2,Friendly,False,Germany,1,6,10,8,23,19,4
+394,2004-02-18,Greece,Bulgaria,2,0,Friendly,False,Greece,2,13,5,13,18,37,19
+395,2004-02-18,Italy,Czech Republic,2,2,Friendly,False,Draw,0,8,11,13,10,4,6
+396,2004-02-18,Netherlands,United States,1,0,Friendly,False,Netherlands,1,9,3,13,6,11,5
+397,2004-02-18,Portugal,England,1,1,Friendly,False,Draw,0,11,8,8,9,8,1
+398,2004-02-18,Spain,Peru,2,1,Friendly,False,Spain,1,15,1,12,5,66,61
+399,2004-02-18,Wales,Scotland,4,0,Friendly,False,Wales,4,9,6,9,68,86,18
+400,2004-03-31,Germany,Belgium,3,0,Friendly,False,Germany,3,12,7,9,19,45,26
+401,2004-03-31,Greece,Switzerland,1,0,Friendly,False,Greece,1,13,2,15,18,51,33
+402,2004-03-31,Netherlands,France,0,0,Friendly,False,Draw,0,10,13,13,6,2,4
+403,2004-03-31,Portugal,Italy,1,2,Friendly,False,Italy,1,8,10,8,9,10,1
+404,2004-03-31,Scotland,Romania,1,2,Friendly,False,Romania,1,6,3,10,86,29,57
+405,2004-03-31,Spain,Denmark,2,0,Friendly,False,Spain,2,15,9,12,5,14,9
+406,2004-03-31,Sweden,England,1,0,Friendly,False,Sweden,1,5,5,7,13,8,5
+407,2004-04-28,Belgium,Turkey,2,3,Friendly,False,Turkey,1,6,5,7,45,14,31
+408,2004-04-28,Denmark,Scotland,1,0,Friendly,False,Denmark,1,9,3,10,14,86,72
+409,2004-04-28,Italy,Spain,1,1,Friendly,False,Draw,0,8,13,11,10,5,5
+410,2004-04-28,Netherlands,Greece,4,0,Friendly,False,Netherlands,4,10,10,13,6,18,12
+411,2004-04-28,Portugal,Sweden,2,2,Friendly,False,Draw,0,6,5,6,9,13,4
+412,2004-04-28,Romania,Germany,5,1,Friendly,False,Romania,4,6,9,6,29,19,10
+413,2004-05-20,France,Brazil,0,0,Friendly,False,Draw,0,11,10,13,2,1,1
+414,2004-05-27,Estonia,Scotland,0,1,Friendly,False,Scotland,1,0,3,1,81,86,5
+415,2004-05-27,Germany,Malta,7,0,Friendly,False,Germany,7,9,0,12,19,134,115
+416,2004-05-28,France,Andorra,4,0,Friendly,False,France,4,11,0,13,2,138,136
+417,2004-05-29,Netherlands,Belgium,0,1,Friendly,False,Belgium,1,10,6,10,6,45,39
+418,2004-05-29,Poland,Greece,1,0,Friendly,False,Poland,1,7,7,9,25,18,7
+419,2004-05-29,Portugal,Luxembourg,3,0,Friendly,False,Portugal,3,8,1,8,9,155,146
+420,2004-05-30,Scotland,Trinidad and Tobago,4,1,Friendly,False,Scotland,3,6,0,12,86,63,23
+421,2004-05-30,Tunisia,Italy,0,4,Friendly,False,Italy,4,3,11,4,35,10,25
+422,2004-06-01,England,Japan,1,1,Friendly,False,Draw,0,3,3,10,8,17,9
+423,2004-06-01,Netherlands,Faroe Islands,3,0,Friendly,True,Netherlands,3,10,1,10,6,131,125
+424,2004-06-02,Switzerland,Germany,0,2,Friendly,False,Germany,2,1,12,2,51,19,32
+425,2004-06-03,Liechtenstein,Greece,0,2,Friendly,False,Greece,2,0,9,0,142,18,124
+426,2004-06-05,England,Iceland,6,1,Friendly,False,England,5,5,1,10,8,93,85
+427,2004-06-05,Netherlands,Republic of Ireland,0,1,Friendly,False,Republic of Ireland,1,7,8,7,6,12,6
+428,2004-06-05,Portugal,Lithuania,4,1,Friendly,False,Portugal,3,8,4,8,9,100,91
+429,2004-06-05,Spain,Andorra,4,0,Friendly,False,Spain,4,13,0,15,5,138,133
+430,2004-06-06,France,Ukraine,1,0,Friendly,False,France,1,11,4,13,2,57,55
+431,2004-06-06,Germany,Hungary,0,2,Friendly,False,Hungary,2,9,5,9,19,64,45
+432,2004-06-12,Portugal,Greece,1,2,UEFA Euro,False,Greece,1,7,9,7,9,18,9
+433,2004-06-12,Spain,Russia,1,0,UEFA Euro,True,Spain,1,13,3,15,5,32,27
+434,2004-06-13,France,England,2,1,UEFA Euro,True,France,1,11,5,13,2,8,6
+435,2004-06-14,Denmark,Italy,0,0,UEFA Euro,True,Draw,0,10,9,8,14,10,4
+436,2004-06-15,Germany,Netherlands,1,1,UEFA Euro,True,Draw,0,7,7,7,19,6,13
+437,2004-06-16,Greece,Spain,1,1,UEFA Euro,True,Draw,0,7,11,13,18,5,13
+438,2004-06-16,Portugal,Russia,2,0,UEFA Euro,False,Portugal,2,10,2,10,9,32,23
+439,2004-06-17,Croatia,France,2,2,UEFA Euro,True,Draw,0,4,11,8,23,2,21
+440,2004-06-17,England,Switzerland,3,0,UEFA Euro,True,England,3,7,0,10,8,51,43
+441,2004-06-18,Italy,Sweden,1,1,UEFA Euro,True,Draw,0,9,5,9,10,13,3
+442,2004-06-19,Latvia,Germany,0,0,UEFA Euro,True,Draw,0,1,8,2,65,19,46
+443,2004-06-19,Netherlands,Czech Republic,2,3,UEFA Euro,True,Czech Republic,1,4,11,6,6,4,2
+444,2004-06-20,Portugal,Spain,1,0,UEFA Euro,False,Portugal,1,12,8,12,9,5,4
+445,2004-06-20,Russia,Greece,2,1,UEFA Euro,True,Russia,1,4,7,8,32,18,14
+446,2004-06-21,Croatia,England,2,4,UEFA Euro,True,England,2,1,10,7,23,8,15
+447,2004-06-21,Switzerland,France,1,3,UEFA Euro,True,France,2,0,13,1,51,2,49
+448,2004-06-22,Italy,Bulgaria,2,1,UEFA Euro,True,Italy,1,9,4,9,10,37,27
+449,2004-06-23,Germany,Czech Republic,1,2,UEFA Euro,True,Czech Republic,1,5,11,7,19,4,15
+450,2004-06-23,Netherlands,Latvia,3,0,UEFA Euro,True,Netherlands,3,7,1,6,6,65,59
+451,2004-06-24,Portugal,England,2,2,UEFA Euro,False,Portugal,0,12,9,12,9,8,1
+452,2004-06-25,France,Greece,0,1,UEFA Euro,True,Greece,1,10,10,10,2,18,16
+453,2004-06-26,Sweden,Netherlands,0,0,UEFA Euro,True,Netherlands,0,5,7,4,13,6,7
+454,2004-06-30,Portugal,Netherlands,2,1,UEFA Euro,False,Portugal,1,12,7,12,9,6,3
+455,2004-07-01,Greece,Czech Republic,1,0,UEFA Euro,True,Greece,1,10,10,13,18,4,14
+456,2004-07-04,Portugal,Greece,0,1,UEFA Euro,False,Greece,1,12,10,12,9,18,9
+457,2004-08-18,Austria,Germany,1,3,Friendly,False,Germany,2,4,5,2,83,19,64
+458,2004-08-18,Czech Republic,Greece,0,0,Friendly,False,Draw,0,8,10,8,4,18,14
+459,2004-08-18,England,Ukraine,3,0,Friendly,False,England,3,9,1,10,8,57,49
+460,2004-08-18,France,Bosnia and Herzegovina,1,1,Friendly,False,Draw,0,8,2,10,2,79,77
+461,2004-08-18,Iceland,Italy,2,0,Friendly,False,Iceland,2,4,8,5,93,10,83
+462,2004-08-18,Norway,Belgium,2,2,Friendly,False,Draw,0,2,4,2,35,45,10
+463,2004-08-18,Scotland,Hungary,0,3,Friendly,False,Hungary,3,6,7,9,86,64,22
+464,2004-08-18,Spain,Venezuela,3,2,Friendly,False,Spain,1,10,0,15,5,62,57
+465,2004-08-18,Sweden,Netherlands,2,2,Friendly,False,Draw,0,6,7,4,13,6,7
+466,2004-09-03,Netherlands,Liechtenstein,3,0,Friendly,False,Netherlands,3,10,0,9,6,142,136
+467,2004-09-03,Spain,Scotland,1,1,Friendly,False,Draw,0,8,7,13,5,86,81
+468,2004-09-04,Albania,Greece,2,1,FIFA World Cup qualification,False,Albania,1,3,10,7,86,18,68
+469,2004-09-04,Austria,England,2,2,FIFA World Cup qualification,False,Draw,0,5,10,3,83,8,75
+470,2004-09-04,Belgium,Lithuania,1,1,FIFA World Cup qualification,False,Draw,0,5,5,7,45,100,55
+471,2004-09-04,France,Israel,0,0,FIFA World Cup qualification,False,Draw,0,6,2,8,2,48,46
+472,2004-09-04,Italy,Norway,2,1,FIFA World Cup qualification,False,Italy,1,8,1,9,10,35,25
+473,2004-09-04,Latvia,Portugal,0,2,FIFA World Cup qualification,False,Portugal,2,1,12,2,65,9,56
+474,2004-09-08,Bosnia and Herzegovina,Spain,1,1,FIFA World Cup qualification,False,Draw,0,3,6,2,79,5,74
+475,2004-09-08,Faroe Islands,France,0,2,FIFA World Cup qualification,False,France,2,0,8,2,131,2,129
+476,2004-09-08,Germany,Brazil,1,1,Friendly,False,Draw,0,6,8,5,19,1,18
+477,2004-09-08,Greece,Turkey,0,0,FIFA World Cup qualification,False,Draw,0,8,5,11,18,14,4
+478,2004-09-08,Moldova,Italy,0,1,FIFA World Cup qualification,False,Italy,1,0,10,0,114,10,104
+479,2004-09-08,Netherlands,Czech Republic,2,0,FIFA World Cup qualification,False,Netherlands,2,10,7,9,6,4,2
+480,2004-09-08,Poland,England,1,2,FIFA World Cup qualification,False,England,1,7,10,8,25,8,17
+481,2004-09-08,Portugal,Estonia,4,0,FIFA World Cup qualification,False,Portugal,4,12,0,12,9,81,72
+482,2004-09-08,Scotland,Slovenia,0,0,FIFA World Cup qualification,False,Draw,0,8,4,7,86,42,44
+483,2004-10-09,England,Wales,2,0,FIFA World Cup qualification,False,England,2,10,9,13,8,68,60
+484,2004-10-09,France,Republic of Ireland,0,0,FIFA World Cup qualification,False,Draw,0,6,8,6,2,12,10
+485,2004-10-09,Iran,Germany,0,2,Friendly,False,Germany,2,0,8,0,20,19,1
+486,2004-10-09,Liechtenstein,Portugal,2,2,FIFA World Cup qualification,False,Draw,0,1,10,1,142,9,133
+487,2004-10-09,North Macedonia,Netherlands,2,2,FIFA World Cup qualification,False,Draw,0,2,8,1,92,6,86
+488,2004-10-09,Scotland,Norway,0,1,FIFA World Cup qualification,False,Norway,1,5,4,4,86,35,51
+489,2004-10-09,Slovenia,Italy,1,0,FIFA World Cup qualification,False,Slovenia,1,7,9,3,42,10,32
+490,2004-10-09,Spain,Belgium,2,0,FIFA World Cup qualification,False,Spain,2,8,5,13,5,45,40
+491,2004-10-09,Ukraine,Greece,1,1,FIFA World Cup qualification,False,Draw,0,1,6,7,57,18,39
+492,2004-10-13,Azerbaijan,England,0,1,FIFA World Cup qualification,False,England,1,0,13,0,113,8,105
+493,2004-10-13,Cyprus,France,0,2,FIFA World Cup qualification,False,France,2,0,9,0,108,2,106
+494,2004-10-13,Italy,Belarus,4,3,FIFA World Cup qualification,False,Italy,1,9,2,11,10,69,59
+495,2004-10-13,Lithuania,Spain,0,0,FIFA World Cup qualification,False,Draw,0,5,9,6,100,5,95
+496,2004-10-13,Moldova,Scotland,1,1,FIFA World Cup qualification,False,Draw,0,1,3,1,114,86,28
+497,2004-10-13,Netherlands,Finland,3,1,FIFA World Cup qualification,False,Netherlands,2,11,4,12,6,43,37
+498,2004-10-13,Portugal,Russia,7,1,FIFA World Cup qualification,False,Portugal,6,10,3,12,9,32,23
+499,2004-11-17,Andorra,Netherlands,0,3,FIFA World Cup qualification,True,Netherlands,3,0,13,0,138,6,132
+500,2004-11-17,Belgium,Serbia,0,2,FIFA World Cup qualification,False,Serbia,2,5,4,4,45,201,156
+501,2004-11-17,France,Poland,0,0,Friendly,False,Draw,0,9,7,4,2,25,23
+502,2004-11-17,Germany,Cameroon,3,0,Friendly,False,Germany,3,10,2,5,19,23,4
+503,2004-11-17,Greece,Kazakhstan,3,1,FIFA World Cup qualification,False,Greece,2,6,0,11,18,147,129
+504,2004-11-17,Italy,Finland,1,0,Friendly,False,Italy,1,12,3,13,10,43,33
+505,2004-11-17,Luxembourg,Portugal,0,5,FIFA World Cup qualification,False,Portugal,5,1,13,1,155,9,146
+506,2004-11-17,Scotland,Sweden,1,4,Friendly,False,Sweden,3,3,6,4,86,13,73
+507,2004-11-17,Spain,England,1,0,Friendly,False,Spain,1,9,10,13,5,8,3
+508,2004-12-16,Japan,Germany,0,3,Friendly,False,Germany,3,3,13,3,17,19,2
+509,2004-12-19,South Korea,Germany,3,1,Friendly,False,South Korea,2,12,10,12,22,19,3
+510,2004-12-21,Thailand,Germany,1,5,Friendly,False,Germany,4,0,12,0,79,19,60
+511,2005-02-09,Egypt,Belgium,4,0,Friendly,False,Egypt,4,6,2,3,32,55,23
+512,2005-02-09,England,Netherlands,0,0,Friendly,False,Draw,0,10,11,13,9,3,6
+513,2005-02-09,France,Sweden,1,1,Friendly,False,Draw,0,9,6,5,5,14,9
+514,2005-02-09,Germany,Argentina,2,2,Friendly,False,Draw,0,10,7,6,16,4,12
+515,2005-02-09,Greece,Denmark,2,1,FIFA World Cup qualification,False,Greece,1,8,7,11,16,13,3
+516,2005-02-09,Republic of Ireland,Portugal,1,0,Friendly,False,Republic of Ireland,1,11,10,7,24,10,14
+517,2005-02-09,Italy,Russia,2,0,Friendly,False,Italy,2,12,3,15,12,34,22
+518,2005-02-09,Spain,San Marino,5,0,FIFA World Cup qualification,False,Spain,5,11,0,13,5,155,150
+519,2005-03-26,Belgium,Bosnia and Herzegovina,4,1,FIFA World Cup qualification,False,Belgium,3,4,3,4,55,65,10
+520,2005-03-26,England,Northern Ireland,4,0,FIFA World Cup qualification,False,England,4,10,1,13,9,103,94
+521,2005-03-26,France,Switzerland,0,0,FIFA World Cup qualification,False,Draw,0,7,1,5,5,35,30
+522,2005-03-26,Georgia,Greece,1,3,FIFA World Cup qualification,False,Greece,2,0,11,1,104,16,88
+523,2005-03-26,Italy,Scotland,2,0,FIFA World Cup qualification,False,Italy,2,12,2,15,12,60,48
+524,2005-03-26,Portugal,Canada,4,1,Friendly,False,Portugal,3,10,1,12,10,84,74
+525,2005-03-26,Romania,Netherlands,0,2,FIFA World Cup qualification,False,Netherlands,2,6,11,3,27,3,24
+526,2005-03-26,Slovenia,Germany,0,1,Friendly,False,Germany,1,4,10,3,68,16,52
+527,2005-03-26,Spain,China PR,3,0,Friendly,False,Spain,3,13,0,13,5,72,67
+528,2005-03-30,England,Azerbaijan,2,0,FIFA World Cup qualification,False,England,2,10,0,13,9,114,105
+529,2005-03-30,Greece,Albania,2,0,FIFA World Cup qualification,False,Greece,2,13,3,13,16,82,66
+530,2005-03-30,Israel,France,1,1,FIFA World Cup qualification,False,Draw,0,2,7,2,44,5,39
+531,2005-03-30,Italy,Iceland,0,0,Friendly,False,Draw,0,13,5,13,12,94,82
+532,2005-03-30,Netherlands,Armenia,2,0,FIFA World Cup qualification,False,Netherlands,2,13,0,15,3,108,105
+533,2005-03-30,San Marino,Belgium,1,2,FIFA World Cup qualification,False,Belgium,1,0,6,0,155,55,100
+534,2005-03-30,Serbia,Spain,0,0,FIFA World Cup qualification,True,Draw,0,5,11,3,201,5,196
+535,2005-03-30,Slovakia,Portugal,1,1,FIFA World Cup qualification,False,Draw,0,3,10,2,45,10,35
+536,2005-05-28,United States,England,1,2,Friendly,False,England,1,3,10,9,8,9,1
+537,2005-05-31,Colombia,England,2,3,Friendly,True,England,1,1,13,7,24,9,15
+538,2005-05-31,France,Hungary,2,1,Friendly,False,France,1,7,7,7,5,74,69
+539,2005-06-04,Netherlands,Romania,2,0,FIFA World Cup qualification,False,Netherlands,2,13,6,15,3,27,24
+540,2005-06-04,Northern Ireland,Germany,1,4,Friendly,False,Germany,3,1,10,1,103,16,87
+541,2005-06-04,Norway,Italy,0,0,FIFA World Cup qualification,False,Draw,0,5,11,3,38,12,26
+542,2005-06-04,Portugal,Slovakia,2,0,FIFA World Cup qualification,False,Portugal,2,10,2,12,10,45,35
+543,2005-06-04,Scotland,Moldova,2,0,FIFA World Cup qualification,False,Scotland,2,4,1,4,60,107,47
+544,2005-06-04,Serbia,Belgium,0,0,FIFA World Cup qualification,True,Draw,0,6,7,4,201,55,146
+545,2005-06-04,Spain,Lithuania,1,0,FIFA World Cup qualification,False,Spain,1,13,2,15,5,100,95
+546,2005-06-04,Turkey,Greece,0,0,FIFA World Cup qualification,False,Draw,0,6,13,2,11,16,5
+547,2005-06-08,Belarus,Scotland,0,0,FIFA World Cup qualification,False,Draw,0,2,5,5,61,60,1
+548,2005-06-08,Estonia,Portugal,0,1,FIFA World Cup qualification,False,Portugal,1,0,10,0,76,10,66
+549,2005-06-08,Finland,Netherlands,0,4,FIFA World Cup qualification,False,Netherlands,4,0,13,7,46,3,43
+550,2005-06-08,Germany,Russia,2,2,Friendly,False,Draw,0,11,4,6,16,34,18
+551,2005-06-08,Greece,Ukraine,0,1,FIFA World Cup qualification,False,Ukraine,1,10,4,10,16,40,24
+552,2005-06-08,Italy,Serbia,1,1,Friendly,True,Draw,0,9,7,11,12,201,189
+553,2005-06-08,Spain,Bosnia and Herzegovina,1,1,FIFA World Cup qualification,False,Draw,0,11,4,13,5,65,60
+554,2005-06-11,Ecuador,Italy,1,1,Friendly,True,Draw,0,1,7,1,37,12,25
+555,2005-06-15,Germany,Australia,4,3,Confederations Cup,False,Germany,1,11,10,9,16,48,32
+556,2005-06-16,Brazil,Greece,3,0,Confederations Cup,True,Brazil,3,8,7,13,1,16,15
+557,2005-06-18,Germany,Tunisia,3,0,Confederations Cup,False,Germany,3,13,3,11,16,28,12
+558,2005-06-19,Greece,Japan,0,1,Confederations Cup,True,Japan,1,4,5,9,16,15,1
+559,2005-06-21,Germany,Argentina,2,2,Confederations Cup,False,Draw,0,11,5,9,16,4,12
+560,2005-06-22,Greece,Mexico,0,0,Confederations Cup,True,Draw,0,2,2,7,16,5,11
+561,2005-06-25,Germany,Brazil,2,3,Confederations Cup,False,Brazil,1,8,8,8,16,1,15
+562,2005-06-29,Germany,Mexico,4,3,Confederations Cup,False,Germany,1,10,2,10,16,5,11
+563,2005-08-17,Austria,Scotland,2,2,Friendly,False,Draw,0,5,5,3,69,60,9
+564,2005-08-17,Belgium,Greece,2,0,Friendly,False,Belgium,2,10,1,7,55,16,39
+565,2005-08-17,Denmark,England,4,1,Friendly,False,Denmark,3,7,12,10,13,9,4
+566,2005-08-17,France,Ivory Coast,3,0,Friendly,False,France,3,9,0,9,5,203,198
+567,2005-08-17,Republic of Ireland,Italy,1,2,Friendly,False,Italy,1,10,7,7,24,12,12
+568,2005-08-17,Netherlands,Germany,2,2,Friendly,False,Draw,0,13,8,13,3,16,13
+569,2005-08-17,Portugal,Egypt,2,0,Friendly,False,Portugal,2,13,6,15,10,32,22
+570,2005-08-17,Spain,Uruguay,2,0,Friendly,False,Spain,2,11,4,13,5,18,13
+571,2005-09-03,Armenia,Netherlands,0,1,FIFA World Cup qualification,False,Netherlands,1,0,13,0,108,3,105
+572,2005-09-03,Bosnia and Herzegovina,Belgium,1,0,FIFA World Cup qualification,False,Bosnia and Herzegovina,1,6,10,5,65,55,10
+573,2005-09-03,France,Faroe Islands,3,0,FIFA World Cup qualification,False,France,3,11,0,11,5,132,127
+574,2005-09-03,Portugal,Luxembourg,6,0,FIFA World Cup qualification,False,Portugal,6,13,0,15,10,150,140
+575,2005-09-03,Scotland,Italy,1,1,FIFA World Cup qualification,False,Draw,0,6,7,5,60,12,48
+576,2005-09-03,Slovakia,Germany,2,0,Friendly,False,Slovakia,2,5,5,5,45,16,29
+577,2005-09-03,Spain,Canada,2,1,Friendly,False,Spain,1,11,1,13,5,84,79
+578,2005-09-03,Wales,England,0,1,FIFA World Cup qualification,False,England,1,6,12,9,71,9,62
+579,2005-09-07,Belarus,Italy,1,4,FIFA World Cup qualification,False,Italy,3,1,9,2,61,12,49
+580,2005-09-07,Belgium,San Marino,8,0,FIFA World Cup qualification,False,Belgium,8,10,0,10,55,155,100
+581,2005-09-07,Germany,South Africa,4,2,Friendly,False,Germany,2,7,3,10,16,49,33
+582,2005-09-07,Republic of Ireland,France,0,1,FIFA World Cup qualification,False,France,1,7,13,7,24,5,19
+583,2005-09-07,Kazakhstan,Greece,1,2,FIFA World Cup qualification,False,Greece,1,0,4,0,137,16,121
+584,2005-09-07,Netherlands,Andorra,4,0,FIFA World Cup qualification,False,Netherlands,4,13,0,13,3,125,122
+585,2005-09-07,Northern Ireland,England,1,0,FIFA World Cup qualification,False,Northern Ireland,1,4,9,4,103,9,94
+586,2005-09-07,Norway,Scotland,1,2,FIFA World Cup qualification,False,Scotland,1,5,9,2,38,60,22
+587,2005-09-07,Russia,Portugal,0,0,FIFA World Cup qualification,False,Draw,0,5,13,8,34,10,24
+588,2005-09-07,Spain,Serbia,1,1,FIFA World Cup qualification,False,Draw,0,11,7,11,5,201,196
+589,2005-10-08,Belgium,Spain,0,2,FIFA World Cup qualification,False,Spain,2,7,11,9,55,5,50
+590,2005-10-08,Czech Republic,Netherlands,0,2,FIFA World Cup qualification,False,Netherlands,2,4,13,7,2,3,1
+591,2005-10-08,Denmark,Greece,1,0,FIFA World Cup qualification,False,Denmark,1,10,4,10,13,16,3
+592,2005-10-08,England,Austria,1,0,FIFA World Cup qualification,False,England,1,9,2,13,9,69,60
+593,2005-10-08,Italy,Slovenia,1,0,FIFA World Cup qualification,False,Italy,1,11,4,11,12,68,56
+594,2005-10-08,Portugal,Liechtenstein,2,1,FIFA World Cup qualification,False,Portugal,1,13,1,15,10,122,112
+595,2005-10-08,Scotland,Belarus,0,1,FIFA World Cup qualification,False,Belarus,1,6,4,4,60,61,1
+596,2005-10-08,Switzerland,France,1,1,FIFA World Cup qualification,False,Draw,0,2,13,1,35,5,30
+597,2005-10-08,Turkey,Germany,2,1,Friendly,False,Turkey,1,9,7,5,11,16,5
+598,2005-10-12,England,Poland,2,1,FIFA World Cup qualification,False,England,1,9,7,13,9,22,13
+599,2005-10-12,France,Cyprus,4,0,FIFA World Cup qualification,False,France,4,13,0,13,5,96,91
+600,2005-10-12,Germany,China PR,1,0,Friendly,False,Germany,1,7,0,10,16,72,56
+601,2005-10-12,Greece,Georgia,1,0,FIFA World Cup qualification,False,Greece,1,7,0,7,16,104,88
+602,2005-10-12,Italy,Moldova,2,1,FIFA World Cup qualification,False,Italy,1,13,1,11,12,107,95
+603,2005-10-12,Lithuania,Belgium,1,1,FIFA World Cup qualification,False,Draw,0,3,7,6,100,55,45
+604,2005-10-12,Netherlands,North Macedonia,0,0,FIFA World Cup qualification,False,Draw,0,11,3,11,3,87,84
+605,2005-10-12,Portugal,Latvia,3,0,FIFA World Cup qualification,False,Portugal,3,13,1,15,10,69,59
+606,2005-10-12,San Marino,Spain,0,6,FIFA World Cup qualification,False,Spain,6,0,13,0,155,5,150
+607,2005-10-12,Slovenia,Scotland,0,3,FIFA World Cup qualification,False,Scotland,3,4,8,3,68,60,8
+608,2005-11-09,France,Costa Rica,3,2,Friendly,True,France,1,13,3,15,5,21,16
+609,2005-11-12,England,Argentina,3,2,Friendly,True,England,1,12,2,15,9,4,5
+610,2005-11-12,France,Germany,0,0,Friendly,False,Draw,0,11,7,13,5,16,11
+611,2005-11-12,Netherlands,Italy,1,3,Friendly,False,Italy,2,10,13,8,3,12,9
+612,2005-11-12,Portugal,Croatia,2,0,Friendly,False,Portugal,2,13,1,15,10,20,10
+613,2005-11-12,Scotland,United States,1,1,Friendly,False,Draw,0,8,4,5,60,8,52
+614,2005-11-12,Spain,Slovakia,5,1,FIFA World Cup qualification,False,Spain,4,13,4,11,5,45,40
+615,2005-11-15,Northern Ireland,Portugal,1,1,Friendly,False,Draw,0,4,11,5,103,10,93
+616,2005-11-16,Greece,Hungary,2,1,Friendly,False,Greece,1,9,7,7,16,74,58
+617,2005-11-16,Ivory Coast,Italy,1,1,Friendly,True,Draw,0,1,13,1,203,12,191
+618,2005-11-16,Slovakia,Spain,1,1,FIFA World Cup qualification,False,Draw,0,5,11,6,45,5,40
+619,2006-01-21,Greece,South Korea,1,1,Friendly,True,Draw,0,10,10,8,16,51,35
+620,2006-01-25,Saudi Arabia,Greece,1,1,Friendly,False,Draw,0,2,8,1,64,16,48
+621,2006-02-28,Greece,Belarus,1,0,Friendly,True,Greece,1,11,4,11,16,70,54
+622,2006-03-01,England,Uruguay,2,1,Friendly,False,England,1,12,3,15,5,29,24
+623,2006-03-01,France,Slovakia,1,2,Friendly,False,Slovakia,1,8,7,10,4,37,33
+624,2006-03-01,Italy,Germany,4,1,Friendly,False,Italy,3,13,7,11,2,6,4
+625,2006-03-01,Kazakhstan,Greece,0,2,Friendly,True,Greece,2,0,11,0,135,16,119
+626,2006-03-01,Luxembourg,Belgium,0,2,Friendly,False,Belgium,2,0,7,1,186,53,133
+627,2006-03-01,Netherlands,Ecuador,1,0,Friendly,False,Netherlands,1,10,1,8,7,30,23
+628,2006-03-01,Saudi Arabia,Portugal,0,3,Friendly,True,Portugal,3,2,13,1,64,8,56
+629,2006-03-01,Scotland,Switzerland,1,3,Friendly,False,Switzerland,2,7,5,5,25,17,8
+630,2006-03-01,Spain,Ivory Coast,3,2,Friendly,False,Spain,1,13,1,13,12,203,191
+631,2006-03-22,Germany,United States,4,1,Friendly,False,Germany,3,7,1,12,6,31,25
+632,2006-05-11,Belgium,Saudi Arabia,2,1,Friendly,True,Belgium,1,10,1,12,53,64,11
+633,2006-05-11,Bulgaria,Scotland,1,5,Friendly,True,Scotland,4,1,7,3,43,25,18
+634,2006-05-13,Japan,Scotland,0,0,Friendly,False,Draw,0,5,8,3,47,25,22
+635,2006-05-20,Slovakia,Belgium,1,1,Friendly,False,Draw,0,8,8,7,37,53,16
+636,2006-05-24,Belgium,Turkey,3,3,Friendly,False,Draw,0,9,9,10,53,26,27
+637,2006-05-25,Australia,Greece,1,0,Friendly,False,Australia,1,10,8,7,39,16,23
+638,2006-05-27,France,Mexico,1,0,Friendly,False,France,1,10,2,10,4,20,16
+639,2006-05-27,Germany,Luxembourg,7,0,Friendly,False,Germany,7,10,0,15,6,186,180
+640,2006-05-27,Netherlands,Cameroon,1,0,Friendly,False,Netherlands,1,10,1,10,7,11,4
+641,2006-05-27,Portugal,Cape Verde,4,1,Friendly,False,Portugal,3,13,0,15,8,204,196
+642,2006-05-27,Spain,Russia,0,0,Friendly,False,Draw,0,11,3,11,12,22,10
+643,2006-05-30,England,Hungary,3,1,Friendly,False,England,2,15,6,15,5,62,57
+644,2006-05-30,Germany,Japan,2,2,Friendly,False,Draw,0,8,6,13,6,47,41
+645,2006-05-31,France,Denmark,2,0,Friendly,False,France,2,10,7,10,4,21,17
+646,2006-05-31,Switzerland,Italy,1,1,Friendly,False,Draw,0,6,11,2,17,2,15
+647,2006-06-01,Netherlands,Mexico,2,1,Friendly,False,Netherlands,1,10,2,10,7,20,13
+648,2006-06-02,Germany,Colombia,3,0,Friendly,False,Germany,3,10,1,13,6,34,28
+649,2006-06-02,Italy,Ukraine,0,0,Friendly,True,Draw,0,9,5,11,2,13,11
+650,2006-06-03,England,Jamaica,6,0,Friendly,False,England,6,15,0,15,5,57,52
+651,2006-06-03,Luxembourg,Portugal,0,3,Friendly,True,Portugal,3,0,13,1,186,8,178
+652,2006-06-03,Spain,Egypt,2,0,Friendly,False,Spain,2,11,6,11,12,27,15
+653,2006-06-04,Netherlands,Australia,1,1,Friendly,False,Draw,0,10,8,10,7,39,32
+654,2006-06-07,France,China PR,3,1,Friendly,False,France,2,10,0,10,4,84,80
+655,2006-06-07,Spain,Croatia,2,1,Friendly,True,Spain,1,11,1,13,12,15,3
+656,2006-06-09,Germany,Costa Rica,4,2,FIFA World Cup,False,Germany,2,13,3,13,6,68,62
+657,2006-06-10,England,Paraguay,1,0,FIFA World Cup,True,England,1,15,2,15,5,35,30
+658,2006-06-11,Angola,Portugal,0,1,FIFA World Cup,True,Portugal,1,0,13,0,55,8,47
+659,2006-06-11,Serbia,Netherlands,0,1,FIFA World Cup,True,Netherlands,1,4,13,3,33,7,26
+660,2006-06-12,Italy,Ghana,2,0,FIFA World Cup,True,Italy,2,9,2,13,2,28,26
+661,2006-06-13,France,Switzerland,0,0,FIFA World Cup,True,Draw,0,10,7,10,4,17,13
+662,2006-06-14,Germany,Poland,1,0,FIFA World Cup,False,Germany,1,13,4,13,6,24,18
+663,2006-06-14,Spain,Ukraine,4,0,FIFA World Cup,True,Spain,4,13,5,13,12,13,1
+664,2006-06-15,England,Trinidad and Tobago,2,0,FIFA World Cup,True,England,2,15,0,15,5,91,86
+665,2006-06-16,Netherlands,Ivory Coast,2,1,FIFA World Cup,True,Netherlands,1,13,1,13,7,203,196
+666,2006-06-17,Italy,United States,1,1,FIFA World Cup,True,Draw,0,9,2,11,2,31,29
+667,2006-06-17,Portugal,Iran,2,0,FIFA World Cup,True,Portugal,2,15,0,15,8,38,30
+668,2006-06-18,France,South Korea,1,1,FIFA World Cup,True,Draw,0,11,8,11,4,51,47
+669,2006-06-19,Spain,Tunisia,3,1,FIFA World Cup,True,Spain,2,13,2,13,12,32,20
+670,2006-06-20,Germany,Ecuador,3,0,FIFA World Cup,False,Germany,3,13,1,13,6,30,24
+671,2006-06-20,Sweden,England,2,2,FIFA World Cup,True,Draw,0,6,13,5,14,5,9
+672,2006-06-21,Netherlands,Argentina,0,0,FIFA World Cup,True,Draw,0,11,3,11,7,3,4
+673,2006-06-21,Portugal,Mexico,2,1,FIFA World Cup,True,Portugal,1,15,1,15,8,20,12
+674,2006-06-22,Czech Republic,Italy,0,2,FIFA World Cup,True,Italy,2,1,9,7,10,2,8
+675,2006-06-23,Saudi Arabia,Spain,0,1,FIFA World Cup,True,Spain,1,1,15,1,64,12,52
+676,2006-06-23,Togo,France,0,2,FIFA World Cup,True,France,2,0,11,0,60,4,56
+677,2006-06-24,Germany,Sweden,2,0,FIFA World Cup,False,Germany,2,15,6,15,6,14,8
+678,2006-06-25,England,Ecuador,1,0,FIFA World Cup,True,England,1,13,1,15,5,30,25
+679,2006-06-25,Portugal,Netherlands,1,0,FIFA World Cup,True,Portugal,1,15,8,15,8,7,1
+680,2006-06-26,Italy,Australia,1,0,FIFA World Cup,True,Italy,1,11,7,11,2,39,37
+681,2006-06-27,Spain,France,1,3,FIFA World Cup,True,France,2,12,11,12,12,4,8
+682,2006-06-30,Germany,Argentina,1,1,FIFA World Cup,False,Germany,0,15,3,15,6,3,3
+683,2006-06-30,Italy,Ukraine,3,0,FIFA World Cup,True,Italy,3,13,5,11,2,13,11
+684,2006-07-01,Brazil,France,0,1,FIFA World Cup,True,France,1,8,11,12,1,4,3
+685,2006-07-01,England,Portugal,0,0,FIFA World Cup,True,Portugal,0,10,15,12,5,8,3
+686,2006-07-04,Germany,Italy,0,2,FIFA World Cup,False,Italy,2,12,13,12,6,2,4
+687,2006-07-05,Portugal,France,0,1,FIFA World Cup,True,France,1,12,13,12,8,4,4
+688,2006-07-08,Germany,Portugal,3,1,FIFA World Cup,False,Germany,2,12,9,12,6,8,2
+689,2006-07-09,Italy,France,1,1,FIFA World Cup,True,Italy,0,15,12,13,2,4,2
+690,2006-08-15,Iceland,Spain,0,0,Friendly,False,Draw,0,5,10,6,93,12,81
+691,2006-08-16,Belgium,Kazakhstan,0,0,UEFA Euro qualification,False,Draw,0,9,1,8,53,135,82
+692,2006-08-16,Bosnia and Herzegovina,France,1,2,Friendly,False,France,1,5,12,5,59,4,55
+693,2006-08-16,England,Greece,4,0,Friendly,False,England,4,10,7,12,5,16,11
+694,2006-08-16,Germany,Sweden,3,0,Friendly,False,Germany,3,12,5,12,6,14,8
+695,2006-08-16,Republic of Ireland,Netherlands,0,4,Friendly,False,Netherlands,4,4,10,6,49,7,42
+696,2006-08-16,Italy,Croatia,0,2,Friendly,False,Croatia,2,12,4,10,2,15,13
+697,2006-09-01,Denmark,Portugal,4,2,Friendly,False,Denmark,2,9,6,13,21,8,13
+698,2006-09-02,England,Andorra,5,0,UEFA Euro qualification,False,England,5,10,0,12,5,164,159
+699,2006-09-02,Georgia,France,0,3,UEFA Euro qualification,False,France,3,0,12,1,94,4,90
+700,2006-09-02,Germany,Republic of Ireland,1,0,UEFA Euro qualification,False,Germany,1,12,3,12,6,49,43
+701,2006-09-02,Italy,Lithuania,1,1,UEFA Euro qualification,False,Draw,0,10,4,10,2,69,67
+702,2006-09-02,Luxembourg,Netherlands,0,1,UEFA Euro qualification,False,Netherlands,1,0,10,0,186,7,179
+703,2006-09-02,Moldova,Greece,0,1,UEFA Euro qualification,False,Greece,1,1,9,1,86,16,70
+704,2006-09-02,Scotland,Faroe Islands,6,0,UEFA Euro qualification,False,Scotland,6,8,0,5,25,181,156
+705,2006-09-02,Spain,Liechtenstein,4,0,UEFA Euro qualification,False,Spain,4,10,1,12,12,158,146
+706,2006-09-06,Armenia,Belgium,0,1,UEFA Euro qualification,False,Belgium,1,0,9,0,123,53,70
+707,2006-09-06,Finland,Portugal,1,1,UEFA Euro qualification,False,Draw,0,1,4,7,52,8,44
+708,2006-09-06,France,Italy,3,1,UEFA Euro qualification,False,France,2,12,7,11,4,2,2
+709,2006-09-06,Lithuania,Scotland,1,2,UEFA Euro qualification,False,Scotland,1,3,10,5,69,25,44
+710,2006-09-06,North Macedonia,England,0,1,UEFA Euro qualification,False,England,1,2,12,1,54,5,49
+711,2006-09-06,Netherlands,Belarus,3,0,UEFA Euro qualification,False,Netherlands,3,10,4,11,7,70,63
+712,2006-09-06,Northern Ireland,Spain,3,2,UEFA Euro qualification,False,Northern Ireland,1,7,7,8,48,12,36
+713,2006-09-06,San Marino,Germany,0,13,UEFA Euro qualification,False,Germany,13,0,12,0,194,6,188
+714,2006-10-07,Bulgaria,Netherlands,1,1,UEFA Euro qualification,False,Draw,0,2,10,3,43,7,36
+715,2006-10-07,England,North Macedonia,0,0,UEFA Euro qualification,False,Draw,0,10,3,10,5,54,49
+716,2006-10-07,Germany,Georgia,2,0,Friendly,False,Germany,2,15,0,12,6,94,88
+717,2006-10-07,Greece,Norway,1,0,UEFA Euro qualification,False,Greece,1,9,4,13,16,50,34
+718,2006-10-07,Italy,Ukraine,2,0,UEFA Euro qualification,False,Italy,2,7,4,10,2,13,11
+719,2006-10-07,Portugal,Azerbaijan,3,0,UEFA Euro qualification,False,Portugal,3,4,0,12,8,125,117
+720,2006-10-07,Scotland,France,1,0,UEFA Euro qualification,False,Scotland,1,13,9,7,25,4,21
+721,2006-10-07,Serbia,Belgium,1,0,UEFA Euro qualification,False,Serbia,1,6,6,6,33,53,20
+722,2006-10-07,Sweden,Spain,2,0,UEFA Euro qualification,False,Sweden,2,5,4,8,14,12,2
+723,2006-10-11,Belgium,Azerbaijan,3,0,UEFA Euro qualification,False,Belgium,3,8,0,8,53,125,72
+724,2006-10-11,Bosnia and Herzegovina,Greece,0,4,UEFA Euro qualification,False,Greece,4,4,9,5,59,16,43
+725,2006-10-11,Croatia,England,2,0,UEFA Euro qualification,False,Croatia,2,6,10,7,15,5,10
+726,2006-10-11,France,Faroe Islands,5,0,UEFA Euro qualification,False,France,5,12,0,11,4,181,177
+727,2006-10-11,Georgia,Italy,1,3,UEFA Euro qualification,False,Italy,2,0,7,0,94,2,92
+728,2006-10-11,Netherlands,Albania,2,1,UEFA Euro qualification,False,Netherlands,1,13,3,11,7,87,80
+729,2006-10-11,Poland,Portugal,2,1,UEFA Euro qualification,False,Poland,1,4,4,10,24,8,16
+730,2006-10-11,Slovakia,Germany,1,4,UEFA Euro qualification,False,Germany,3,5,15,6,37,6,31
+731,2006-10-11,Spain,Argentina,2,1,Friendly,False,Spain,1,7,2,12,12,3,9
+732,2006-10-11,Ukraine,Scotland,2,0,UEFA Euro qualification,False,Ukraine,2,4,10,9,13,25,12
+733,2006-11-15,Belgium,Poland,0,1,UEFA Euro qualification,False,Poland,1,7,7,8,53,24,29
+734,2006-11-15,Cyprus,Germany,1,1,UEFA Euro qualification,False,Draw,0,1,13,1,73,6,67
+735,2006-11-15,France,Greece,1,0,Friendly,False,France,1,12,9,11,4,16,12
+736,2006-11-15,Italy,Turkey,1,1,Friendly,False,Draw,0,8,7,8,2,26,24
+737,2006-11-15,Netherlands,England,1,1,Friendly,False,Draw,0,11,8,11,7,5,2
+738,2006-11-15,Portugal,Kazakhstan,3,0,UEFA Euro qualification,False,Portugal,3,7,1,12,8,135,127
+739,2006-11-15,Spain,Romania,0,1,Friendly,False,Romania,1,6,9,9,12,19,7
+740,2007-02-06,Greece,South Korea,0,1,Friendly,True,South Korea,1,9,8,10,11,42,31
+741,2007-02-06,Portugal,Brazil,2,0,Friendly,True,Portugal,2,10,7,12,8,2,6
+742,2007-02-07,Belgium,Czech Republic,0,2,Friendly,False,Czech Republic,2,6,4,5,49,6,43
+743,2007-02-07,England,Spain,0,1,Friendly,False,Spain,1,5,6,7,12,4,8
+744,2007-02-07,France,Argentina,0,1,Friendly,False,Argentina,1,9,4,10,7,1,6
+745,2007-02-07,Germany,Switzerland,3,1,Friendly,False,Germany,2,13,6,15,5,44,39
+746,2007-02-07,Netherlands,Russia,4,1,Friendly,False,Netherlands,3,11,3,11,9,23,14
+747,2007-03-24,Czech Republic,Germany,1,2,UEFA Euro qualification,False,Germany,1,3,13,4,6,5,1
+748,2007-03-24,Greece,Turkey,1,4,UEFA Euro qualification,False,Turkey,3,6,9,7,11,16,5
+749,2007-03-24,Israel,England,0,0,UEFA Euro qualification,False,Draw,0,3,3,3,26,12,14
+750,2007-03-24,Lithuania,France,0,1,UEFA Euro qualification,False,France,1,2,9,5,59,7,52
+751,2007-03-24,Netherlands,Romania,0,0,UEFA Euro qualification,False,Draw,0,9,7,11,9,13,4
+752,2007-03-24,Portugal,Belgium,4,0,UEFA Euro qualification,False,Portugal,4,12,3,12,8,49,41
+753,2007-03-24,Scotland,Georgia,2,1,UEFA Euro qualification,False,Scotland,1,12,0,10,14,77,63
+754,2007-03-24,Spain,Denmark,2,1,UEFA Euro qualification,False,Spain,1,9,9,9,4,31,27
+755,2007-03-28,Andorra,England,0,3,UEFA Euro qualification,True,England,3,0,5,0,175,12,163
+756,2007-03-28,France,Austria,1,0,Friendly,False,France,1,12,2,12,7,94,87
+757,2007-03-28,Germany,Denmark,0,1,Friendly,False,Denmark,1,10,9,12,5,31,26
+758,2007-03-28,Italy,Scotland,2,0,UEFA Euro qualification,False,Italy,2,10,9,8,3,14,11
+759,2007-03-28,Malta,Greece,0,1,UEFA Euro qualification,False,Greece,1,0,6,0,136,11,125
+760,2007-03-28,Serbia,Portugal,1,1,UEFA Euro qualification,False,Draw,0,6,10,6,27,8,19
+761,2007-03-28,Slovenia,Netherlands,0,1,UEFA Euro qualification,False,Netherlands,1,3,11,3,83,9,74
+762,2007-03-28,Spain,Iceland,1,0,UEFA Euro qualification,False,Spain,1,12,5,12,4,90,86
+763,2007-05-30,Austria,Scotland,0,1,Friendly,False,Scotland,1,2,9,3,94,14,80
+764,2007-06-01,England,Brazil,1,1,Friendly,False,Draw,0,6,7,8,12,2,10
+765,2007-06-02,Belgium,Portugal,1,2,UEFA Euro qualification,False,Portugal,1,3,13,4,49,8,41
+766,2007-06-02,Faroe Islands,Italy,1,2,UEFA Euro qualification,False,Italy,1,0,13,2,194,3,191
+767,2007-06-02,France,Ukraine,2,0,UEFA Euro qualification,False,France,2,12,3,12,7,30,23
+768,2007-06-02,Germany,San Marino,6,0,UEFA Euro qualification,False,Germany,6,10,0,12,5,197,192
+769,2007-06-02,Greece,Hungary,2,0,UEFA Euro qualification,False,Greece,2,6,3,9,11,50,39
+770,2007-06-02,South Korea,Netherlands,0,2,Friendly,False,Netherlands,2,8,11,9,42,9,33
+771,2007-06-02,Latvia,Spain,0,2,UEFA Euro qualification,False,Spain,2,1,12,1,86,4,82
+772,2007-06-05,Kuwait,Portugal,1,1,Friendly,False,Draw,0,1,11,1,119,8,111
+773,2007-06-06,Estonia,England,0,3,UEFA Euro qualification,False,England,3,0,8,0,124,12,112
+774,2007-06-06,Faroe Islands,Scotland,0,2,UEFA Euro qualification,False,Scotland,2,0,9,1,194,14,180
+775,2007-06-06,Finland,Belgium,2,0,UEFA Euro qualification,False,Finland,2,4,0,7,36,49,13
+776,2007-06-06,France,Georgia,1,0,UEFA Euro qualification,False,France,1,12,0,12,7,77,70
+777,2007-06-06,Germany,Slovakia,2,1,UEFA Euro qualification,False,Germany,1,12,5,12,5,53,48
+778,2007-06-06,Greece,Moldova,2,1,UEFA Euro qualification,False,Greece,1,9,1,9,11,52,41
+779,2007-06-06,Liechtenstein,Spain,0,2,UEFA Euro qualification,False,Spain,2,1,15,1,122,4,118
+780,2007-06-06,Lithuania,Italy,0,2,UEFA Euro qualification,False,Italy,2,2,13,2,59,3,56
+781,2007-06-06,Thailand,Netherlands,1,3,Friendly,False,Netherlands,2,0,13,0,121,9,112
+782,2007-08-22,Armenia,Portugal,1,1,UEFA Euro qualification,False,Draw,0,1,9,1,93,8,85
+783,2007-08-22,Belgium,Serbia,3,2,UEFA Euro qualification,False,Belgium,1,3,5,6,49,27,22
+784,2007-08-22,England,Germany,1,2,Friendly,False,Germany,1,8,12,5,12,5,7
+785,2007-08-22,Greece,Spain,2,3,Friendly,False,Spain,1,9,15,6,11,4,7
+786,2007-08-22,Hungary,Italy,3,1,Friendly,False,Hungary,2,3,10,6,50,3,47
+787,2007-08-22,Scotland,South Africa,1,0,Friendly,False,Scotland,1,12,3,12,14,77,63
+788,2007-08-22,Slovakia,France,0,1,Friendly,False,France,1,4,15,5,53,7,46
+789,2007-08-22,Switzerland,Netherlands,2,1,Friendly,False,Switzerland,1,8,10,5,44,9,35
+790,2007-09-08,England,Israel,3,0,UEFA Euro qualification,False,England,3,10,3,5,12,26,14
+791,2007-09-08,Iceland,Spain,1,1,UEFA Euro qualification,False,Draw,0,6,13,6,90,4,86
+792,2007-09-08,Italy,France,0,0,UEFA Euro qualification,False,Draw,0,10,13,9,3,7,4
+793,2007-09-08,Netherlands,Bulgaria,2,0,UEFA Euro qualification,False,Netherlands,2,12,1,11,9,18,9
+794,2007-09-08,Portugal,Poland,2,2,UEFA Euro qualification,False,Draw,0,7,7,13,8,22,14
+795,2007-09-08,Scotland,Lithuania,3,1,UEFA Euro qualification,False,Scotland,2,12,1,15,14,59,45
+796,2007-09-08,Wales,Germany,0,2,UEFA Euro qualification,False,Germany,2,3,12,9,57,5,52
+797,2007-09-12,Albania,Netherlands,0,1,UEFA Euro qualification,False,Netherlands,1,3,12,6,80,9,71
+798,2007-09-12,England,Russia,3,0,UEFA Euro qualification,False,England,3,10,3,7,12,23,11
+799,2007-09-12,France,Scotland,0,1,UEFA Euro qualification,False,Scotland,1,10,15,9,7,14,7
+800,2007-09-12,Germany,Romania,3,1,Friendly,False,Germany,2,15,4,12,5,13,8
+801,2007-09-12,Kazakhstan,Belgium,2,2,UEFA Euro qualification,False,Draw,0,2,4,1,112,49,63
+802,2007-09-12,Norway,Greece,2,2,UEFA Euro qualification,False,Draw,0,5,10,3,29,11,18
+803,2007-09-12,Portugal,Serbia,1,1,UEFA Euro qualification,False,Draw,0,7,5,11,8,27,19
+804,2007-09-12,Spain,Latvia,2,0,UEFA Euro qualification,False,Spain,2,13,0,12,4,86,82
+805,2007-09-12,Ukraine,Italy,1,2,UEFA Euro qualification,False,Italy,1,3,10,8,30,3,27
+806,2007-10-13,Azerbaijan,Portugal,0,2,UEFA Euro qualification,False,Portugal,2,0,7,0,115,8,107
+807,2007-10-13,Belgium,Finland,0,0,UEFA Euro qualification,False,Draw,0,5,5,4,49,36,13
+808,2007-10-13,Denmark,Spain,1,3,UEFA Euro qualification,False,Spain,2,6,13,10,31,4,27
+809,2007-10-13,England,Estonia,3,0,UEFA Euro qualification,False,England,3,12,0,10,12,124,112
+810,2007-10-13,Faroe Islands,France,0,6,UEFA Euro qualification,False,France,6,0,10,0,194,7,187
+811,2007-10-13,Greece,Bosnia and Herzegovina,3,2,UEFA Euro qualification,False,Greece,1,10,4,9,11,51,40
+812,2007-10-13,Republic of Ireland,Germany,0,0,UEFA Euro qualification,False,Draw,0,1,13,4,35,5,30
+813,2007-10-13,Italy,Georgia,2,0,UEFA Euro qualification,False,Italy,2,10,0,11,3,77,74
+814,2007-10-13,Romania,Netherlands,1,0,UEFA Euro qualification,False,Romania,1,7,9,6,13,9,4
+815,2007-10-13,Scotland,Ukraine,3,1,UEFA Euro qualification,False,Scotland,2,15,3,15,14,30,16
+816,2007-10-17,Belgium,Armenia,3,0,UEFA Euro qualification,False,Belgium,3,8,1,7,49,93,44
+817,2007-10-17,Finland,Spain,0,0,Friendly,False,Draw,0,6,11,5,36,4,32
+818,2007-10-17,France,Lithuania,2,0,UEFA Euro qualification,False,France,2,10,0,12,7,59,52
+819,2007-10-17,Georgia,Scotland,2,0,UEFA Euro qualification,False,Georgia,2,3,12,3,77,14,63
+820,2007-10-17,Germany,Czech Republic,0,3,UEFA Euro qualification,False,Czech Republic,3,10,6,9,5,6,1
+821,2007-10-17,Italy,South Africa,2,0,Friendly,False,Italy,2,10,0,11,3,77,74
+822,2007-10-17,Kazakhstan,Portugal,1,2,UEFA Euro qualification,False,Portugal,1,2,9,1,112,8,104
+823,2007-10-17,Netherlands,Slovenia,2,0,UEFA Euro qualification,False,Netherlands,2,9,0,11,9,83,74
+824,2007-10-17,Russia,England,2,1,UEFA Euro qualification,False,Russia,1,5,9,8,23,12,11
+825,2007-10-17,Turkey,Greece,0,1,UEFA Euro qualification,False,Greece,1,8,10,5,16,11,5
+826,2007-11-16,Austria,England,0,1,Friendly,False,England,1,1,12,2,94,12,82
+827,2007-11-16,France,Morocco,2,2,Friendly,False,Draw,0,8,4,10,7,39,32
+828,2007-11-17,Germany,Cyprus,4,0,UEFA Euro qualification,False,Germany,4,10,1,12,5,66,61
+829,2007-11-17,Greece,Malta,5,0,UEFA Euro qualification,False,Greece,5,10,0,12,11,136,125
+830,2007-11-17,Netherlands,Luxembourg,1,0,UEFA Euro qualification,False,Netherlands,1,12,0,13,9,149,140
+831,2007-11-17,Poland,Belgium,2,0,UEFA Euro qualification,False,Poland,2,10,8,12,22,49,27
+832,2007-11-17,Portugal,Armenia,1,0,UEFA Euro qualification,False,Portugal,1,11,1,11,8,93,85
+833,2007-11-17,Scotland,Italy,1,2,UEFA Euro qualification,False,Italy,1,9,13,12,14,3,11
+834,2007-11-17,Spain,Sweden,3,0,UEFA Euro qualification,False,Spain,3,11,4,12,4,24,20
+835,2007-11-21,Azerbaijan,Belgium,0,1,UEFA Euro qualification,False,Belgium,1,0,8,0,115,49,66
+836,2007-11-21,Belarus,Netherlands,2,1,UEFA Euro qualification,False,Belarus,1,6,9,5,60,9,51
+837,2007-11-21,England,Croatia,2,3,UEFA Euro qualification,False,Croatia,1,9,9,9,12,10,2
+838,2007-11-21,Germany,Wales,0,0,UEFA Euro qualification,False,Draw,0,8,4,10,5,57,52
+839,2007-11-21,Hungary,Greece,1,2,UEFA Euro qualification,False,Greece,1,3,13,5,50,11,39
+840,2007-11-21,Italy,Faroe Islands,3,1,UEFA Euro qualification,False,Italy,2,15,0,13,3,194,191
+841,2007-11-21,Portugal,Finland,0,0,UEFA Euro qualification,False,Draw,0,11,7,9,8,36,28
+842,2007-11-21,Spain,Northern Ireland,1,0,UEFA Euro qualification,False,Spain,1,13,7,15,4,32,28
+843,2007-11-21,Ukraine,France,2,2,UEFA Euro qualification,False,Draw,0,4,8,6,30,7,23
+844,2008-02-06,Austria,Germany,0,3,Friendly,False,Germany,3,0,8,2,92,2,90
+845,2008-02-06,Croatia,Netherlands,0,3,Friendly,False,Netherlands,3,9,9,4,7,3,4
+846,2008-02-06,England,Switzerland,2,1,Friendly,False,England,1,9,5,12,8,24,16
+847,2008-02-06,Greece,Finland,2,1,Friendly,True,Greece,1,15,6,12,20,55,35
+848,2008-02-06,Italy,Portugal,3,1,Friendly,True,Italy,2,15,10,13,4,11,7
+849,2008-02-06,Spain,France,1,0,Friendly,False,Spain,1,13,8,15,1,11,10
+850,2008-03-26,Austria,Netherlands,3,4,Friendly,False,Netherlands,1,0,12,1,92,3,89
+851,2008-03-26,Belgium,Morocco,1,4,Friendly,False,Morocco,3,7,4,7,54,41,13
+852,2008-03-26,France,England,1,0,Friendly,False,France,1,8,6,10,11,8,3
+853,2008-03-26,Portugal,Greece,1,2,Friendly,True,Greece,1,7,15,6,11,20,9
+854,2008-03-26,Scotland,Croatia,1,1,Friendly,False,Draw,0,7,10,10,33,7,26
+855,2008-03-26,Spain,Italy,1,0,Friendly,False,Spain,1,13,12,15,1,4,3
+856,2008-03-26,Switzerland,Germany,0,4,Friendly,False,Germany,4,4,10,5,24,2,22
+857,2008-05-19,Greece,Cyprus,2,0,Friendly,False,Greece,2,15,1,12,20,94,74
+858,2008-05-24,Hungary,Greece,3,2,Friendly,False,Hungary,1,6,12,7,47,20,27
+859,2008-05-24,Netherlands,Ukraine,3,0,Friendly,False,Netherlands,3,12,1,13,3,15,12
+860,2008-05-27,France,Ecuador,2,0,Friendly,False,France,2,8,1,10,11,36,25
+861,2008-05-27,Germany,Belarus,2,2,Friendly,False,Draw,0,11,7,8,2,84,82
+862,2008-05-28,England,United States,2,0,Friendly,False,England,2,9,2,12,8,22,14
+863,2008-05-29,Netherlands,Denmark,1,1,Friendly,False,Draw,0,10,7,13,3,37,34
+864,2008-05-30,Czech Republic,Scotland,3,1,Friendly,False,Czech Republic,2,9,4,4,11,33,22
+865,2008-05-30,Italy,Belgium,3,1,Friendly,False,Italy,2,12,6,15,4,54,50
+866,2008-05-31,France,Paraguay,0,0,Friendly,False,Draw,0,8,3,11,11,17,6
+867,2008-05-31,Germany,Serbia,2,1,Friendly,False,Germany,1,11,5,8,2,30,28
+868,2008-05-31,Portugal,Georgia,2,0,Friendly,False,Portugal,2,7,3,8,11,108,97
+869,2008-05-31,Spain,Peru,2,1,Friendly,False,Spain,1,15,1,15,1,75,74
+870,2008-06-01,Armenia,Greece,0,0,Friendly,True,Draw,0,2,10,2,113,20,93
+871,2008-06-01,Netherlands,Wales,2,0,Friendly,False,Netherlands,2,13,1,13,3,60,57
+872,2008-06-01,Trinidad and Tobago,England,0,3,Friendly,False,England,3,0,9,0,77,8,69
+873,2008-06-03,France,Colombia,1,0,Friendly,False,France,1,10,1,11,11,49,38
+874,2008-06-04,Spain,United States,1,0,Friendly,False,Spain,1,15,2,15,1,22,21
+875,2008-06-07,Portugal,Turkey,2,0,UEFA Euro,True,Portugal,2,7,5,10,11,10,1
+876,2008-06-08,Germany,Poland,2,0,UEFA Euro,True,Germany,2,13,10,11,2,34,32
+877,2008-06-09,Netherlands,Italy,3,0,UEFA Euro,True,Netherlands,3,13,9,13,3,4,1
+878,2008-06-09,Romania,France,0,0,UEFA Euro,True,Draw,0,8,11,7,21,11,10
+879,2008-06-10,Greece,Sweden,0,2,UEFA Euro,True,Sweden,2,7,6,12,20,32,12
+880,2008-06-10,Spain,Russia,4,1,UEFA Euro,True,Spain,3,15,4,15,1,9,8
+881,2008-06-11,Czech Republic,Portugal,1,3,UEFA Euro,True,Portugal,2,9,9,3,11,11,0
+882,2008-06-12,Croatia,Germany,2,1,UEFA Euro,True,Croatia,1,10,10,7,7,2,5
+883,2008-06-13,Italy,Romania,1,1,UEFA Euro,True,Draw,0,7,6,13,4,21,17
+884,2008-06-13,Netherlands,France,4,1,UEFA Euro,True,Netherlands,3,13,8,13,3,11,8
+885,2008-06-14,Greece,Russia,0,1,UEFA Euro,True,Russia,1,4,6,9,20,9,11
+886,2008-06-14,Sweden,Spain,1,2,UEFA Euro,True,Spain,1,6,15,5,32,1,31
+887,2008-06-15,Switzerland,Portugal,2,0,UEFA Euro,False,Switzerland,2,6,9,8,24,11,13
+888,2008-06-16,Austria,Germany,0,1,UEFA Euro,False,Germany,1,0,10,0,92,2,90
+889,2008-06-17,France,Italy,0,2,UEFA Euro,True,Italy,2,5,7,10,11,4,7
+890,2008-06-17,Netherlands,Romania,2,0,UEFA Euro,True,Netherlands,2,13,5,13,3,21,18
+891,2008-06-18,Greece,Spain,1,2,UEFA Euro,True,Spain,1,1,15,6,20,1,19
+892,2008-06-19,Portugal,Germany,2,3,UEFA Euro,True,Germany,1,9,12,7,11,2,9
+893,2008-06-21,Netherlands,Russia,1,3,UEFA Euro,True,Russia,2,12,9,12,3,9,6
+894,2008-06-22,Spain,Italy,0,0,UEFA Euro,True,Spain,0,15,7,15,1,4,3
+895,2008-06-25,Germany,Turkey,3,2,UEFA Euro,True,Germany,1,12,4,11,2,10,8
+896,2008-06-26,Russia,Spain,0,3,UEFA Euro,True,Spain,3,9,15,8,9,1,8
+897,2008-06-29,Germany,Spain,0,1,UEFA Euro,True,Spain,1,9,15,10,2,1,1
+898,2008-08-20,Denmark,Spain,0,3,Friendly,False,Spain,3,4,15,9,37,1,36
+899,2008-08-20,England,Czech Republic,2,2,Friendly,False,Draw,0,10,7,10,8,11,3
+900,2008-08-20,Germany,Belgium,2,0,Friendly,False,Germany,2,12,3,12,2,54,52
+901,2008-08-20,Italy,Austria,2,2,Friendly,True,Draw,0,5,1,11,4,92,88
+902,2008-08-20,Portugal,Faroe Islands,5,0,Friendly,False,Portugal,5,9,0,9,11,184,173
+903,2008-08-20,Russia,Netherlands,1,1,Friendly,False,Draw,0,7,10,8,9,3,6
+904,2008-08-20,Scotland,Northern Ireland,0,0,Friendly,False,Draw,0,2,8,8,33,52,19
+905,2008-08-20,Slovakia,Greece,0,2,Friendly,False,Greece,2,1,4,2,44,20,24
+906,2008-08-20,Sweden,France,2,3,Friendly,False,France,1,6,7,5,32,11,21
+907,2008-09-06,Andorra,England,0,2,FIFA World Cup qualification,True,England,2,0,10,0,194,8,186
+908,2008-09-06,Austria,France,3,1,FIFA World Cup qualification,False,Austria,2,4,4,3,92,11,81
+909,2008-09-06,Belgium,Estonia,3,2,FIFA World Cup qualification,False,Belgium,1,6,0,10,54,119,65
+910,2008-09-06,Cyprus,Italy,1,2,FIFA World Cup qualification,False,Italy,1,1,8,1,94,4,90
+911,2008-09-06,Liechtenstein,Germany,0,6,FIFA World Cup qualification,False,Germany,6,1,12,1,149,2,147
+912,2008-09-06,Luxembourg,Greece,0,3,FIFA World Cup qualification,False,Greece,3,0,6,0,121,20,101
+913,2008-09-06,North Macedonia,Scotland,1,0,FIFA World Cup qualification,False,North Macedonia,1,6,2,4,56,33,23
+914,2008-09-06,Malta,Portugal,0,4,FIFA World Cup qualification,False,Portugal,4,0,9,0,147,11,136
+915,2008-09-06,Netherlands,Australia,1,2,Friendly,False,Australia,1,7,7,9,3,28,25
+916,2008-09-06,Spain,Bosnia and Herzegovina,1,0,FIFA World Cup qualification,False,Spain,1,15,3,15,1,61,60
+917,2008-09-10,Croatia,England,1,4,FIFA World Cup qualification,False,England,3,7,13,6,7,8,1
+918,2008-09-10,Finland,Germany,3,3,FIFA World Cup qualification,False,Draw,0,4,10,6,55,2,53
+919,2008-09-10,France,Serbia,2,1,FIFA World Cup qualification,False,France,1,6,2,10,11,30,19
+920,2008-09-10,Iceland,Scotland,1,2,FIFA World Cup qualification,False,Scotland,1,3,5,6,83,33,50
+921,2008-09-10,Italy,Georgia,2,0,FIFA World Cup qualification,False,Italy,2,10,3,11,4,108,104
+922,2008-09-10,Latvia,Greece,0,2,FIFA World Cup qualification,False,Greece,2,0,9,1,67,20,47
+923,2008-09-10,North Macedonia,Netherlands,1,2,FIFA World Cup qualification,False,Netherlands,1,5,7,4,56,3,53
+924,2008-09-10,Portugal,Denmark,2,3,FIFA World Cup qualification,False,Denmark,1,6,7,9,11,37,26
+925,2008-09-10,Spain,Armenia,4,0,FIFA World Cup qualification,False,Spain,4,15,2,15,1,113,112
+926,2008-09-10,Turkey,Belgium,1,1,FIFA World Cup qualification,False,Draw,0,4,4,6,10,54,44
+927,2008-10-11,Belgium,Armenia,2,0,FIFA World Cup qualification,False,Belgium,2,7,1,10,54,113,59
+928,2008-10-11,Bulgaria,Italy,0,0,FIFA World Cup qualification,False,Draw,0,2,8,4,27,4,23
+929,2008-10-11,England,Kazakhstan,5,1,FIFA World Cup qualification,False,England,4,13,2,10,8,137,129
+930,2008-10-11,Estonia,Spain,0,3,FIFA World Cup qualification,False,Spain,3,0,15,0,119,1,118
+931,2008-10-11,Germany,Russia,2,1,FIFA World Cup qualification,False,Germany,1,10,7,12,2,9,7
+932,2008-10-11,Greece,Moldova,3,0,FIFA World Cup qualification,False,Greece,3,12,0,6,20,97,77
+933,2008-10-11,Netherlands,Iceland,2,0,FIFA World Cup qualification,False,Netherlands,2,7,2,9,3,83,80
+934,2008-10-11,Romania,France,2,2,FIFA World Cup qualification,False,Draw,0,6,7,8,21,11,10
+935,2008-10-11,Scotland,Norway,0,0,FIFA World Cup qualification,False,Draw,0,5,3,6,33,59,26
+936,2008-10-11,Sweden,Portugal,0,0,FIFA World Cup qualification,False,Draw,0,4,7,5,32,11,21
+937,2008-10-14,France,Tunisia,3,1,Friendly,False,France,2,10,1,10,11,46,35
+938,2008-10-15,Belarus,England,1,3,FIFA World Cup qualification,False,England,2,4,13,4,84,8,76
+939,2008-10-15,Belgium,Spain,1,2,FIFA World Cup qualification,False,Spain,1,7,15,9,54,1,53
+940,2008-10-15,Germany,Wales,1,0,FIFA World Cup qualification,False,Germany,1,13,1,12,2,60,58
+941,2008-10-15,Greece,Switzerland,1,2,FIFA World Cup qualification,False,Switzerland,1,12,9,3,20,24,4
+942,2008-10-15,Italy,Montenegro,2,1,FIFA World Cup qualification,False,Italy,1,11,0,11,4,112,108
+943,2008-10-15,Norway,Netherlands,0,1,FIFA World Cup qualification,False,Netherlands,1,2,10,3,59,3,56
+944,2008-10-15,Portugal,Albania,0,0,FIFA World Cup qualification,False,Draw,0,8,4,7,11,81,70
+945,2008-11-19,Brazil,Portugal,6,2,Friendly,False,Brazil,4,7,5,12,5,11,6
+946,2008-11-19,France,Uruguay,0,0,Friendly,False,Draw,0,8,3,10,11,23,12
+947,2008-11-19,Germany,England,1,2,Friendly,False,England,1,10,15,9,2,8,6
+948,2008-11-19,Greece,Italy,1,1,Friendly,False,Draw,0,10,11,4,20,4,16
+949,2008-11-19,Luxembourg,Belgium,1,1,Friendly,False,Draw,0,1,8,1,121,54,67
+950,2008-11-19,Netherlands,Sweden,3,1,Friendly,False,Netherlands,2,12,4,9,3,32,29
+951,2008-11-19,Scotland,Argentina,0,1,Friendly,False,Argentina,1,5,7,3,33,6,27
+952,2008-11-19,Spain,Chile,3,0,Friendly,False,Spain,3,15,7,15,1,31,30
+953,2009-02-10,Brazil,Italy,2,0,Friendly,True,Brazil,2,7,8,12,2,4,2
+954,2009-02-11,Belgium,Slovenia,2,0,Friendly,False,Belgium,2,8,0,9,66,31,35
+955,2009-02-11,France,Argentina,0,2,Friendly,False,Argentina,2,8,9,7,7,8,1
+956,2009-02-11,Germany,Norway,0,1,Friendly,False,Norway,1,7,5,9,6,32,26
+957,2009-02-11,Greece,Denmark,1,1,Friendly,False,Draw,0,8,5,5,13,28,15
+958,2009-02-11,Portugal,Finland,1,0,Friendly,False,Portugal,1,5,3,7,5,55,50
+959,2009-02-11,Spain,England,2,0,Friendly,False,Spain,2,15,12,15,1,9,8
+960,2009-02-11,Tunisia,Netherlands,1,1,Friendly,False,Draw,0,1,13,4,53,3,50
+961,2009-03-28,Belgium,Bosnia and Herzegovina,2,4,FIFA World Cup qualification,False,Bosnia and Herzegovina,2,7,3,9,66,51,15
+962,2009-03-28,England,Slovakia,4,0,Friendly,False,England,4,12,0,13,9,33,24
+963,2009-03-28,Germany,Liechtenstein,4,0,FIFA World Cup qualification,False,Germany,4,9,0,9,6,154,148
+964,2009-03-28,Israel,Greece,1,1,FIFA World Cup qualification,False,Draw,0,4,6,4,26,13,13
+965,2009-03-28,Lithuania,France,0,1,FIFA World Cup qualification,False,France,1,0,8,1,62,7,55
+966,2009-03-28,Montenegro,Italy,0,2,FIFA World Cup qualification,False,Italy,2,0,8,0,74,4,70
+967,2009-03-28,Netherlands,Scotland,3,0,FIFA World Cup qualification,False,Netherlands,3,13,4,9,3,46,43
+968,2009-03-28,Portugal,Sweden,0,0,FIFA World Cup qualification,False,Draw,0,6,2,8,5,42,37
+969,2009-03-28,Spain,Turkey,1,0,FIFA World Cup qualification,False,Spain,1,15,1,15,1,41,40
+970,2009-03-31,Portugal,South Africa,2,0,Friendly,True,Portugal,2,8,0,8,5,85,80
+971,2009-04-01,Bosnia and Herzegovina,Belgium,2,1,FIFA World Cup qualification,False,Bosnia and Herzegovina,1,6,4,7,51,66,15
+972,2009-04-01,England,Ukraine,2,1,FIFA World Cup qualification,False,England,1,12,1,13,9,22,13
+973,2009-04-01,France,Lithuania,1,0,FIFA World Cup qualification,False,France,1,10,0,10,7,62,55
+974,2009-04-01,Greece,Israel,2,1,FIFA World Cup qualification,False,Greece,1,6,3,8,13,26,13
+975,2009-04-01,Italy,Republic of Ireland,1,1,FIFA World Cup qualification,False,Draw,0,8,2,9,4,35,31
+976,2009-04-01,Netherlands,North Macedonia,4,0,FIFA World Cup qualification,False,Netherlands,4,13,4,12,3,65,62
+977,2009-04-01,Scotland,Iceland,2,1,FIFA World Cup qualification,False,Scotland,1,7,1,6,46,92,46
+978,2009-04-01,Turkey,Spain,1,2,FIFA World Cup qualification,False,Spain,1,1,15,5,41,1,40
+979,2009-04-01,Wales,Germany,0,2,FIFA World Cup qualification,False,Germany,2,1,9,6,77,6,71
+980,2009-05-29,Belgium,Chile,1,1,Friendly,True,Draw,0,5,8,7,66,15,51
+981,2009-05-29,China PR,Germany,1,1,Friendly,False,Draw,0,1,7,1,93,6,87
+982,2009-05-31,Japan,Belgium,4,0,Friendly,False,Japan,4,8,4,6,43,66,23
+983,2009-06-02,France,Nigeria,0,1,Friendly,False,Nigeria,1,7,10,7,7,22,15
+984,2009-06-02,United Arab Emirates,Germany,2,7,Friendly,False,Germany,5,0,10,0,112,6,106
+985,2009-06-05,France,Turkey,1,0,Friendly,False,France,1,9,1,7,7,41,34
+986,2009-06-06,Albania,Portugal,1,2,FIFA World Cup qualification,False,Portugal,1,1,10,3,96,5,91
+987,2009-06-06,Iceland,Netherlands,1,2,FIFA World Cup qualification,False,Netherlands,1,1,13,5,92,3,89
+988,2009-06-06,Italy,Northern Ireland,3,0,Friendly,False,Italy,3,8,5,11,4,40,36
+989,2009-06-06,Kazakhstan,England,0,4,FIFA World Cup qualification,False,England,4,1,12,1,125,9,116
+990,2009-06-09,Azerbaijan,Spain,0,6,Friendly,False,Spain,6,0,15,0,114,1,113
+991,2009-06-10,England,Andorra,6,0,FIFA World Cup qualification,False,England,6,12,0,13,9,202,193
+992,2009-06-10,Estonia,Portugal,0,0,Friendly,False,Draw,0,1,11,1,102,5,97
+993,2009-06-10,Italy,New Zealand,4,3,Friendly,True,Italy,1,10,1,13,4,82,78
+994,2009-06-10,Netherlands,Norway,2,0,FIFA World Cup qualification,False,Netherlands,2,13,5,15,3,32,29
+995,2009-06-14,New Zealand,Spain,0,5,Confederations Cup,True,Spain,5,1,15,0,82,1,81
+996,2009-06-15,United States,Italy,1,3,Confederations Cup,True,Italy,2,1,13,6,14,4,10
+997,2009-06-17,Spain,Iraq,1,0,Confederations Cup,True,Spain,1,15,0,15,1,88,87
+998,2009-06-18,Egypt,Italy,1,0,Confederations Cup,True,Egypt,1,6,10,6,24,4,20
+999,2009-06-20,South Africa,Spain,0,2,Confederations Cup,False,Spain,2,0,15,1,85,1,84
+1000,2009-06-21,Italy,Brazil,0,3,Confederations Cup,True,Brazil,3,9,10,10,4,2,2
+1001,2009-06-24,Spain,United States,0,2,Confederations Cup,True,United States,2,12,4,12,1,14,13
+1002,2009-06-28,South Africa,Spain,2,3,Confederations Cup,False,Spain,1,0,12,1,85,1,84
+1003,2009-08-12,Azerbaijan,Germany,0,2,FIFA World Cup qualification,False,Germany,2,0,13,0,114,6,108
+1004,2009-08-12,Czech Republic,Belgium,3,1,Friendly,False,Czech Republic,2,10,1,6,25,66,41
+1005,2009-08-12,Faroe Islands,France,0,1,FIFA World Cup qualification,False,France,1,0,12,0,117,7,110
+1006,2009-08-12,Liechtenstein,Portugal,0,3,Friendly,False,Portugal,3,0,11,1,154,5,149
+1007,2009-08-12,North Macedonia,Spain,2,3,Friendly,False,Spain,1,4,12,4,65,1,64
+1008,2009-08-12,Netherlands,England,2,2,Friendly,False,Draw,0,13,13,13,3,9,6
+1009,2009-08-12,Norway,Scotland,4,0,FIFA World Cup qualification,False,Norway,4,7,4,5,32,46,14
+1010,2009-08-12,Poland,Greece,2,0,Friendly,False,Poland,2,10,6,12,58,13,45
+1011,2009-08-12,Switzerland,Italy,0,0,Friendly,False,Draw,0,7,7,8,18,4,14
+1012,2009-09-05,Denmark,Portugal,1,1,FIFA World Cup qualification,False,Draw,0,6,11,7,28,5,23
+1013,2009-09-05,England,Slovenia,2,1,Friendly,False,England,1,13,0,15,9,31,22
+1014,2009-09-05,France,Romania,1,1,FIFA World Cup qualification,False,Draw,0,10,4,7,7,36,29
+1015,2009-09-05,Georgia,Italy,0,2,FIFA World Cup qualification,False,Italy,2,3,7,3,124,4,120
+1016,2009-09-05,Germany,South Africa,2,0,Friendly,False,Germany,2,13,0,9,6,85,79
+1017,2009-09-05,Netherlands,Japan,3,0,Friendly,False,Netherlands,3,13,8,13,3,43,40
+1018,2009-09-05,Scotland,North Macedonia,2,0,FIFA World Cup qualification,False,Scotland,2,6,3,8,46,65,19
+1019,2009-09-05,Spain,Belgium,5,0,FIFA World Cup qualification,False,Spain,5,12,1,12,1,66,65
+1020,2009-09-05,Switzerland,Greece,2,0,FIFA World Cup qualification,False,Switzerland,2,10,5,10,18,13,5
+1021,2009-09-09,Armenia,Belgium,2,1,FIFA World Cup qualification,False,Armenia,1,4,1,5,100,66,34
+1022,2009-09-09,England,Croatia,5,1,FIFA World Cup qualification,False,England,4,13,4,15,9,10,1
+1023,2009-09-09,Germany,Azerbaijan,4,0,FIFA World Cup qualification,False,Germany,4,13,0,9,6,114,108
+1024,2009-09-09,Hungary,Portugal,0,1,FIFA World Cup qualification,False,Portugal,1,6,11,7,54,5,49
+1025,2009-09-09,Italy,Bulgaria,2,0,FIFA World Cup qualification,False,Italy,2,7,2,10,4,30,26
+1026,2009-09-09,Moldova,Greece,1,1,FIFA World Cup qualification,False,Draw,0,1,5,2,94,13,81
+1027,2009-09-09,Scotland,Netherlands,0,1,FIFA World Cup qualification,False,Netherlands,1,6,13,7,46,3,43
+1028,2009-09-09,Serbia,France,1,1,FIFA World Cup qualification,False,Draw,0,2,8,6,19,7,12
+1029,2009-09-09,Spain,Estonia,3,0,FIFA World Cup qualification,False,Spain,3,12,1,12,1,102,101
+1030,2009-10-10,Armenia,Spain,1,2,FIFA World Cup qualification,False,Spain,1,4,15,5,100,1,99
+1031,2009-10-10,Australia,Netherlands,0,0,Friendly,False,Draw,0,8,11,8,21,3,18
+1032,2009-10-10,Belgium,Turkey,2,0,FIFA World Cup qualification,False,Belgium,2,3,1,7,66,41,25
+1033,2009-10-10,France,Faroe Islands,5,0,FIFA World Cup qualification,False,France,5,11,0,10,7,117,110
+1034,2009-10-10,Greece,Latvia,5,2,FIFA World Cup qualification,False,Greece,3,7,0,8,13,45,32
+1035,2009-10-10,Republic of Ireland,Italy,2,2,FIFA World Cup qualification,False,Draw,0,3,8,2,35,4,31
+1036,2009-10-10,Japan,Scotland,2,0,Friendly,False,Japan,2,8,6,8,43,46,3
+1037,2009-10-10,Portugal,Hungary,3,0,FIFA World Cup qualification,False,Portugal,3,11,6,11,5,54,49
+1038,2009-10-10,Russia,Germany,0,1,FIFA World Cup qualification,False,Germany,1,4,15,5,12,6,6
+1039,2009-10-10,Ukraine,England,1,0,FIFA World Cup qualification,False,Ukraine,1,4,10,8,22,9,13
+1040,2009-10-14,Bosnia and Herzegovina,Spain,2,5,FIFA World Cup qualification,False,Spain,3,6,15,6,51,1,50
+1041,2009-10-14,England,Belarus,3,0,FIFA World Cup qualification,False,England,3,10,4,15,9,80,71
+1042,2009-10-14,Estonia,Belgium,2,0,FIFA World Cup qualification,False,Estonia,2,4,3,4,102,66,36
+1043,2009-10-14,France,Austria,3,1,FIFA World Cup qualification,False,France,2,11,4,10,7,61,54
+1044,2009-10-14,Germany,Finland,1,1,FIFA World Cup qualification,False,Draw,0,13,3,10,6,55,49
+1045,2009-10-14,Greece,Luxembourg,2,1,FIFA World Cup qualification,False,Greece,1,7,1,11,13,128,115
+1046,2009-10-14,Italy,Cyprus,3,2,FIFA World Cup qualification,False,Italy,1,11,1,12,4,68,64
+1047,2009-10-14,Portugal,Malta,4,0,FIFA World Cup qualification,False,Portugal,4,13,0,13,5,146,141
+1048,2009-11-14,Belgium,Hungary,3,0,Friendly,False,Belgium,3,6,3,10,66,54,12
+1049,2009-11-14,Brazil,England,1,0,Friendly,True,Brazil,1,13,9,12,2,9,7
+1050,2009-11-14,Greece,Ukraine,0,0,FIFA World Cup qualification,False,Draw,0,8,5,11,13,22,9
+1051,2009-11-14,Republic of Ireland,France,0,1,FIFA World Cup qualification,False,France,1,3,11,2,35,7,28
+1052,2009-11-14,Italy,Netherlands,0,0,Friendly,False,Draw,0,11,9,10,4,3,1
+1053,2009-11-14,Portugal,Bosnia and Herzegovina,1,0,FIFA World Cup qualification,False,Portugal,1,13,6,13,5,51,46
+1054,2009-11-14,Spain,Argentina,2,1,Friendly,False,Spain,1,15,9,12,1,8,7
+1055,2009-11-14,Wales,Scotland,3,0,Friendly,False,Wales,3,4,3,6,77,46,31
+1056,2009-11-17,Belgium,Qatar,2,0,Friendly,True,Belgium,2,9,0,10,66,86,20
+1057,2009-11-18,Austria,Spain,1,5,Friendly,False,Spain,4,4,15,3,61,1,60
+1058,2009-11-18,Bosnia and Herzegovina,Portugal,0,1,FIFA World Cup qualification,False,Portugal,1,6,15,3,51,5,46
+1059,2009-11-18,France,Republic of Ireland,1,1,FIFA World Cup qualification,False,Draw,0,11,4,11,7,35,28
+1060,2009-11-18,Germany,Ivory Coast,2,2,Friendly,False,Draw,0,11,2,11,6,203,197
+1061,2009-11-18,Italy,Sweden,1,0,Friendly,False,Italy,1,11,2,10,4,42,38
+1062,2009-11-18,Netherlands,Paraguay,0,0,Friendly,False,Draw,0,9,4,11,3,29,26
+1063,2009-11-18,Ukraine,Greece,0,1,FIFA World Cup qualification,False,Greece,1,4,11,7,22,13,9
+1064,2010-03-03,Belgium,Croatia,0,1,Friendly,False,Croatia,1,9,7,10,57,10,47
+1065,2010-03-03,England,Egypt,3,1,Friendly,False,England,2,9,6,15,6,9,3
+1066,2010-03-03,France,Spain,0,2,Friendly,False,Spain,2,10,15,8,18,1,17
+1067,2010-03-03,Germany,Argentina,0,1,Friendly,False,Argentina,1,8,12,8,3,5,2
+1068,2010-03-03,Greece,Senegal,0,2,Friendly,False,Senegal,2,10,6,10,11,70,59
+1069,2010-03-03,Italy,Cameroon,0,0,Friendly,True,Draw,0,9,1,11,14,37,23
+1070,2010-03-03,Netherlands,United States,2,1,Friendly,False,Netherlands,1,9,3,11,2,18,16
+1071,2010-03-03,Portugal,China PR,2,0,Friendly,False,Portugal,2,15,1,15,8,87,79
+1072,2010-03-03,Scotland,Czech Republic,1,0,Friendly,False,Scotland,1,6,7,9,52,30,22
+1073,2010-05-13,Germany,Malta,3,0,Friendly,False,Germany,3,8,0,8,3,164,161
+1074,2010-05-19,Belgium,Bulgaria,2,1,Friendly,False,Belgium,1,9,2,12,57,49,8
+1075,2010-05-24,England,Mexico,3,1,Friendly,False,England,2,9,0,15,6,27,21
+1076,2010-05-24,Portugal,Cape Verde,0,0,Friendly,False,Draw,0,13,1,13,8,204,196
+1077,2010-05-25,Greece,North Korea,2,2,Friendly,True,Draw,0,8,1,8,11,205,194
+1078,2010-05-26,France,Costa Rica,2,1,Friendly,False,France,1,10,0,10,18,69,51
+1079,2010-05-26,Netherlands,Mexico,2,1,Friendly,True,Netherlands,1,9,0,11,2,27,25
+1080,2010-05-29,Hungary,Germany,0,3,Friendly,False,Germany,3,3,8,6,42,3,39
+1081,2010-05-29,Spain,Saudi Arabia,3,2,Friendly,True,Spain,1,15,1,12,1,80,79
+1082,2010-05-30,Japan,England,1,2,Friendly,True,England,1,7,12,7,29,6,23
+1083,2010-05-30,Tunisia,France,1,1,Friendly,False,Draw,0,2,8,4,45,18,27
+1084,2010-06-01,Netherlands,Ghana,4,1,Friendly,False,Netherlands,3,11,2,13,2,16,14
+1085,2010-06-01,Portugal,Cameroon,3,1,Friendly,False,Portugal,2,13,1,13,8,37,29
+1086,2010-06-02,Greece,Paraguay,0,2,Friendly,True,Paraguay,2,5,6,5,11,24,13
+1087,2010-06-03,Germany,Bosnia and Herzegovina,3,1,Friendly,False,Germany,2,10,3,8,3,44,41
+1088,2010-06-03,Italy,Mexico,1,2,Friendly,True,Mexico,1,8,3,8,14,27,13
+1089,2010-06-03,Spain,South Korea,1,0,Friendly,True,Spain,1,15,5,15,1,40,39
+1090,2010-06-04,France,China PR,0,1,Friendly,True,China PR,1,5,4,7,18,87,69
+1091,2010-06-05,Netherlands,Hungary,6,1,Friendly,False,Netherlands,5,13,0,13,2,42,40
+1092,2010-06-05,Switzerland,Italy,1,1,Friendly,False,Draw,0,11,6,8,22,14,8
+1093,2010-06-08,Mozambique,Portugal,0,3,Friendly,True,Portugal,3,0,13,0,96,8,88
+1094,2010-06-08,Spain,Poland,6,0,Friendly,False,Spain,6,15,7,15,1,73,72
+1095,2010-06-11,Uruguay,France,0,0,FIFA World Cup,True,Draw,0,3,5,2,7,18,11
+1096,2010-06-12,England,United States,1,1,FIFA World Cup,True,Draw,0,10,4,13,6,18,12
+1097,2010-06-12,South Korea,Greece,2,0,FIFA World Cup,True,South Korea,2,7,4,9,40,11,29
+1098,2010-06-13,Germany,Australia,4,0,FIFA World Cup,True,Germany,4,12,5,10,3,26,23
+1099,2010-06-14,Italy,Paraguay,1,1,FIFA World Cup,True,Draw,0,6,6,6,14,24,10
+1100,2010-06-14,Netherlands,Denmark,2,0,FIFA World Cup,True,Netherlands,2,15,5,15,2,28,26
+1101,2010-06-15,Ivory Coast,Portugal,0,0,FIFA World Cup,True,Draw,0,3,11,2,203,8,195
+1102,2010-06-16,Spain,Switzerland,0,1,FIFA World Cup,True,Switzerland,1,12,11,12,1,22,21
+1103,2010-06-17,France,Mexico,0,2,FIFA World Cup,True,Mexico,2,5,6,4,18,27,9
+1104,2010-06-17,Greece,Nigeria,2,1,FIFA World Cup,True,Greece,1,4,7,5,11,32,21
+1105,2010-06-18,England,Algeria,0,0,FIFA World Cup,True,Draw,0,11,2,11,6,35,29
+1106,2010-06-18,Germany,Serbia,0,1,FIFA World Cup,True,Serbia,1,12,5,9,3,23,20
+1107,2010-06-19,Netherlands,Japan,1,0,FIFA World Cup,True,Netherlands,1,15,6,15,2,29,27
+1108,2010-06-20,Italy,New Zealand,1,1,FIFA World Cup,True,Draw,0,4,2,6,14,63,49
+1109,2010-06-21,Portugal,North Korea,7,0,FIFA World Cup,True,Portugal,7,11,1,13,8,205,197
+1110,2010-06-21,Spain,Honduras,2,0,FIFA World Cup,True,Spain,2,12,0,12,1,59,58
+1111,2010-06-22,Greece,Argentina,0,2,FIFA World Cup,True,Argentina,2,4,12,4,11,5,6
+1112,2010-06-22,South Africa,France,2,1,FIFA World Cup,False,South Africa,1,3,2,3,51,18,33
+1113,2010-06-23,Ghana,Germany,0,1,FIFA World Cup,True,Germany,1,2,12,0,16,3,13
+1114,2010-06-23,Slovenia,England,0,1,FIFA World Cup,True,England,1,0,11,3,17,6,11
+1115,2010-06-24,Cameroon,Netherlands,1,2,FIFA World Cup,True,Netherlands,1,1,15,1,37,2,35
+1116,2010-06-24,Slovakia,Italy,3,2,FIFA World Cup,True,Slovakia,1,3,3,4,20,14,6
+1117,2010-06-25,Chile,Spain,1,2,FIFA World Cup,True,Spain,1,5,12,3,15,1,14
+1118,2010-06-25,Portugal,Brazil,0,0,FIFA World Cup,True,Draw,0,11,13,11,8,4,4
+1119,2010-06-27,Germany,England,4,1,FIFA World Cup,True,Germany,3,12,8,12,3,6,3
+1120,2010-06-28,Netherlands,Slovakia,2,1,FIFA World Cup,True,Netherlands,1,15,3,15,2,20,18
+1121,2010-06-29,Spain,Portugal,1,0,FIFA World Cup,True,Spain,1,12,8,12,1,8,7
+1122,2010-07-02,Netherlands,Brazil,2,1,FIFA World Cup,True,Netherlands,1,15,10,15,2,4,2
+1123,2010-07-03,Argentina,Germany,0,4,FIFA World Cup,True,Germany,4,9,12,9,5,3,2
+1124,2010-07-03,Paraguay,Spain,0,1,FIFA World Cup,True,Spain,1,6,12,0,24,1,23
+1125,2010-07-06,Uruguay,Netherlands,2,3,FIFA World Cup,True,Netherlands,1,2,15,2,7,2,5
+1126,2010-07-07,Germany,Spain,0,1,FIFA World Cup,True,Spain,1,9,15,9,3,1,2
+1127,2010-07-10,Uruguay,Germany,2,3,FIFA World Cup,True,Germany,1,2,12,2,7,3,4
+1128,2010-07-11,Netherlands,Spain,0,1,FIFA World Cup,True,Spain,1,12,15,12,2,1,1
+1129,2010-08-10,Italy,Ivory Coast,0,1,Friendly,True,Ivory Coast,1,3,5,3,14,203,189
+1130,2010-08-11,Denmark,Germany,2,2,Friendly,False,Draw,0,6,10,5,28,3,25
+1131,2010-08-11,England,Hungary,2,1,Friendly,False,England,1,8,0,11,6,42,36
+1132,2010-08-11,Finland,Belgium,1,0,Friendly,False,Finland,1,5,9,9,83,57,26
+1133,2010-08-11,Mexico,Spain,1,1,Friendly,False,Draw,0,7,13,3,27,1,26
+1134,2010-08-11,Norway,France,2,1,Friendly,False,Norway,1,9,1,7,12,18,6
+1135,2010-08-11,Serbia,Greece,0,1,Friendly,False,Greece,1,4,6,5,23,11,12
+1136,2010-08-11,Sweden,Scotland,3,0,Friendly,False,Sweden,3,5,3,7,33,52,19
+1137,2010-08-11,Ukraine,Netherlands,1,1,Friendly,False,Draw,0,5,10,5,34,2,32
+1138,2010-09-03,Belgium,Germany,0,1,UEFA Euro qualification,False,Germany,1,6,10,9,57,3,54
+1139,2010-09-03,England,Bulgaria,4,0,UEFA Euro qualification,False,England,4,10,1,11,6,49,43
+1140,2010-09-03,Estonia,Italy,1,2,UEFA Euro qualification,False,Italy,1,4,5,4,82,14,68
+1141,2010-09-03,France,Belarus,0,1,UEFA Euro qualification,False,Belarus,1,1,7,3,18,38,20
+1142,2010-09-03,Greece,Georgia,1,1,UEFA Euro qualification,False,Draw,0,7,4,5,11,73,62
+1143,2010-09-03,Liechtenstein,Spain,0,4,UEFA Euro qualification,False,Spain,4,0,13,1,148,1,147
+1144,2010-09-03,Lithuania,Scotland,0,0,UEFA Euro qualification,False,Draw,0,1,4,1,55,52,3
+1145,2010-09-03,Portugal,Cyprus,4,4,UEFA Euro qualification,False,Draw,0,6,1,9,8,91,83
+1146,2010-09-03,San Marino,Netherlands,0,5,UEFA Euro qualification,False,Netherlands,5,0,10,0,203,2,201
+1147,2010-09-07,Argentina,Spain,4,1,Friendly,False,Argentina,3,9,10,9,5,1,4
+1148,2010-09-07,Bosnia and Herzegovina,France,0,2,UEFA Euro qualification,False,France,2,0,3,3,44,18,26
+1149,2010-09-07,Croatia,Greece,0,0,UEFA Euro qualification,False,Draw,0,7,8,7,10,11,1
+1150,2010-09-07,Germany,Azerbaijan,6,1,UEFA Euro qualification,False,Germany,5,10,0,9,3,98,95
+1151,2010-09-07,Italy,Faroe Islands,5,0,UEFA Euro qualification,False,Italy,5,7,0,5,14,136,122
+1152,2010-09-07,Netherlands,Finland,2,1,UEFA Euro qualification,False,Netherlands,1,10,5,12,2,83,81
+1153,2010-09-07,Norway,Portugal,1,0,UEFA Euro qualification,False,Norway,1,12,5,10,12,8,4
+1154,2010-09-07,Scotland,Liechtenstein,2,1,UEFA Euro qualification,False,Scotland,1,7,0,12,52,148,96
+1155,2010-09-07,Switzerland,England,1,3,UEFA Euro qualification,False,England,2,8,12,8,22,6,16
+1156,2010-09-07,Turkey,Belgium,3,2,UEFA Euro qualification,False,Turkey,1,3,3,7,31,57,26
+1157,2010-10-08,Czech Republic,Scotland,1,0,UEFA Euro qualification,False,Czech Republic,1,7,7,9,30,52,22
+1158,2010-10-08,Germany,Turkey,3,0,UEFA Euro qualification,False,Germany,3,13,3,9,3,31,28
+1159,2010-10-08,Greece,Latvia,1,0,UEFA Euro qualification,False,Greece,1,8,0,7,11,78,67
+1160,2010-10-08,Kazakhstan,Belgium,0,2,UEFA Euro qualification,False,Belgium,2,1,6,1,138,57,81
+1161,2010-10-08,Moldova,Netherlands,0,1,UEFA Euro qualification,False,Netherlands,1,1,10,2,84,2,82
+1162,2010-10-08,Northern Ireland,Italy,0,0,UEFA Euro qualification,False,Draw,0,5,7,8,43,14,29
+1163,2010-10-08,Portugal,Denmark,3,1,UEFA Euro qualification,False,Portugal,2,5,3,11,8,28,20
+1164,2010-10-08,Spain,Lithuania,3,1,UEFA Euro qualification,False,Spain,2,10,1,12,1,55,54
+1165,2010-10-09,France,Romania,2,0,UEFA Euro qualification,False,France,2,6,3,6,18,56,38
+1166,2010-10-12,Belgium,Austria,4,4,UEFA Euro qualification,False,Draw,0,4,5,7,57,46,11
+1167,2010-10-12,England,Montenegro,0,0,UEFA Euro qualification,False,Draw,0,10,1,9,6,25,19
+1168,2010-10-12,France,Luxembourg,2,0,UEFA Euro qualification,False,France,2,9,1,6,18,134,116
+1169,2010-10-12,Greece,Israel,2,1,UEFA Euro qualification,False,Greece,1,11,2,10,11,50,39
+1170,2010-10-12,Iceland,Portugal,1,3,UEFA Euro qualification,False,Portugal,2,0,7,2,112,8,104
+1171,2010-10-12,Italy,Serbia,3,0,UEFA Euro qualification,False,Italy,3,10,4,8,14,23,9
+1172,2010-10-12,Kazakhstan,Germany,0,3,UEFA Euro qualification,False,Germany,3,0,13,1,138,3,135
+1173,2010-10-12,Netherlands,Sweden,4,1,UEFA Euro qualification,False,Netherlands,3,13,4,12,2,33,31
+1174,2010-10-12,Scotland,Spain,2,3,UEFA Euro qualification,False,Spain,1,4,10,9,52,1,51
+1175,2010-11-16,Scotland,Faroe Islands,3,0,Friendly,False,Scotland,3,7,0,9,52,136,84
+1176,2010-11-17,Austria,Greece,1,2,Friendly,False,Greece,1,4,11,3,46,11,35
+1177,2010-11-17,England,France,1,2,Friendly,False,France,1,10,12,8,6,18,12
+1178,2010-11-17,Italy,Romania,1,1,Friendly,True,Draw,0,11,3,8,14,56,42
+1179,2010-11-17,Netherlands,Turkey,1,0,Friendly,False,Netherlands,1,15,3,12,2,31,29
+1180,2010-11-17,Portugal,Spain,4,0,Friendly,False,Portugal,4,10,9,11,8,1,7
+1181,2010-11-17,Russia,Belgium,0,2,Friendly,False,Belgium,2,1,7,4,13,57,44
+1182,2010-11-17,Sweden,Germany,0,0,Friendly,False,Draw,0,5,13,5,33,3,30
+1183,2011-02-09,Argentina,Portugal,2,1,Friendly,True,Argentina,1,12,9,9,10,7,3
+1184,2011-02-09,Belgium,Finland,1,1,Friendly,False,Draw,0,8,5,5,41,86,45
+1185,2011-02-09,Denmark,England,1,2,Friendly,False,England,1,2,10,2,11,5,6
+1186,2011-02-09,France,Brazil,1,0,Friendly,False,France,1,15,7,9,15,6,9
+1187,2011-02-09,Germany,Italy,1,1,Friendly,False,Draw,0,11,9,10,3,9,6
+1188,2011-02-09,Greece,Canada,1,0,Friendly,False,Greece,1,13,0,10,14,72,58
+1189,2011-02-09,Netherlands,Austria,3,1,Friendly,False,Netherlands,2,15,1,12,2,70,68
+1190,2011-02-09,Scotland,Northern Ireland,3,0,UEFA Nations League,True,Scotland,3,9,2,12,47,88,41
+1191,2011-02-09,Spain,Colombia,1,0,Friendly,False,Spain,1,9,0,12,1,36,35
+1192,2011-03-25,Austria,Belgium,0,2,UEFA Euro qualification,False,Belgium,2,1,11,3,70,41,29
+1193,2011-03-25,Hungary,Netherlands,0,4,UEFA Euro qualification,False,Netherlands,4,0,15,3,37,2,35
+1194,2011-03-25,Luxembourg,France,0,2,UEFA Euro qualification,False,France,2,1,15,1,128,15,113
+1195,2011-03-25,Slovenia,Italy,0,1,UEFA Euro qualification,False,Italy,1,0,9,0,26,9,17
+1196,2011-03-25,Spain,Czech Republic,2,1,UEFA Euro qualification,False,Spain,1,12,7,15,1,33,32
+1197,2011-03-26,Germany,Kazakhstan,4,0,UEFA Euro qualification,False,Germany,4,11,0,10,3,138,135
+1198,2011-03-26,Malta,Greece,0,1,UEFA Euro qualification,False,Greece,1,0,15,0,156,14,142
+1199,2011-03-26,Portugal,Chile,1,1,Friendly,False,Draw,0,10,5,9,7,13,6
+1200,2011-03-26,Wales,England,0,2,UEFA Euro qualification,False,England,2,3,10,3,48,5,43
+1201,2011-03-27,Brazil,Scotland,2,0,Friendly,True,Brazil,2,7,6,12,6,47,41
+1202,2011-03-29,Belgium,Azerbaijan,4,1,UEFA Euro qualification,False,Belgium,3,11,0,8,41,112,71
+1203,2011-03-29,England,Ghana,1,1,Friendly,False,Draw,0,8,2,8,5,29,24
+1204,2011-03-29,France,Croatia,0,0,Friendly,False,Draw,0,13,5,10,15,8,7
+1205,2011-03-29,Germany,Australia,1,2,Friendly,False,Australia,1,8,7,10,3,23,20
+1206,2011-03-29,Greece,Poland,0,0,Friendly,False,Draw,0,13,7,11,14,66,52
+1207,2011-03-29,Lithuania,Spain,1,3,UEFA Euro qualification,False,Spain,2,1,12,1,92,1,91
+1208,2011-03-29,Netherlands,Hungary,5,3,UEFA Euro qualification,False,Netherlands,2,15,0,15,2,37,35
+1209,2011-03-29,Portugal,Finland,2,0,Friendly,False,Portugal,2,10,5,11,7,86,79
+1210,2011-03-29,Ukraine,Italy,0,2,Friendly,False,Italy,2,5,11,5,55,9,46
+1211,2011-05-25,Wales,Scotland,1,3,UEFA Nations League,True,Scotland,2,3,9,3,48,47,1
+1212,2011-05-29,Germany,Uruguay,2,1,Friendly,False,Germany,1,8,2,10,3,4,1
+1213,2011-05-29,Republic of Ireland,Scotland,1,0,UEFA Nations League,False,Republic of Ireland,1,6,9,5,22,47,25
+1214,2011-06-03,Austria,Germany,1,2,UEFA Euro qualification,False,Germany,1,1,10,3,70,3,67
+1215,2011-06-03,Belarus,France,1,1,UEFA Euro qualification,False,Draw,0,5,11,5,64,15,49
+1216,2011-06-03,Belgium,Turkey,1,1,UEFA Euro qualification,False,Draw,0,11,4,6,41,28,13
+1217,2011-06-03,Italy,Estonia,3,0,UEFA Euro qualification,False,Italy,3,11,4,10,9,57,48
+1218,2011-06-04,Brazil,Netherlands,0,0,Friendly,False,Draw,0,5,13,13,6,2,4
+1219,2011-06-04,England,Switzerland,2,2,UEFA Euro qualification,False,Draw,0,8,8,6,5,17,12
+1220,2011-06-04,Greece,Malta,3,1,UEFA Euro qualification,False,Greece,2,13,0,13,14,156,142
+1221,2011-06-04,Portugal,Norway,1,0,UEFA Euro qualification,False,Portugal,1,10,9,13,7,25,18
+1222,2011-06-04,United States,Spain,0,4,Friendly,False,Spain,4,4,12,3,34,1,33
+1223,2011-06-06,Ukraine,France,1,4,Friendly,False,France,3,2,11,4,55,15,40
+1224,2011-06-07,Azerbaijan,Germany,1,3,UEFA Euro qualification,False,Germany,2,0,12,0,112,3,109
+1225,2011-06-07,Ecuador,Greece,1,1,Friendly,True,Draw,0,1,11,2,42,14,28
+1226,2011-06-07,Italy,Republic of Ireland,0,2,Friendly,True,Republic of Ireland,2,10,8,10,9,22,13
+1227,2011-06-07,Venezuela,Spain,0,3,Friendly,False,Spain,3,0,15,0,39,1,38
+1228,2011-06-08,Uruguay,Netherlands,1,1,Friendly,False,Draw,0,2,11,2,4,2,2
+1229,2011-06-09,Poland,France,0,1,Friendly,False,France,1,4,11,9,66,15,51
+1230,2011-08-10,Bosnia and Herzegovina,Greece,0,0,Friendly,False,Draw,0,1,9,4,20,14,6
+1231,2011-08-10,France,Chile,1,1,Friendly,False,Draw,0,9,3,11,15,13,2
+1232,2011-08-10,Germany,Brazil,3,2,Friendly,False,Germany,1,12,4,10,3,6,3
+1233,2011-08-10,Italy,Spain,2,1,Friendly,False,Italy,1,12,12,10,9,1,8
+1234,2011-08-10,Portugal,Luxembourg,5,0,Friendly,False,Portugal,5,10,1,13,7,128,121
+1235,2011-08-10,Scotland,Denmark,2,1,Friendly,False,Scotland,1,9,1,12,47,11,36
+1236,2011-08-10,Slovenia,Belgium,0,0,Friendly,False,Draw,0,1,9,1,26,41,15
+1237,2011-09-02,Albania,France,1,2,UEFA Euro qualification,False,France,1,1,11,3,74,15,59
+1238,2011-09-02,Azerbaijan,Belgium,1,1,UEFA Euro qualification,False,Draw,0,1,9,1,112,41,71
+1239,2011-09-02,Bulgaria,England,0,3,UEFA Euro qualification,False,England,3,1,11,3,84,5,79
+1240,2011-09-02,Cyprus,Portugal,0,4,UEFA Euro qualification,False,Portugal,4,1,13,1,127,7,120
+1241,2011-09-02,Faroe Islands,Italy,0,1,UEFA Euro qualification,False,Italy,1,0,12,0,116,9,107
+1242,2011-09-02,Germany,Austria,6,2,UEFA Euro qualification,False,Germany,4,15,0,12,3,70,67
+1243,2011-09-02,Israel,Greece,0,1,UEFA Euro qualification,False,Greece,1,1,9,3,37,14,23
+1244,2011-09-02,Netherlands,San Marino,11,0,UEFA Euro qualification,False,Netherlands,11,11,0,15,2,206,204
+1245,2011-09-02,Spain,Chile,3,2,Friendly,True,Spain,1,12,3,15,1,13,12
+1246,2011-09-03,Scotland,Czech Republic,2,2,UEFA Euro qualification,False,Draw,0,7,7,10,47,33,14
+1247,2011-09-06,Belgium,United States,1,0,Friendly,False,Belgium,1,9,4,9,41,34,7
+1248,2011-09-06,England,Wales,1,0,UEFA Euro qualification,False,England,1,11,3,6,5,48,43
+1249,2011-09-06,Finland,Netherlands,0,2,UEFA Euro qualification,False,Netherlands,2,4,11,8,86,2,84
+1250,2011-09-06,Italy,Slovenia,1,0,UEFA Euro qualification,False,Italy,1,12,1,10,9,26,17
+1251,2011-09-06,Latvia,Greece,1,1,UEFA Euro qualification,False,Draw,0,1,9,2,68,14,54
+1252,2011-09-06,Poland,Germany,2,2,Friendly,False,Draw,0,5,13,10,66,3,63
+1253,2011-09-06,Romania,France,0,0,UEFA Euro qualification,False,Draw,0,4,11,6,56,15,41
+1254,2011-09-06,Scotland,Lithuania,1,0,UEFA Euro qualification,False,Scotland,1,10,1,13,47,92,45
+1255,2011-09-06,Spain,Liechtenstein,6,0,UEFA Euro qualification,False,Spain,6,12,0,15,1,132,131
+1256,2011-10-07,Belgium,Kazakhstan,4,1,UEFA Euro qualification,False,Belgium,3,9,0,11,41,138,97
+1257,2011-10-07,Czech Republic,Spain,0,2,UEFA Euro qualification,False,Spain,2,4,12,9,33,1,32
+1258,2011-10-07,France,Albania,3,0,UEFA Euro qualification,False,France,3,11,1,11,15,74,59
+1259,2011-10-07,Greece,Croatia,2,0,UEFA Euro qualification,False,Greece,2,9,5,13,14,8,6
+1260,2011-10-07,Montenegro,England,2,2,UEFA Euro qualification,False,Draw,0,2,9,1,51,5,46
+1261,2011-10-07,Netherlands,Moldova,1,0,UEFA Euro qualification,False,Netherlands,1,11,1,15,2,136,134
+1262,2011-10-07,Portugal,Iceland,5,3,UEFA Euro qualification,False,Portugal,2,15,0,13,7,104,97
+1263,2011-10-07,Serbia,Italy,1,1,UEFA Euro qualification,False,Draw,0,5,10,6,27,9,18
+1264,2011-10-07,Turkey,Germany,1,3,UEFA Euro qualification,False,Germany,2,4,13,4,28,3,25
+1265,2011-10-08,Liechtenstein,Scotland,0,1,UEFA Euro qualification,False,Scotland,1,0,10,0,132,47,85
+1266,2011-10-11,Denmark,Portugal,2,1,UEFA Euro qualification,False,Denmark,1,4,12,5,11,7,4
+1267,2011-10-11,France,Bosnia and Herzegovina,1,1,UEFA Euro qualification,False,Draw,0,9,2,9,15,20,5
+1268,2011-10-11,Georgia,Greece,1,2,UEFA Euro qualification,False,Greece,1,1,11,3,73,14,59
+1269,2011-10-11,Germany,Belgium,3,1,UEFA Euro qualification,False,Germany,2,13,8,12,3,41,38
+1270,2011-10-11,Italy,Northern Ireland,3,0,UEFA Euro qualification,False,Italy,3,13,2,12,9,88,79
+1271,2011-10-11,Spain,Scotland,3,1,UEFA Euro qualification,False,Spain,2,12,10,15,1,47,46
+1272,2011-10-11,Sweden,Netherlands,3,2,UEFA Euro qualification,False,Sweden,1,7,10,8,18,2,16
+1273,2011-11-11,Belgium,Romania,2,1,Friendly,False,Belgium,1,10,3,13,41,56,15
+1274,2011-11-11,Bosnia and Herzegovina,Portugal,0,0,UEFA Euro qualification,False,Draw,0,3,10,2,20,7,13
+1275,2011-11-11,Cyprus,Scotland,1,2,Friendly,False,Scotland,1,1,10,1,127,47,80
+1276,2011-11-11,France,United States,1,0,Friendly,False,France,1,11,1,9,15,34,19
+1277,2011-11-11,Greece,Russia,1,1,Friendly,False,Draw,0,11,2,11,14,12,2
+1278,2011-11-11,Netherlands,Switzerland,0,0,Friendly,False,Draw,0,10,6,13,2,17,15
+1279,2011-11-11,Poland,Italy,0,2,Friendly,False,Italy,2,2,13,7,66,9,57
+1280,2011-11-11,Ukraine,Germany,3,3,Friendly,False,Draw,0,2,11,2,55,3,52
+1281,2011-11-12,England,Spain,1,0,Friendly,False,England,1,11,12,8,5,1,4
+1282,2011-11-15,Costa Rica,Spain,2,2,Friendly,False,Draw,0,1,10,4,65,1,64
+1283,2011-11-15,England,Sweden,1,0,Friendly,False,England,1,13,7,11,5,18,13
+1284,2011-11-15,France,Belgium,0,0,Friendly,False,Draw,0,9,10,9,15,41,26
+1285,2011-11-15,Germany,Netherlands,3,0,Friendly,False,Germany,3,11,7,15,3,2,1
+1286,2011-11-15,Greece,Romania,1,3,Friendly,True,Romania,2,8,5,8,14,56,42
+1287,2011-11-15,Italy,Uruguay,0,1,Friendly,False,Uruguay,1,10,4,9,9,4,5
+1288,2011-11-15,Portugal,Bosnia and Herzegovina,6,2,UEFA Euro qualification,False,Portugal,4,10,3,15,7,20,13
+1289,2012-02-29,England,Netherlands,2,3,Friendly,False,Netherlands,1,10,7,10,6,8,2
+1290,2012-02-29,Germany,France,1,2,Friendly,False,France,1,10,11,12,2,17,15
+1291,2012-02-29,Greece,Belgium,1,1,Friendly,False,Draw,0,8,8,8,11,21,10
+1292,2012-02-29,Italy,United States,0,1,Friendly,False,United States,1,7,4,9,4,28,24
+1293,2012-02-29,Poland,Portugal,0,0,Friendly,False,Draw,0,3,8,5,55,7,48
+1294,2012-02-29,Slovenia,Scotland,1,1,Friendly,False,Draw,0,2,10,2,49,72,23
+1295,2012-02-29,Spain,Venezuela,5,0,Friendly,False,Spain,5,10,0,15,1,57,56
+1296,2012-05-25,Belgium,Montenegro,2,2,Friendly,False,Draw,0,6,3,11,21,31,10
+1297,2012-05-26,Greece,Slovenia,1,1,Friendly,True,Draw,0,6,3,6,11,49,38
+1298,2012-05-26,Netherlands,Bulgaria,1,2,Friendly,False,Bulgaria,1,4,3,10,8,50,42
+1299,2012-05-26,Norway,England,0,1,Friendly,False,England,1,9,10,9,24,6,18
+1300,2012-05-26,Portugal,North Macedonia,0,0,Friendly,False,Draw,0,6,1,13,7,81,74
+1301,2012-05-26,Spain,Serbia,2,0,Friendly,True,Spain,2,10,4,15,1,38,37
+1302,2012-05-26,Switzerland,Germany,5,3,Friendly,False,Switzerland,2,8,7,8,12,2,10
+1303,2012-05-26,United States,Scotland,5,1,Friendly,False,United States,4,6,7,6,28,72,44
+1304,2012-05-27,France,Iceland,3,2,Friendly,False,France,1,11,0,11,17,90,73
+1305,2012-05-30,Netherlands,Slovakia,2,0,Friendly,False,Netherlands,2,7,3,10,8,47,39
+1306,2012-05-30,Spain,South Korea,4,1,Friendly,True,Spain,3,10,6,15,1,35,34
+1307,2012-05-31,Armenia,Greece,0,1,Friendly,True,Greece,1,3,6,5,75,11,64
+1308,2012-05-31,France,Serbia,2,0,Friendly,False,France,2,13,1,11,17,38,21
+1309,2012-05-31,Germany,Israel,2,0,Friendly,False,Germany,2,7,1,12,2,78,76
+1310,2012-06-01,Italy,Russia,0,3,Friendly,True,Russia,3,6,4,6,4,9,5
+1311,2012-06-02,England,Belgium,1,0,Friendly,False,England,1,12,6,12,6,21,15
+1312,2012-06-02,Netherlands,Northern Ireland,6,0,Friendly,False,Netherlands,6,9,1,10,8,96,88
+1313,2012-06-02,Portugal,Turkey,1,3,Friendly,False,Turkey,2,6,4,10,7,40,33
+1314,2012-06-03,Spain,China PR,1,0,Friendly,False,Spain,1,13,4,15,1,88,87
+1315,2012-06-05,France,Estonia,4,0,Friendly,False,France,4,13,3,13,17,86,69
+1316,2012-06-08,Poland,Greece,1,1,UEFA Euro,False,Draw,0,3,6,3,55,11,44
+1317,2012-06-09,Germany,Portugal,1,0,UEFA Euro,True,Germany,1,9,5,12,2,7,5
+1318,2012-06-09,Netherlands,Denmark,0,1,UEFA Euro,True,Denmark,1,9,6,7,8,23,15
+1319,2012-06-10,Spain,Italy,1,1,UEFA Euro,True,Draw,0,13,4,13,1,4,3
+1320,2012-06-11,France,England,1,1,UEFA Euro,True,Draw,0,13,10,11,17,6,11
+1321,2012-06-12,Greece,Czech Republic,1,2,UEFA Euro,True,Czech Republic,1,6,7,3,11,29,18
+1322,2012-06-13,Denmark,Portugal,2,3,UEFA Euro,True,Portugal,1,6,5,5,23,7,16
+1323,2012-06-13,Netherlands,Germany,1,2,UEFA Euro,True,Germany,1,6,9,6,8,2,6
+1324,2012-06-14,Italy,Croatia,1,1,UEFA Euro,True,Draw,0,2,6,4,4,10,6
+1325,2012-06-14,Spain,Republic of Ireland,4,0,UEFA Euro,True,Spain,4,13,7,13,1,42,41
+1326,2012-06-15,Sweden,England,2,3,UEFA Euro,True,England,1,4,10,8,20,6,14
+1327,2012-06-15,Ukraine,France,0,2,UEFA Euro,False,France,2,2,13,2,47,17,30
+1328,2012-06-16,Greece,Russia,1,0,UEFA Euro,True,Greece,1,8,4,5,11,9,2
+1329,2012-06-17,Denmark,Germany,1,2,UEFA Euro,True,Germany,1,6,12,4,23,2,21
+1330,2012-06-17,Portugal,Netherlands,2,1,UEFA Euro,True,Portugal,1,7,6,10,7,8,1
+1331,2012-06-18,Croatia,Spain,0,1,UEFA Euro,True,Spain,1,3,13,4,10,1,9
+1332,2012-06-18,Italy,Republic of Ireland,2,0,UEFA Euro,True,Italy,2,5,7,4,4,42,38
+1333,2012-06-19,Sweden,France,2,0,UEFA Euro,True,Sweden,2,7,10,10,20,17,3
+1334,2012-06-19,Ukraine,England,0,1,UEFA Euro,False,England,1,1,13,1,47,6,41
+1335,2012-06-21,Czech Republic,Portugal,0,1,UEFA Euro,True,Portugal,1,4,9,6,29,7,22
+1336,2012-06-22,Germany,Greece,4,2,UEFA Euro,True,Germany,2,15,7,12,2,11,9
+1337,2012-06-23,Spain,France,2,0,UEFA Euro,True,Spain,2,13,7,13,1,17,16
+1338,2012-06-24,England,Italy,0,0,UEFA Euro,True,Italy,0,10,8,9,6,4,2
+1339,2012-06-27,Portugal,Spain,0,0,UEFA Euro,True,Spain,0,9,13,7,7,1,6
+1340,2012-06-28,Germany,Italy,1,2,UEFA Euro,True,Italy,1,12,11,9,2,4,2
+1341,2012-07-01,Spain,Italy,4,0,UEFA Euro,True,Spain,4,15,10,13,1,4,3
+1342,2012-08-15,Belgium,Netherlands,4,2,Friendly,False,Belgium,2,6,3,13,21,8,13
+1343,2012-08-15,England,Italy,2,1,Friendly,True,England,1,10,9,9,6,4,2
+1344,2012-08-15,France,Uruguay,0,0,Friendly,False,Draw,0,5,5,11,17,16,1
+1345,2012-08-15,Germany,Argentina,1,3,Friendly,False,Argentina,2,9,12,9,2,3,1
+1346,2012-08-15,Norway,Greece,2,3,Friendly,False,Greece,1,6,7,9,24,11,13
+1347,2012-08-15,Portugal,Panama,2,0,Friendly,False,Portugal,2,12,0,7,7,51,44
+1348,2012-08-15,Puerto Rico,Spain,1,2,Friendly,False,Spain,1,0,15,0,132,1,131
+1349,2012-08-15,Scotland,Australia,3,1,Friendly,False,Scotland,2,7,7,13,72,36,36
+1350,2012-09-07,Bulgaria,Italy,2,2,FIFA World Cup qualification,False,Draw,0,4,7,3,50,4,46
+1351,2012-09-07,Finland,France,0,1,FIFA World Cup qualification,False,France,1,1,7,5,83,17,66
+1352,2012-09-07,Germany,Faroe Islands,3,0,FIFA World Cup qualification,False,Germany,3,9,0,9,2,153,151
+1353,2012-09-07,Latvia,Greece,1,2,FIFA World Cup qualification,False,Greece,1,1,9,1,106,11,95
+1354,2012-09-07,Luxembourg,Portugal,1,2,FIFA World Cup qualification,False,Portugal,1,0,12,1,148,7,141
+1355,2012-09-07,Moldova,England,0,5,FIFA World Cup qualification,False,England,5,1,12,2,128,6,122
+1356,2012-09-07,Netherlands,Turkey,2,0,FIFA World Cup qualification,False,Netherlands,2,3,4,9,8,40,32
+1357,2012-09-07,Spain,Saudi Arabia,5,0,Friendly,False,Spain,5,15,0,13,1,126,125
+1358,2012-09-07,Wales,Belgium,0,2,FIFA World Cup qualification,False,Belgium,2,3,8,3,82,21,61
+1359,2012-09-08,Scotland,Serbia,0,0,FIFA World Cup qualification,False,Draw,0,8,2,11,72,38,34
+1360,2012-09-11,Austria,Germany,1,2,FIFA World Cup qualification,False,Germany,1,0,9,0,70,2,68
+1361,2012-09-11,Belgium,Croatia,1,1,FIFA World Cup qualification,False,Draw,0,8,3,11,21,10,11
+1362,2012-09-11,England,Ukraine,1,1,FIFA World Cup qualification,False,Draw,0,10,2,7,6,47,41
+1363,2012-09-11,France,Belarus,3,1,FIFA World Cup qualification,False,France,2,7,4,11,17,65,48
+1364,2012-09-11,Georgia,Spain,0,1,FIFA World Cup qualification,False,Spain,1,1,15,3,73,1,72
+1365,2012-09-11,Greece,Lithuania,2,0,FIFA World Cup qualification,False,Greece,2,12,1,8,11,116,105
+1366,2012-09-11,Hungary,Netherlands,1,4,FIFA World Cup qualification,False,Netherlands,3,0,6,3,32,8,24
+1367,2012-09-11,Italy,Malta,2,0,FIFA World Cup qualification,False,Italy,2,7,0,7,4,146,142
+1368,2012-09-11,Portugal,Azerbaijan,3,0,FIFA World Cup qualification,False,Portugal,3,12,1,9,7,118,111
+1369,2012-09-11,Scotland,North Macedonia,1,1,FIFA World Cup qualification,False,Draw,0,6,2,9,72,81,9
+1370,2012-10-12,Armenia,Italy,1,3,FIFA World Cup qualification,False,Italy,2,3,7,4,75,4,71
+1371,2012-10-12,Belarus,Spain,0,4,FIFA World Cup qualification,False,Spain,4,4,15,4,65,1,64
+1372,2012-10-12,England,San Marino,5,0,FIFA World Cup qualification,False,England,5,10,0,10,6,207,201
+1373,2012-10-12,France,Japan,0,1,Friendly,False,Japan,1,7,6,8,17,22,5
+1374,2012-10-12,Greece,Bosnia and Herzegovina,0,0,FIFA World Cup qualification,False,Draw,0,10,4,8,11,27,16
+1375,2012-10-12,Republic of Ireland,Germany,1,6,FIFA World Cup qualification,False,Germany,5,6,9,5,42,2,40
+1376,2012-10-12,Netherlands,Andorra,3,0,FIFA World Cup qualification,False,Netherlands,3,9,0,9,8,204,196
+1377,2012-10-12,Russia,Portugal,1,0,FIFA World Cup qualification,False,Russia,1,7,9,4,9,7,2
+1378,2012-10-12,Serbia,Belgium,0,3,FIFA World Cup qualification,False,Belgium,3,2,10,3,38,21,17
+1379,2012-10-12,Wales,Scotland,2,1,FIFA World Cup qualification,False,Wales,1,3,5,6,82,72,10
+1380,2012-10-16,Belgium,Scotland,2,0,FIFA World Cup qualification,False,Belgium,2,13,5,11,21,72,51
+1381,2012-10-16,Germany,Sweden,4,4,FIFA World Cup qualification,False,Draw,0,10,7,7,2,20,18
+1382,2012-10-16,Italy,Denmark,3,1,FIFA World Cup qualification,False,Italy,2,10,6,10,4,23,19
+1383,2012-10-16,Portugal,Northern Ireland,1,1,FIFA World Cup qualification,False,Draw,0,10,2,10,7,96,89
+1384,2012-10-16,Romania,Netherlands,1,4,FIFA World Cup qualification,False,Netherlands,3,5,12,6,33,8,25
+1385,2012-10-16,Slovakia,Greece,0,1,FIFA World Cup qualification,False,Greece,1,3,13,3,47,11,36
+1386,2012-10-16,Spain,France,1,1,FIFA World Cup qualification,False,Draw,0,13,8,13,1,17,16
+1387,2012-10-17,Poland,England,1,1,FIFA World Cup qualification,False,Draw,0,4,11,4,55,6,49
+1388,2012-11-14,Gabon,Portugal,2,2,Friendly,False,Draw,0,1,8,1,42,7,35
+1389,2012-11-14,Republic of Ireland,Greece,0,1,Friendly,False,Greece,1,3,13,4,42,11,31
+1390,2012-11-14,Italy,France,1,2,Friendly,False,France,1,10,10,10,4,17,13
+1391,2012-11-14,Luxembourg,Scotland,1,2,Friendly,False,Scotland,1,0,5,1,148,72,76
+1392,2012-11-14,Netherlands,Germany,0,0,Friendly,False,Draw,0,13,11,7,8,2,6
+1393,2012-11-14,Panama,Spain,1,5,Friendly,False,Spain,4,0,13,0,51,1,50
+1394,2012-11-14,Romania,Belgium,2,1,Friendly,False,Romania,1,7,10,6,33,21,12
+1395,2012-11-14,Sweden,England,4,2,Friendly,False,Sweden,2,7,8,10,20,6,14
+1396,2013-02-06,Belgium,Slovakia,2,1,Friendly,False,Belgium,1,10,3,11,11,60,49
+1397,2013-02-06,England,Brazil,2,1,Friendly,False,England,1,8,4,10,13,10,3
+1398,2013-02-06,France,Germany,1,2,Friendly,False,Germany,1,7,11,5,20,2,18
+1399,2013-02-06,Greece,Switzerland,0,0,Friendly,False,Draw,0,11,6,8,12,8,4
+1400,2013-02-06,Netherlands,Italy,1,1,Friendly,False,Draw,0,11,10,8,9,7,2
+1401,2013-02-06,Portugal,Ecuador,2,3,Friendly,False,Ecuador,1,5,4,7,5,23,18
+1402,2013-02-06,Scotland,Estonia,1,0,Friendly,False,Scotland,1,7,3,11,34,94,60
+1403,2013-02-06,Spain,Uruguay,3,1,Friendly,True,Spain,2,13,5,13,1,6,5
+1404,2013-03-21,Italy,Brazil,2,2,Friendly,True,Draw,0,8,5,10,7,10,3
+1405,2013-03-22,Bosnia and Herzegovina,Greece,3,1,FIFA World Cup qualification,False,Bosnia and Herzegovina,2,6,8,5,19,12,7
+1406,2013-03-22,France,Georgia,3,1,FIFA World Cup qualification,False,France,2,7,1,7,20,101,81
+1407,2013-03-22,Israel,Portugal,3,3,FIFA World Cup qualification,False,Draw,0,1,3,4,63,5,58
+1408,2013-03-22,Kazakhstan,Germany,0,3,FIFA World Cup qualification,False,Germany,3,0,11,0,128,2,126
+1409,2013-03-22,North Macedonia,Belgium,0,2,FIFA World Cup qualification,False,Belgium,2,2,12,3,83,11,72
+1410,2013-03-22,Netherlands,Estonia,3,0,FIFA World Cup qualification,False,Netherlands,3,11,0,11,9,94,85
+1411,2013-03-22,San Marino,England,0,8,FIFA World Cup qualification,False,England,8,0,10,0,207,13,194
+1412,2013-03-22,Scotland,Wales,1,2,FIFA World Cup qualification,False,Wales,1,6,6,8,34,56,22
+1413,2013-03-22,Spain,Finland,1,1,FIFA World Cup qualification,False,Draw,0,11,2,11,1,64,63
+1414,2013-03-26,Azerbaijan,Portugal,0,2,FIFA World Cup qualification,False,Portugal,2,1,6,1,94,5,89
+1415,2013-03-26,Belgium,North Macedonia,1,0,FIFA World Cup qualification,False,Belgium,1,12,2,13,11,83,72
+1416,2013-03-26,France,Spain,0,1,FIFA World Cup qualification,False,Spain,1,7,11,6,20,1,19
+1417,2013-03-26,Germany,Kazakhstan,4,1,FIFA World Cup qualification,False,Germany,3,11,0,7,2,128,126
+1418,2013-03-26,Malta,Italy,0,2,FIFA World Cup qualification,False,Italy,2,0,8,0,132,7,125
+1419,2013-03-26,Montenegro,England,1,1,FIFA World Cup qualification,False,Draw,0,4,8,2,52,13,39
+1420,2013-03-26,Netherlands,Romania,4,0,FIFA World Cup qualification,False,Netherlands,4,11,6,11,9,32,23
+1421,2013-03-26,Serbia,Scotland,2,0,FIFA World Cup qualification,False,Serbia,2,4,6,5,30,34,4
+1422,2013-05-29,Ecuador,Germany,2,4,Friendly,True,Germany,2,4,13,2,23,2,21
+1423,2013-05-29,England,Republic of Ireland,1,1,Friendly,False,Draw,0,8,1,11,13,67,54
+1424,2013-05-29,United States,Belgium,2,4,Friendly,False,Belgium,2,6,12,3,14,11,3
+1425,2013-05-31,Italy,San Marino,4,0,Friendly,False,Italy,4,8,0,10,7,207,200
+1426,2013-06-02,Brazil,England,2,2,Friendly,False,Draw,0,3,9,11,10,13,3
+1427,2013-06-02,United States,Germany,4,3,Friendly,False,United States,1,9,12,6,14,2,12
+1428,2013-06-05,Uruguay,France,1,0,Friendly,False,Uruguay,1,8,6,5,6,20,14
+1429,2013-06-07,Belgium,Serbia,2,1,FIFA World Cup qualification,False,Belgium,1,15,4,13,11,30,19
+1430,2013-06-07,Croatia,Scotland,0,1,FIFA World Cup qualification,False,Scotland,1,2,9,4,16,34,18
+1431,2013-06-07,Czech Republic,Italy,0,0,FIFA World Cup qualification,False,Draw,0,5,9,7,28,7,21
+1432,2013-06-07,Indonesia,Netherlands,0,3,Friendly,False,Netherlands,3,0,11,0,161,9,152
+1433,2013-06-07,Lithuania,Greece,0,1,FIFA World Cup qualification,False,Greece,1,0,10,1,102,12,90
+1434,2013-06-07,Portugal,Russia,1,0,FIFA World Cup qualification,False,Portugal,1,8,7,10,5,22,17
+1435,2013-06-08,Haiti,Spain,1,2,Friendly,True,Spain,1,0,13,0,79,1,78
+1436,2013-06-09,Brazil,France,3,0,Friendly,False,Brazil,3,5,3,11,10,20,10
+1437,2013-06-10,Croatia,Portugal,0,1,Friendly,True,Portugal,1,2,10,1,16,5,11
+1438,2013-06-11,China PR,Netherlands,0,2,Friendly,False,Netherlands,2,4,13,1,92,9,83
+1439,2013-06-11,Italy,Haiti,2,2,Friendly,True,Draw,0,9,1,8,7,79,72
+1440,2013-06-11,Spain,Republic of Ireland,2,0,Friendly,True,Spain,2,13,1,11,1,67,66
+1441,2013-06-16,Mexico,Italy,1,2,Confederations Cup,True,Italy,1,7,11,3,21,7,14
+1442,2013-06-16,Spain,Uruguay,2,1,Confederations Cup,True,Spain,1,13,7,11,1,6,5
+1443,2013-06-19,Italy,Japan,4,3,Confederations Cup,True,Italy,1,11,6,8,7,47,40
+1444,2013-06-20,Spain,Tahiti,10,0,Confederations Cup,True,Spain,10,15,0,13,1,143,142
+1445,2013-06-22,Brazil,Italy,4,2,Confederations Cup,False,Brazil,2,8,8,11,10,7,3
+1446,2013-06-23,Nigeria,Spain,0,3,Confederations Cup,True,Spain,3,7,15,1,37,1,36
+1447,2013-06-27,Spain,Italy,0,0,Confederations Cup,True,Spain,0,15,7,13,1,7,6
+1448,2013-06-30,Brazil,Spain,3,0,Confederations Cup,False,Brazil,3,11,12,11,10,1,9
+1449,2013-06-30,Uruguay,Italy,2,2,Confederations Cup,True,Italy,0,4,9,4,6,7,1
+1450,2013-08-14,Austria,Greece,0,2,Friendly,False,Greece,2,0,10,0,46,12,34
+1451,2013-08-14,Belgium,France,0,0,Friendly,False,Draw,0,13,4,13,11,20,9
+1452,2013-08-14,Ecuador,Spain,0,2,Friendly,False,Spain,2,4,12,2,23,1,22
+1453,2013-08-14,England,Scotland,3,2,Friendly,False,England,1,9,6,11,13,34,21
+1454,2013-08-14,Germany,Paraguay,3,3,Friendly,False,Draw,0,10,6,8,2,51,49
+1455,2013-08-14,Italy,Argentina,1,2,Friendly,False,Argentina,1,6,12,8,7,3,4
+1456,2013-08-14,Portugal,Netherlands,1,1,Friendly,False,Draw,0,11,13,8,5,9,4
+1457,2013-09-06,England,Moldova,4,0,FIFA World Cup qualification,False,England,4,9,1,13,13,96,83
+1458,2013-09-06,Estonia,Netherlands,2,2,FIFA World Cup qualification,False,Draw,0,1,11,5,94,9,85
+1459,2013-09-06,Finland,Spain,0,2,FIFA World Cup qualification,False,Spain,2,1,12,4,64,1,63
+1460,2013-09-06,Georgia,France,0,0,FIFA World Cup qualification,False,Draw,0,2,2,4,101,20,81
+1461,2013-09-06,Germany,Austria,3,0,FIFA World Cup qualification,False,Germany,3,10,0,11,2,46,44
+1462,2013-09-06,Italy,Bulgaria,1,0,FIFA World Cup qualification,False,Italy,1,6,4,10,7,74,67
+1463,2013-09-06,Liechtenstein,Greece,0,1,FIFA World Cup qualification,False,Greece,1,0,10,0,154,12,142
+1464,2013-09-06,Northern Ireland,Portugal,2,4,FIFA World Cup qualification,False,Portugal,2,1,13,8,89,5,84
+1465,2013-09-06,Scotland,Belgium,0,2,FIFA World Cup qualification,False,Belgium,2,3,13,5,34,11,23
+1466,2013-09-10,Andorra,Netherlands,0,2,FIFA World Cup qualification,False,Netherlands,2,0,11,0,198,9,189
+1467,2013-09-10,Belarus,France,2,4,FIFA World Cup qualification,False,France,2,4,5,4,81,20,61
+1468,2013-09-10,Brazil,Portugal,3,1,Friendly,True,Brazil,2,13,10,13,10,5,5
+1469,2013-09-10,Faroe Islands,Germany,0,3,FIFA World Cup qualification,False,Germany,3,0,10,0,170,2,168
+1470,2013-09-10,Greece,Latvia,1,0,FIFA World Cup qualification,False,Greece,1,12,1,11,12,116,104
+1471,2013-09-10,Italy,Czech Republic,2,1,FIFA World Cup qualification,False,Italy,1,9,4,10,7,28,21
+1472,2013-09-10,North Macedonia,Scotland,1,2,FIFA World Cup qualification,False,Scotland,1,2,6,3,83,34,49
+1473,2013-09-10,Spain,Chile,2,2,Friendly,True,Draw,0,10,3,13,1,15,14
+1474,2013-09-10,Ukraine,England,0,0,FIFA World Cup qualification,False,Draw,0,3,9,2,18,13,5
+1475,2013-10-11,Croatia,Belgium,1,2,FIFA World Cup qualification,False,Belgium,1,1,13,1,16,11,5
+1476,2013-10-11,Denmark,Italy,2,2,FIFA World Cup qualification,False,Draw,0,4,10,4,25,7,18
+1477,2013-10-11,England,Montenegro,4,1,FIFA World Cup qualification,False,England,3,11,4,13,13,52,39
+1478,2013-10-11,France,Australia,6,0,Friendly,False,France,6,8,4,6,20,58,38
+1479,2013-10-11,Germany,Republic of Ireland,3,0,FIFA World Cup qualification,False,Germany,3,10,1,11,2,67,65
+1480,2013-10-11,Greece,Slovakia,1,0,FIFA World Cup qualification,False,Greece,1,15,0,11,12,60,48
+1481,2013-10-11,Netherlands,Hungary,8,1,FIFA World Cup qualification,False,Netherlands,7,11,0,11,9,44,35
+1482,2013-10-11,Portugal,Israel,1,1,FIFA World Cup qualification,False,Draw,0,8,2,6,5,63,58
+1483,2013-10-11,Spain,Belarus,2,1,FIFA World Cup qualification,False,Spain,1,10,1,13,1,81,80
+1484,2013-10-15,Belgium,Wales,1,1,FIFA World Cup qualification,False,Draw,0,11,7,11,11,56,45
+1485,2013-10-15,England,Poland,2,0,FIFA World Cup qualification,False,England,2,13,3,13,13,76,63
+1486,2013-10-15,France,Finland,3,0,FIFA World Cup qualification,False,France,3,11,1,9,20,64,44
+1487,2013-10-15,Greece,Liechtenstein,2,0,FIFA World Cup qualification,False,Greece,2,15,0,11,12,154,142
+1488,2013-10-15,Italy,Armenia,2,2,FIFA World Cup qualification,False,Draw,0,8,4,10,7,35,28
+1489,2013-10-15,Portugal,Luxembourg,3,0,FIFA World Cup qualification,False,Portugal,3,8,0,8,5,123,118
+1490,2013-10-15,Scotland,Croatia,2,0,FIFA World Cup qualification,False,Scotland,2,9,1,7,34,16,18
+1491,2013-10-15,Spain,Georgia,2,0,FIFA World Cup qualification,False,Spain,2,13,1,13,1,101,100
+1492,2013-10-15,Sweden,Germany,3,5,FIFA World Cup qualification,False,Germany,2,7,13,9,27,2,25
+1493,2013-10-15,Turkey,Netherlands,0,2,FIFA World Cup qualification,False,Netherlands,2,4,11,4,43,9,34
+1494,2013-11-14,Belgium,Colombia,0,2,Friendly,False,Colombia,2,8,3,8,11,4,7
+1495,2013-11-15,England,Chile,0,2,Friendly,False,Chile,2,10,6,12,13,15,2
+1496,2013-11-15,Greece,Romania,3,1,FIFA World Cup qualification,False,Greece,2,15,6,13,12,32,20
+1497,2013-11-15,Italy,Germany,1,1,Friendly,False,Draw,0,9,13,8,7,2,5
+1498,2013-11-15,Portugal,Sweden,1,0,FIFA World Cup qualification,False,Portugal,1,10,7,11,5,27,22
+1499,2013-11-15,Scotland,United States,0,0,Friendly,False,Draw,0,7,10,7,34,14,20
+1500,2013-11-15,Ukraine,France,2,0,FIFA World Cup qualification,False,Ukraine,2,5,10,5,18,20,2
+1501,2013-11-16,Equatorial Guinea,Spain,1,2,Friendly,False,Spain,1,0,13,0,108,1,107
+1502,2013-11-16,Netherlands,Japan,2,2,Friendly,True,Draw,0,11,4,11,9,47,38
+1503,2013-11-18,Italy,Nigeria,2,2,Friendly,True,Draw,0,7,5,9,7,37,30
+1504,2013-11-19,Belgium,Japan,2,3,Friendly,False,Japan,1,7,7,5,11,47,36
+1505,2013-11-19,England,Germany,0,1,Friendly,False,Germany,1,7,13,9,13,2,11
+1506,2013-11-19,France,Ukraine,3,0,FIFA World Cup qualification,False,France,3,12,5,12,20,18,2
+1507,2013-11-19,Netherlands,Colombia,0,0,Friendly,False,Draw,0,11,4,11,9,4,5
+1508,2013-11-19,Norway,Scotland,0,1,Friendly,False,Scotland,1,3,10,6,54,34,20
+1509,2013-11-19,Romania,Greece,1,1,FIFA World Cup qualification,False,Draw,0,4,13,6,32,12,20
+1510,2013-11-19,South Africa,Spain,1,0,Friendly,False,South Africa,1,6,10,6,62,1,61
+1511,2013-11-19,Sweden,Portugal,2,3,FIFA World Cup qualification,False,Portugal,1,4,10,6,27,5,22
+1512,2014-03-05,Belgium,Ivory Coast,2,2,Friendly,False,Draw,0,5,6,3,4,203,199
+1513,2014-03-05,England,Denmark,1,0,Friendly,False,England,1,9,1,9,13,30,17
+1514,2014-03-05,France,Netherlands,2,0,Friendly,False,France,2,12,8,12,7,5,2
+1515,2014-03-05,Germany,Chile,1,0,Friendly,False,Germany,1,13,5,13,1,14,13
+1516,2014-03-05,Greece,South Korea,0,2,Friendly,False,South Korea,2,10,6,12,24,69,45
+1517,2014-03-05,Poland,Scotland,0,1,Friendly,False,Scotland,1,3,13,3,41,36,5
+1518,2014-03-05,Portugal,Cameroon,5,1,Friendly,False,Portugal,4,13,1,11,7,42,35
+1519,2014-03-05,Spain,Italy,1,0,Friendly,False,Spain,1,12,4,13,9,11,2
+1520,2014-05-13,Germany,Poland,0,0,Friendly,False,Draw,0,11,3,11,1,41,40
+1521,2014-05-17,Netherlands,Ecuador,1,1,Friendly,False,Draw,0,6,5,9,5,26,21
+1522,2014-05-26,Belgium,Luxembourg,5,1,Friendly,False,Belgium,4,5,0,5,4,128,124
+1523,2014-05-27,France,Norway,4,0,Friendly,False,France,4,12,0,15,7,67,60
+1524,2014-05-28,Nigeria,Scotland,2,2,Friendly,True,Draw,0,5,11,2,43,36,7
+1525,2014-05-30,England,Peru,3,0,Friendly,False,England,3,9,1,9,13,53,40
+1526,2014-05-30,Spain,Bolivia,2,0,Friendly,False,Spain,2,12,1,13,9,85,76
+1527,2014-05-31,Italy,Republic of Ireland,0,0,Friendly,True,Draw,0,4,2,7,11,64,53
+1528,2014-05-31,Netherlands,Ghana,1,0,Friendly,False,Netherlands,1,6,1,9,5,37,32
+1529,2014-05-31,Portugal,Greece,0,0,Friendly,False,Draw,0,13,8,11,7,24,17
+1530,2014-06-01,France,Paraguay,1,1,Friendly,False,Draw,0,10,6,13,7,76,69
+1531,2014-06-01,Germany,Cameroon,2,2,Friendly,False,Draw,0,9,2,11,1,42,41
+1532,2014-06-01,Sweden,Belgium,0,2,Friendly,False,Belgium,2,3,7,6,44,4,40
+1533,2014-06-03,Greece,Nigeria,0,0,Friendly,True,Draw,0,6,3,10,24,43,19
+1534,2014-06-04,Ecuador,England,2,2,Friendly,True,Draw,0,5,7,3,26,13,13
+1535,2014-06-04,Italy,Luxembourg,1,1,Friendly,False,Draw,0,4,1,5,11,128,117
+1536,2014-06-04,Netherlands,Wales,2,0,Friendly,False,Netherlands,2,8,7,9,5,34,29
+1537,2014-06-06,Bolivia,Greece,1,2,Friendly,True,Greece,1,0,6,0,85,24,61
+1538,2014-06-06,Germany,Armenia,6,1,Friendly,False,Germany,5,11,1,11,1,79,78
+1539,2014-06-06,Mexico,Portugal,0,1,Friendly,True,Portugal,1,7,13,2,20,7,13
+1540,2014-06-07,Belgium,Tunisia,1,0,Friendly,False,Belgium,1,10,2,7,4,22,18
+1541,2014-06-07,El Salvador,Spain,0,2,Friendly,True,Spain,2,0,12,0,90,9,81
+1542,2014-06-07,Honduras,England,0,0,Friendly,True,Draw,0,1,8,1,71,13,58
+1543,2014-06-08,France,Jamaica,8,0,Friendly,False,France,8,13,0,13,7,75,68
+1544,2014-06-10,Republic of Ireland,Portugal,1,5,Friendly,True,Portugal,4,2,13,3,64,7,57
+1545,2014-06-13,Spain,Netherlands,1,5,FIFA World Cup,True,Netherlands,4,9,10,12,9,5,4
+1546,2014-06-14,Colombia,Greece,3,0,FIFA World Cup,True,Colombia,3,7,5,7,3,24,21
+1547,2014-06-14,England,Italy,1,2,FIFA World Cup,True,Italy,1,8,6,6,13,11,2
+1548,2014-06-15,France,Honduras,3,0,FIFA World Cup,True,France,3,13,1,13,7,71,64
+1549,2014-06-16,Germany,Portugal,4,0,FIFA World Cup,True,Germany,4,11,10,11,1,7,6
+1550,2014-06-17,Belgium,Algeria,2,1,FIFA World Cup,True,Belgium,1,13,2,10,4,18,14
+1551,2014-06-18,Australia,Netherlands,2,3,FIFA World Cup,True,Netherlands,1,3,13,8,100,5,95
+1552,2014-06-18,Spain,Chile,0,2,FIFA World Cup,True,Chile,2,9,7,9,9,14,5
+1553,2014-06-19,Japan,Greece,0,0,FIFA World Cup,True,Draw,0,8,6,8,54,24,30
+1554,2014-06-19,Uruguay,England,2,1,FIFA World Cup,True,Uruguay,1,6,5,7,10,13,3
+1555,2014-06-20,Italy,Costa Rica,0,1,FIFA World Cup,True,Costa Rica,1,5,4,4,11,16,5
+1556,2014-06-20,Switzerland,France,2,5,FIFA World Cup,True,France,3,6,13,7,12,7,5
+1557,2014-06-21,Germany,Ghana,2,2,FIFA World Cup,True,Draw,0,9,2,9,1,37,36
+1558,2014-06-22,Belgium,Russia,1,0,FIFA World Cup,True,Belgium,1,15,6,13,4,31,27
+1559,2014-06-22,United States,Portugal,2,2,FIFA World Cup,True,Draw,0,8,8,7,27,7,20
+1560,2014-06-23,Australia,Spain,0,3,FIFA World Cup,True,Spain,3,3,9,5,100,9,91
+1561,2014-06-23,Netherlands,Chile,2,0,FIFA World Cup,True,Netherlands,2,15,7,11,5,14,9
+1562,2014-06-24,Costa Rica,England,0,0,FIFA World Cup,True,Draw,0,5,3,5,16,13,3
+1563,2014-06-24,Greece,Ivory Coast,2,1,FIFA World Cup,True,Greece,1,8,6,10,24,203,179
+1564,2014-06-24,Italy,Uruguay,0,1,FIFA World Cup,True,Uruguay,1,5,9,3,11,10,1
+1565,2014-06-25,Ecuador,France,0,0,FIFA World Cup,True,Draw,0,3,11,3,26,7,19
+1566,2014-06-26,South Korea,Belgium,0,1,FIFA World Cup,True,Belgium,1,6,15,6,69,4,65
+1567,2014-06-26,Portugal,Ghana,2,1,FIFA World Cup,True,Portugal,1,10,2,13,7,37,30
+1568,2014-06-26,United States,Germany,0,1,FIFA World Cup,True,Germany,1,5,11,7,27,1,26
+1569,2014-06-29,Costa Rica,Greece,1,1,FIFA World Cup,True,Costa Rica,0,8,7,8,16,24,8
+1570,2014-06-29,Netherlands,Mexico,2,1,FIFA World Cup,True,Netherlands,1,15,4,13,5,20,15
+1571,2014-06-30,France,Nigeria,2,0,FIFA World Cup,True,France,2,13,3,13,7,43,36
+1572,2014-06-30,Germany,Algeria,2,1,FIFA World Cup,True,Germany,1,13,2,11,1,18,17
+1573,2014-07-01,Belgium,United States,2,1,FIFA World Cup,True,Belgium,1,15,5,15,4,27,23
+1574,2014-07-04,France,Germany,0,1,FIFA World Cup,True,Germany,1,10,13,10,7,1,6
+1575,2014-07-05,Argentina,Belgium,1,0,FIFA World Cup,True,Argentina,1,15,12,9,2,4,2
+1576,2014-07-05,Netherlands,Costa Rica,0,0,FIFA World Cup,True,Netherlands,0,15,8,15,5,16,11
+1577,2014-07-08,Brazil,Germany,1,7,FIFA World Cup,False,Germany,6,12,13,12,6,1,5
+1578,2014-07-09,Netherlands,Argentina,0,0,FIFA World Cup,True,Argentina,0,12,15,12,5,2,3
+1579,2014-07-12,Brazil,Netherlands,0,3,FIFA World Cup,False,Netherlands,3,9,12,9,6,5,1
+1580,2014-07-13,Germany,Argentina,1,0,FIFA World Cup,True,Germany,1,15,12,13,1,2,1
+1581,2014-09-03,England,Norway,1,0,Friendly,False,England,1,5,0,9,13,67,54
+1582,2014-09-03,Germany,Argentina,2,4,Friendly,False,Argentina,2,12,12,10,1,2,1
+1583,2014-09-04,Belgium,Australia,2,0,Friendly,False,Belgium,2,12,0,15,4,100,96
+1584,2014-09-04,France,Spain,1,0,Friendly,False,France,1,10,6,12,7,9,2
+1585,2014-09-04,Italy,Netherlands,2,0,Friendly,False,Italy,2,7,9,5,11,5,6
+1586,2014-09-07,Germany,Scotland,2,1,UEFA Euro qualification,False,Germany,1,12,8,10,1,36,35
+1587,2014-09-07,Greece,Romania,0,1,UEFA Euro qualification,False,Romania,1,4,7,7,24,15,9
+1588,2014-09-07,Portugal,Albania,0,1,UEFA Euro qualification,False,Albania,1,7,4,10,7,58,51
+1589,2014-09-07,Serbia,France,1,1,Friendly,False,Draw,0,5,8,5,38,7,31
+1590,2014-09-08,Spain,North Macedonia,5,1,UEFA Euro qualification,False,Spain,4,6,1,9,9,100,91
+1591,2014-09-08,Switzerland,England,0,2,UEFA Euro qualification,False,England,2,5,7,4,12,13,1
+1592,2014-09-09,Czech Republic,Netherlands,2,1,UEFA Euro qualification,False,Czech Republic,1,7,6,7,17,5,12
+1593,2014-09-09,Norway,Italy,0,2,UEFA Euro qualification,False,Italy,2,0,9,3,67,11,56
+1594,2014-10-09,England,San Marino,5,0,UEFA Euro qualification,False,England,5,10,0,12,13,179,166
+1595,2014-10-09,Slovakia,Spain,2,1,UEFA Euro qualification,False,Slovakia,1,3,6,6,21,9,12
+1596,2014-10-10,Belgium,Andorra,6,0,UEFA Euro qualification,False,Belgium,6,12,0,15,4,201,197
+1597,2014-10-10,Italy,Azerbaijan,2,1,UEFA Euro qualification,False,Italy,1,9,1,7,11,135,124
+1598,2014-10-10,Netherlands,Kazakhstan,3,1,UEFA Euro qualification,False,Netherlands,2,6,0,12,5,139,134
+1599,2014-10-11,Finland,Greece,1,1,UEFA Euro qualification,False,Draw,0,2,5,4,70,24,46
+1600,2014-10-11,France,Portugal,2,1,Friendly,False,France,1,10,4,12,7,7,0
+1601,2014-10-11,Poland,Germany,2,0,UEFA Euro qualification,False,Poland,2,5,9,6,41,1,40
+1602,2014-10-11,Scotland,Georgia,1,0,UEFA Euro qualification,False,Scotland,1,10,1,7,36,125,89
+1603,2014-10-12,Estonia,England,0,1,UEFA Euro qualification,False,England,1,1,13,5,84,13,71
+1604,2014-10-12,Luxembourg,Spain,0,4,UEFA Euro qualification,False,Spain,4,1,9,1,128,9,119
+1605,2014-10-13,Bosnia and Herzegovina,Belgium,1,1,UEFA Euro qualification,False,Draw,0,6,10,6,29,4,25
+1606,2014-10-13,Iceland,Netherlands,2,0,UEFA Euro qualification,False,Iceland,2,3,6,4,33,5,28
+1607,2014-10-13,Malta,Italy,0,1,UEFA Euro qualification,False,Italy,1,0,12,0,147,11,136
+1608,2014-10-14,Armenia,France,0,3,Friendly,False,France,3,1,10,3,79,7,72
+1609,2014-10-14,Denmark,Portugal,0,1,UEFA Euro qualification,False,Portugal,1,1,7,4,30,7,23
+1610,2014-10-14,Germany,Republic of Ireland,1,1,UEFA Euro qualification,False,Draw,0,7,2,10,1,64,63
+1611,2014-10-14,Greece,Northern Ireland,0,2,UEFA Euro qualification,False,Northern Ireland,2,4,4,4,24,48,24
+1612,2014-10-14,Poland,Scotland,2,2,UEFA Euro qualification,False,Draw,0,5,8,6,41,36,5
+1613,2014-11-12,Belgium,Iceland,3,1,Friendly,False,Belgium,2,10,3,15,4,33,29
+1614,2014-11-12,Netherlands,Mexico,2,3,Friendly,False,Mexico,1,3,4,9,5,20,15
+1615,2014-11-14,France,Albania,1,1,Friendly,False,Draw,0,11,4,10,7,58,51
+1616,2014-11-14,Germany,Gibraltar,4,0,UEFA Euro qualification,False,Germany,4,7,0,10,1,202,201
+1617,2014-11-14,Greece,Faroe Islands,0,1,UEFA Euro qualification,False,Faroe Islands,1,1,3,4,24,104,80
+1618,2014-11-14,Portugal,Armenia,1,0,UEFA Euro qualification,False,Portugal,1,9,1,10,7,79,72
+1619,2014-11-14,Scotland,Republic of Ireland,1,0,UEFA Euro qualification,False,Scotland,1,8,2,10,36,64,28
+1620,2014-11-15,England,Slovenia,3,1,UEFA Euro qualification,False,England,2,15,3,12,13,47,34
+1621,2014-11-15,Spain,Belarus,3,0,UEFA Euro qualification,False,Spain,3,9,0,9,9,99,90
+1622,2014-11-16,Belgium,Wales,0,0,UEFA Euro qualification,False,Draw,0,11,8,13,4,34,30
+1623,2014-11-16,Italy,Croatia,1,1,UEFA Euro qualification,False,Draw,0,13,1,7,11,19,8
+1624,2014-11-16,Netherlands,Latvia,6,0,UEFA Euro qualification,False,Netherlands,6,6,1,9,5,96,91
+1625,2014-11-18,France,Sweden,1,0,Friendly,False,France,1,11,0,10,7,44,37
+1626,2014-11-18,Greece,Serbia,0,2,Friendly,False,Serbia,2,1,7,3,24,38,14
+1627,2014-11-18,Italy,Albania,1,0,Friendly,False,Italy,1,13,4,10,11,58,47
+1628,2014-11-18,Portugal,Argentina,1,0,Friendly,True,Portugal,1,9,9,10,7,2,5
+1629,2014-11-18,Scotland,England,1,3,Friendly,False,England,2,7,15,10,36,13,23
+1630,2014-11-18,Spain,Germany,0,1,Friendly,False,Germany,1,9,10,6,9,1,8
+1631,2015-03-25,Germany,Australia,2,2,Friendly,False,Draw,0,8,1,8,4,57,53
+1632,2015-03-25,Scotland,Northern Ireland,1,0,Friendly,False,Scotland,1,10,4,10,52,30,22
+1633,2015-03-26,France,Brazil,1,3,Friendly,False,Brazil,2,10,9,10,25,6,19
+1634,2015-03-27,England,Lithuania,4,0,UEFA Euro qualification,False,England,4,15,0,12,9,126,117
+1635,2015-03-27,Spain,Ukraine,1,0,UEFA Euro qualification,False,Spain,1,9,5,9,3,29,26
+1636,2015-03-28,Belgium,Cyprus,5,0,UEFA Euro qualification,False,Belgium,5,11,1,13,1,79,78
+1637,2015-03-28,Bulgaria,Italy,2,2,UEFA Euro qualification,False,Draw,0,5,11,4,71,15,56
+1638,2015-03-28,Netherlands,Turkey,1,1,UEFA Euro qualification,False,Draw,0,7,4,7,14,21,7
+1639,2015-03-29,France,Denmark,2,0,Friendly,False,France,2,10,1,10,25,42,17
+1640,2015-03-29,Georgia,Germany,0,2,UEFA Euro qualification,False,Germany,2,1,11,1,122,4,118
+1641,2015-03-29,Hungary,Greece,0,0,UEFA Euro qualification,False,Draw,0,1,2,1,20,41,21
+1642,2015-03-29,Portugal,Serbia,2,1,UEFA Euro qualification,False,Portugal,1,12,7,12,7,56,49
+1643,2015-03-29,Scotland,Gibraltar,6,1,UEFA Euro qualification,False,Scotland,5,10,0,12,52,202,150
+1644,2015-03-31,Israel,Belgium,0,1,UEFA Euro qualification,False,Belgium,1,2,11,3,69,1,68
+1645,2015-03-31,Italy,England,1,1,Friendly,False,Draw,0,9,13,11,15,9,6
+1646,2015-03-31,Netherlands,Spain,2,0,Friendly,False,Netherlands,2,7,9,10,14,3,11
+1647,2015-03-31,Portugal,Cape Verde,0,2,Friendly,False,Cape Verde,2,12,4,9,7,204,197
+1648,2015-06-05,Netherlands,United States,3,4,Friendly,False,United States,1,7,5,7,14,32,18
+1649,2015-06-05,Scotland,Qatar,1,0,Friendly,False,Scotland,1,12,0,12,52,86,34
+1650,2015-06-07,France,Belgium,3,4,Friendly,False,Belgium,1,7,13,7,25,1,24
+1651,2015-06-07,Republic of Ireland,England,0,0,Friendly,False,Draw,0,3,11,4,31,9,22
+1652,2015-06-10,Germany,United States,1,2,Friendly,False,United States,1,10,7,8,4,32,28
+1653,2015-06-11,Spain,Costa Rica,2,1,Friendly,False,Spain,1,9,7,12,3,37,34
+1654,2015-06-12,Croatia,Italy,1,1,UEFA Euro qualification,False,Draw,0,2,7,1,18,15,3
+1655,2015-06-12,Latvia,Netherlands,0,2,UEFA Euro qualification,False,Netherlands,2,1,10,1,101,14,87
+1656,2015-06-12,Wales,Belgium,1,0,UEFA Euro qualification,False,Wales,1,8,10,6,17,1,16
+1657,2015-06-13,Albania,France,1,0,Friendly,False,Albania,1,7,6,6,38,25,13
+1658,2015-06-13,Armenia,Portugal,2,3,UEFA Euro qualification,False,Portugal,1,1,12,0,123,7,116
+1659,2015-06-13,Faroe Islands,Greece,2,1,UEFA Euro qualification,False,Faroe Islands,1,6,1,3,97,41,56
+1660,2015-06-13,Gibraltar,Germany,0,7,UEFA Euro qualification,True,Germany,7,0,10,0,202,4,198
+1661,2015-06-13,Republic of Ireland,Scotland,1,1,UEFA Euro qualification,False,Draw,0,3,10,2,31,52,21
+1662,2015-06-14,Belarus,Spain,0,1,UEFA Euro qualification,False,Spain,1,0,9,1,67,3,64
+1663,2015-06-14,Slovenia,England,2,3,UEFA Euro qualification,False,England,1,2,11,2,61,9,52
+1664,2015-06-16,Italy,Portugal,0,1,Friendly,True,Portugal,1,6,12,8,15,7,8
+1665,2015-06-16,Poland,Greece,0,0,Friendly,False,Draw,0,6,2,6,34,41,7
+1666,2015-09-03,Belgium,Bosnia and Herzegovina,3,1,UEFA Euro qualification,False,Belgium,2,12,5,13,1,22,21
+1667,2015-09-03,Italy,Malta,1,0,UEFA Euro qualification,False,Italy,1,6,0,8,15,162,147
+1668,2015-09-03,Netherlands,Iceland,0,1,UEFA Euro qualification,False,Iceland,1,7,6,7,14,36,22
+1669,2015-09-04,Georgia,Scotland,1,0,UEFA Euro qualification,False,Georgia,1,4,10,4,122,52,70
+1670,2015-09-04,Germany,Poland,3,1,UEFA Euro qualification,False,Germany,2,10,6,8,4,34,30
+1671,2015-09-04,Greece,Finland,0,1,UEFA Euro qualification,False,Finland,1,2,5,0,41,43,2
+1672,2015-09-04,Portugal,France,0,1,Friendly,False,France,1,9,6,9,7,25,18
+1673,2015-09-05,San Marino,England,0,6,UEFA Euro qualification,False,England,6,0,11,0,198,9,189
+1674,2015-09-05,Spain,Slovakia,2,0,UEFA Euro qualification,False,Spain,2,12,3,12,3,26,23
+1675,2015-09-06,Cyprus,Belgium,0,1,UEFA Euro qualification,False,Belgium,1,1,12,1,79,1,78
+1676,2015-09-06,Italy,Bulgaria,1,0,UEFA Euro qualification,False,Italy,1,8,5,10,15,71,56
+1677,2015-09-06,Turkey,Netherlands,3,0,UEFA Euro qualification,False,Turkey,3,7,6,6,21,14,7
+1678,2015-09-07,Albania,Portugal,0,1,UEFA Euro qualification,False,Portugal,1,7,9,3,38,7,31
+1679,2015-09-07,France,Serbia,2,1,Friendly,False,France,1,9,4,9,25,56,31
+1680,2015-09-07,Romania,Greece,0,0,UEFA Euro qualification,False,Draw,0,5,3,6,16,41,25
+1681,2015-09-07,Scotland,Germany,2,3,UEFA Euro qualification,False,Germany,1,7,12,9,52,4,48
+1682,2015-09-08,England,Switzerland,2,0,UEFA Euro qualification,False,England,2,11,4,15,9,12,3
+1683,2015-09-08,North Macedonia,Spain,0,1,UEFA Euro qualification,False,Spain,1,0,12,0,136,3,133
+1684,2015-10-08,France,Armenia,4,0,Friendly,False,France,4,9,0,9,25,123,98
+1685,2015-10-08,Republic of Ireland,Germany,1,0,UEFA Euro qualification,False,Republic of Ireland,1,6,9,5,31,4,27
+1686,2015-10-08,Northern Ireland,Greece,3,1,UEFA Euro qualification,False,Northern Ireland,2,7,2,8,30,41,11
+1687,2015-10-08,Portugal,Denmark,1,0,UEFA Euro qualification,False,Portugal,1,12,1,9,7,42,35
+1688,2015-10-08,Scotland,Poland,2,2,UEFA Euro qualification,False,Draw,0,5,6,10,52,34,18
+1689,2015-10-09,England,Estonia,2,0,UEFA Euro qualification,False,England,2,13,1,15,9,93,84
+1690,2015-10-09,Spain,Luxembourg,4,0,UEFA Euro qualification,False,Spain,4,15,1,12,3,142,139
+1691,2015-10-10,Andorra,Belgium,1,4,UEFA Euro qualification,False,Belgium,3,0,12,0,201,1,200
+1692,2015-10-10,Azerbaijan,Italy,1,3,UEFA Euro qualification,False,Italy,2,1,10,1,117,15,102
+1693,2015-10-10,Kazakhstan,Netherlands,1,2,UEFA Euro qualification,False,Netherlands,1,0,6,0,129,14,115
+1694,2015-10-11,Denmark,France,1,2,Friendly,False,France,1,0,12,1,42,25,17
+1695,2015-10-11,Germany,Georgia,2,1,UEFA Euro qualification,False,Germany,1,12,3,10,4,122,118
+1696,2015-10-11,Gibraltar,Scotland,0,6,UEFA Euro qualification,True,Scotland,6,0,5,0,202,52,150
+1697,2015-10-11,Greece,Hungary,4,3,UEFA Euro qualification,False,Greece,1,5,1,3,41,20,21
+1698,2015-10-11,Serbia,Portugal,1,2,UEFA Euro qualification,False,Portugal,1,4,12,5,56,7,49
+1699,2015-10-12,Lithuania,England,0,3,UEFA Euro qualification,False,England,3,0,15,1,126,9,117
+1700,2015-10-12,Ukraine,Spain,0,1,UEFA Euro qualification,False,Spain,1,4,15,4,29,3,26
+1701,2015-10-13,Belgium,Israel,3,1,UEFA Euro qualification,False,Belgium,2,12,2,13,1,69,68
+1702,2015-10-13,Italy,Norway,2,1,UEFA Euro qualification,False,Italy,1,12,0,10,15,54,39
+1703,2015-10-13,Netherlands,Czech Republic,2,3,UEFA Euro qualification,False,Czech Republic,1,6,7,4,14,26,12
+1704,2015-11-13,Belgium,Italy,3,1,Friendly,False,Belgium,2,15,12,13,1,15,14
+1705,2015-11-13,France,Germany,2,0,Friendly,False,France,2,15,9,12,25,4,21
+1706,2015-11-13,Luxembourg,Greece,1,0,Friendly,False,Luxembourg,1,4,4,3,142,41,101
+1707,2015-11-13,Spain,England,2,0,Friendly,False,Spain,2,15,12,15,3,9,6
+1708,2015-11-13,Wales,Netherlands,2,3,Friendly,False,Netherlands,1,5,6,6,17,14,3
+1709,2015-11-14,Russia,Portugal,1,0,Friendly,False,Russia,1,6,9,7,24,7,17
+1710,2015-11-17,England,France,2,0,Friendly,False,England,2,12,12,15,9,25,16
+1711,2015-11-17,Italy,Romania,2,2,Friendly,False,Draw,0,10,6,10,15,16,1
+1712,2015-11-17,Luxembourg,Portugal,0,2,Friendly,False,Portugal,2,4,12,3,142,7,135
+1713,2015-11-17,Turkey,Greece,0,0,Friendly,False,Draw,0,5,5,7,21,41,20
+1714,2016-03-24,Czech Republic,Scotland,0,1,Friendly,False,Scotland,1,7,7,4,43,67,24
+1715,2016-03-24,Greece,Montenegro,2,1,Friendly,False,Greece,1,7,3,6,42,63,21
+1716,2016-03-24,Italy,Spain,1,1,Friendly,False,Draw,0,8,13,11,16,10,6
+1717,2016-03-25,Netherlands,France,2,3,Friendly,False,France,1,6,12,3,22,7,15
+1718,2016-03-25,Portugal,Bulgaria,0,1,Friendly,False,Bulgaria,1,9,5,6,8,71,63
+1719,2016-03-26,Germany,England,2,3,Friendly,False,England,1,6,12,7,3,13,10
+1720,2016-03-27,Romania,Spain,0,0,Friendly,False,Draw,0,7,11,6,39,10,29
+1721,2016-03-29,England,Netherlands,1,2,Friendly,False,Netherlands,1,9,9,12,13,22,9
+1722,2016-03-29,France,Russia,4,2,Friendly,False,France,2,12,6,12,7,56,49
+1723,2016-03-29,Germany,Italy,4,1,Friendly,False,Germany,3,6,5,9,3,16,13
+1724,2016-03-29,Greece,Iceland,2,3,Friendly,False,Iceland,1,7,9,6,42,21,21
+1725,2016-03-29,Portugal,Belgium,2,1,Friendly,False,Portugal,1,9,12,6,8,5,3
+1726,2016-03-29,Scotland,Denmark,1,0,Friendly,False,Scotland,1,10,0,10,67,46,21
+1727,2016-05-22,England,Turkey,2,1,Friendly,False,England,1,9,5,12,13,24,11
+1728,2016-05-27,England,Australia,2,1,Friendly,False,England,1,12,1,12,13,47,34
+1729,2016-05-27,Republic of Ireland,Netherlands,1,1,Friendly,False,Draw,0,6,7,6,23,22,1
+1730,2016-05-28,Switzerland,Belgium,1,2,Friendly,False,Belgium,1,1,12,3,11,5,6
+1731,2016-05-29,Bosnia and Herzegovina,Spain,1,3,Friendly,True,Spain,2,5,11,6,27,10,17
+1732,2016-05-29,Germany,Slovakia,1,3,Friendly,False,Slovakia,2,6,6,9,3,25,22
+1733,2016-05-29,Italy,Scotland,1,0,Friendly,True,Italy,1,5,10,11,16,67,51
+1734,2016-05-29,Portugal,Norway,3,0,Friendly,False,Portugal,3,9,0,9,8,83,75
+1735,2016-05-30,France,Cameroon,3,2,Friendly,False,France,1,12,1,15,7,65,58
+1736,2016-06-01,Belgium,Finland,1,1,Friendly,False,Draw,0,10,5,13,5,94,89
+1737,2016-06-01,Poland,Netherlands,1,2,Friendly,False,Netherlands,1,3,10,5,15,22,7
+1738,2016-06-01,Spain,South Korea,6,1,Friendly,True,Spain,5,11,6,15,10,37,27
+1739,2016-06-02,England,Portugal,1,0,Friendly,False,England,1,12,9,12,13,8,5
+1740,2016-06-04,Australia,Greece,1,0,Friendly,False,Australia,1,4,4,7,47,42,5
+1741,2016-06-04,Austria,Netherlands,0,2,Friendly,False,Netherlands,2,0,10,0,31,22,9
+1742,2016-06-04,France,Scotland,3,0,Friendly,False,France,3,12,9,15,7,67,60
+1743,2016-06-04,Germany,Hungary,2,0,Friendly,False,Germany,2,6,1,9,3,26,23
+1744,2016-06-05,Belgium,Norway,3,2,Friendly,False,Belgium,1,10,0,13,5,83,78
+1745,2016-06-06,Italy,Finland,2,0,Friendly,False,Italy,2,8,5,11,16,94,78
+1746,2016-06-07,Australia,Greece,1,2,Friendly,False,Greece,1,4,7,4,47,42,5
+1747,2016-06-07,Spain,Georgia,0,1,Friendly,False,Georgia,1,8,6,12,10,118,108
+1748,2016-06-08,Portugal,Estonia,7,0,Friendly,False,Portugal,7,9,1,12,8,116,108
+1749,2016-06-10,France,Romania,2,1,UEFA Euro,False,France,1,15,6,15,7,39,32
+1750,2016-06-11,England,Russia,1,1,UEFA Euro,True,Draw,0,10,4,10,13,56,43
+1751,2016-06-12,Germany,Ukraine,2,0,UEFA Euro,True,Germany,2,9,3,9,3,30,27
+1752,2016-06-13,Belgium,Italy,0,2,UEFA Euro,True,Italy,2,7,10,10,5,16,11
+1753,2016-06-13,Spain,Czech Republic,1,0,UEFA Euro,True,Spain,1,10,6,12,10,43,33
+1754,2016-06-14,Portugal,Iceland,1,1,UEFA Euro,True,Draw,0,10,10,10,8,21,13
+1755,2016-06-15,France,Albania,2,0,UEFA Euro,False,France,2,15,4,15,7,49,42
+1756,2016-06-16,England,Wales,2,1,UEFA Euro,True,England,1,13,4,13,13,12,1
+1757,2016-06-16,Germany,Poland,0,0,UEFA Euro,True,Draw,0,10,3,10,3,15,12
+1758,2016-06-17,Italy,Sweden,1,0,UEFA Euro,True,Italy,1,12,0,11,16,41,25
+1759,2016-06-17,Spain,Turkey,3,0,UEFA Euro,True,Spain,3,12,5,12,10,24,14
+1760,2016-06-18,Belgium,Republic of Ireland,3,0,UEFA Euro,True,Belgium,3,10,6,10,5,23,18
+1761,2016-06-18,Portugal,Austria,0,0,UEFA Euro,True,Draw,0,8,1,11,8,31,23
+1762,2016-06-19,France,Switzerland,0,0,UEFA Euro,False,Draw,0,13,1,13,7,11,4
+1763,2016-06-20,Slovakia,England,0,0,UEFA Euro,True,Draw,0,7,11,7,25,13,12
+1764,2016-06-21,Croatia,Spain,2,1,UEFA Euro,True,Croatia,1,5,9,4,14,10,4
+1765,2016-06-21,Northern Ireland,Germany,0,1,UEFA Euro,True,Germany,1,6,10,7,32,3,29
+1766,2016-06-22,Hungary,Portugal,3,3,UEFA Euro,True,Draw,0,2,6,2,26,8,18
+1767,2016-06-22,Italy,Republic of Ireland,0,1,UEFA Euro,True,Republic of Ireland,1,12,8,10,16,23,7
+1768,2016-06-22,Sweden,Belgium,0,1,UEFA Euro,True,Belgium,1,0,10,3,41,5,36
+1769,2016-06-25,Croatia,Portugal,0,1,UEFA Euro,True,Portugal,1,5,9,4,14,8,6
+1770,2016-06-26,France,Republic of Ireland,2,1,UEFA Euro,False,France,1,13,7,13,7,23,16
+1771,2016-06-26,Germany,Slovakia,3,0,UEFA Euro,True,Germany,3,13,7,10,3,25,22
+1772,2016-06-26,Hungary,Belgium,0,4,UEFA Euro,True,Belgium,4,2,12,2,26,5,21
+1773,2016-06-27,England,Iceland,1,2,UEFA Euro,True,Iceland,1,8,10,10,13,21,8
+1774,2016-06-27,Italy,Spain,2,0,UEFA Euro,True,Italy,2,12,6,12,16,10,6
+1775,2016-06-30,Poland,Portugal,1,1,UEFA Euro,True,Portugal,0,2,9,5,15,8,7
+1776,2016-07-01,Wales,Belgium,3,1,UEFA Euro,True,Wales,2,7,9,9,12,5,7
+1777,2016-07-02,Germany,Italy,1,1,UEFA Euro,True,Germany,0,13,9,13,3,16,13
+1778,2016-07-03,France,Iceland,5,2,UEFA Euro,False,France,3,13,10,13,7,21,14
+1779,2016-07-06,Portugal,Wales,2,0,UEFA Euro,True,Portugal,2,11,6,11,8,12,4
+1780,2016-07-07,France,Germany,2,0,UEFA Euro,False,France,2,13,10,13,7,3,4
+1781,2016-07-10,France,Portugal,0,1,UEFA Euro,False,Portugal,1,10,13,10,7,8,1
+1782,2016-08-31,Germany,Finland,2,0,Friendly,False,Germany,2,12,5,13,3,94,91
+1783,2016-09-01,Belgium,Spain,0,2,Friendly,False,Spain,2,9,9,7,5,10,5
+1784,2016-09-01,Italy,France,1,3,Friendly,False,France,2,6,12,9,16,7,9
+1785,2016-09-01,Netherlands,Greece,1,2,Friendly,False,Greece,1,10,9,0,22,42,20
+1786,2016-09-01,Portugal,Gibraltar,5,0,Friendly,False,Portugal,5,15,0,11,8,202,194
+1787,2016-09-04,Malta,Scotland,1,5,FIFA World Cup qualification,False,Scotland,4,0,9,0,183,67,116
+1788,2016-09-04,Norway,Germany,0,3,FIFA World Cup qualification,False,Germany,3,0,12,0,83,3,80
+1789,2016-09-04,Slovakia,England,0,1,FIFA World Cup qualification,False,England,1,4,8,7,25,13,12
+1790,2016-09-05,Israel,Italy,1,3,FIFA World Cup qualification,False,Italy,2,2,6,2,55,16,39
+1791,2016-09-05,Spain,Liechtenstein,8,0,FIFA World Cup qualification,False,Spain,8,9,0,12,10,189,179
+1792,2016-09-06,Belarus,France,0,0,FIFA World Cup qualification,False,Draw,0,1,10,2,74,7,67
+1793,2016-09-06,Cyprus,Belgium,0,3,FIFA World Cup qualification,False,Belgium,3,0,9,0,115,5,110
+1794,2016-09-06,Gibraltar,Greece,1,4,FIFA World Cup qualification,True,Greece,3,0,9,0,202,42,160
+1795,2016-09-06,Sweden,Netherlands,1,1,FIFA World Cup qualification,False,Draw,0,1,8,1,41,22,19
+1796,2016-09-06,Switzerland,Portugal,2,0,FIFA World Cup qualification,False,Switzerland,2,4,12,6,11,8,3
+1797,2016-10-06,Italy,Spain,1,1,FIFA World Cup qualification,False,Draw,0,7,7,7,16,10,6
+1798,2016-10-07,Belgium,Bosnia and Herzegovina,4,0,FIFA World Cup qualification,False,Belgium,4,9,4,9,5,27,22
+1799,2016-10-07,France,Bulgaria,4,1,FIFA World Cup qualification,False,France,3,10,4,12,7,71,64
+1800,2016-10-07,Greece,Cyprus,2,0,FIFA World Cup qualification,False,Greece,2,12,0,9,42,115,73
+1801,2016-10-07,Netherlands,Belarus,4,1,FIFA World Cup qualification,False,Netherlands,3,10,1,3,22,74,52
+1802,2016-10-07,Portugal,Andorra,6,0,FIFA World Cup qualification,False,Portugal,6,12,0,11,8,203,195
+1803,2016-10-08,England,Malta,2,0,FIFA World Cup qualification,False,England,2,10,0,10,13,183,170
+1804,2016-10-08,Germany,Czech Republic,3,0,FIFA World Cup qualification,False,Germany,3,12,6,13,3,43,40
+1805,2016-10-08,Scotland,Lithuania,1,1,FIFA World Cup qualification,False,Draw,0,7,1,8,67,105,38
+1806,2016-10-09,Albania,Spain,0,2,FIFA World Cup qualification,False,Spain,2,3,10,3,49,10,39
+1807,2016-10-09,North Macedonia,Italy,2,3,FIFA World Cup qualification,False,Italy,1,0,7,0,162,16,146
+1808,2016-10-10,Estonia,Greece,0,2,FIFA World Cup qualification,False,Greece,2,1,15,4,116,42,74
+1809,2016-10-10,Faroe Islands,Portugal,0,6,FIFA World Cup qualification,False,Portugal,6,6,12,3,83,8,75
+1810,2016-10-10,Gibraltar,Belgium,0,6,FIFA World Cup qualification,True,Belgium,6,0,9,0,202,5,197
+1811,2016-10-10,Netherlands,France,0,1,FIFA World Cup qualification,False,France,1,7,10,3,22,7,15
+1812,2016-10-11,Germany,Northern Ireland,2,0,FIFA World Cup qualification,False,Germany,2,12,6,15,3,32,29
+1813,2016-10-11,Slovakia,Scotland,3,0,FIFA World Cup qualification,False,Slovakia,3,7,4,7,25,67,42
+1814,2016-10-11,Slovenia,England,0,0,FIFA World Cup qualification,False,Draw,0,3,8,3,51,13,38
+1815,2016-11-09,Greece,Belarus,0,1,Friendly,False,Belarus,1,12,4,9,42,74,32
+1816,2016-11-09,Netherlands,Belgium,1,1,Friendly,False,Draw,0,5,10,4,22,5,17
+1817,2016-11-11,England,Scotland,3,0,FIFA World Cup qualification,False,England,3,10,4,10,13,67,54
+1818,2016-11-11,France,Sweden,2,1,FIFA World Cup qualification,False,France,1,13,1,12,7,41,34
+1819,2016-11-11,San Marino,Germany,0,8,FIFA World Cup qualification,False,Germany,8,0,15,0,202,3,199
+1820,2016-11-12,Liechtenstein,Italy,0,4,FIFA World Cup qualification,False,Italy,4,0,10,0,189,16,173
+1821,2016-11-12,Spain,North Macedonia,4,0,FIFA World Cup qualification,False,Spain,4,13,0,12,10,162,152
+1822,2016-11-13,Belgium,Estonia,8,1,FIFA World Cup qualification,False,Belgium,7,13,0,9,5,116,111
+1823,2016-11-13,Greece,Bosnia and Herzegovina,1,1,FIFA World Cup qualification,False,Draw,0,10,2,7,42,27,15
+1824,2016-11-13,Luxembourg,Netherlands,1,3,FIFA World Cup qualification,False,Netherlands,2,3,8,3,130,22,108
+1825,2016-11-13,Portugal,Latvia,4,1,FIFA World Cup qualification,False,Portugal,3,12,0,13,8,111,103
+1826,2016-11-15,England,Spain,2,2,Friendly,False,Draw,0,11,11,10,13,10,3
+1827,2016-11-15,France,Ivory Coast,0,0,Friendly,False,Draw,0,11,6,10,7,203,196
+1828,2016-11-15,Italy,Germany,0,0,Friendly,False,Draw,0,11,13,5,16,3,13
+1829,2017-03-22,Germany,England,1,0,Friendly,False,Germany,1,13,8,15,1,15,14
+1830,2017-03-22,Scotland,Canada,1,1,Friendly,False,Draw,0,5,1,6,32,94,62
+1831,2017-03-24,Italy,Albania,2,0,FIFA World Cup qualification,False,Italy,2,11,3,8,14,62,48
+1832,2017-03-24,Spain,Israel,4,1,FIFA World Cup qualification,False,Spain,3,11,1,15,6,98,92
+1833,2017-03-25,Belgium,Greece,1,1,FIFA World Cup qualification,False,Draw,0,11,8,10,5,47,42
+1834,2017-03-25,Bulgaria,Netherlands,2,0,FIFA World Cup qualification,False,Bulgaria,2,7,7,6,43,20,23
+1835,2017-03-25,Luxembourg,France,1,3,FIFA World Cup qualification,False,France,2,3,13,3,83,9,74
+1836,2017-03-25,Portugal,Hungary,3,0,FIFA World Cup qualification,False,Portugal,3,12,1,15,3,53,50
+1837,2017-03-26,Azerbaijan,Germany,1,4,FIFA World Cup qualification,False,Germany,3,0,13,1,117,1,116
+1838,2017-03-26,England,Lithuania,2,0,FIFA World Cup qualification,False,England,2,8,1,10,15,149,134
+1839,2017-03-26,Scotland,Slovenia,1,0,FIFA World Cup qualification,False,Scotland,1,5,2,9,32,69,37
+1840,2017-03-28,France,Spain,0,2,Friendly,False,Spain,2,10,13,7,9,6,3
+1841,2017-03-28,Netherlands,Italy,1,2,Friendly,False,Italy,1,4,13,4,20,14,6
+1842,2017-03-28,Portugal,Sweden,2,3,Friendly,False,Sweden,1,12,4,12,3,18,15
+1843,2017-03-28,Russia,Belgium,3,3,Friendly,False,Draw,0,5,9,7,64,5,59
+1844,2017-05-31,Italy,San Marino,8,0,Friendly,False,Italy,8,13,0,8,14,204,190
+1845,2017-05-31,Morocco,Netherlands,1,2,Friendly,False,Netherlands,1,4,7,3,40,20,20
+1846,2017-06-02,France,Paraguay,5,0,Friendly,False,France,5,10,3,10,9,30,21
+1847,2017-06-03,Portugal,Cyprus,4,0,Friendly,False,Portugal,4,12,0,12,3,91,88
+1848,2017-06-04,Netherlands,Ivory Coast,5,0,Friendly,False,Netherlands,5,9,5,7,20,203,183
+1849,2017-06-05,Belgium,Czech Republic,2,1,Friendly,False,Belgium,1,9,3,10,5,48,43
+1850,2017-06-06,Denmark,Germany,1,1,Friendly,False,Draw,0,1,11,2,12,1,11
+1851,2017-06-07,Italy,Uruguay,3,0,Friendly,True,Italy,3,13,6,11,14,21,7
+1852,2017-06-07,Spain,Colombia,2,2,Friendly,False,Draw,0,11,8,13,6,13,7
+1853,2017-06-09,Bosnia and Herzegovina,Greece,0,0,FIFA World Cup qualification,False,Draw,0,2,6,6,37,47,10
+1854,2017-06-09,Estonia,Belgium,0,2,FIFA World Cup qualification,False,Belgium,2,0,11,1,89,5,84
+1855,2017-06-09,Latvia,Portugal,0,3,FIFA World Cup qualification,False,Portugal,3,0,12,1,132,3,129
+1856,2017-06-09,Netherlands,Luxembourg,5,0,FIFA World Cup qualification,False,Netherlands,5,9,3,7,20,83,63
+1857,2017-06-09,Sweden,France,2,1,FIFA World Cup qualification,False,Sweden,1,7,7,4,18,9,9
+1858,2017-06-10,Germany,San Marino,7,0,FIFA World Cup qualification,False,Germany,7,11,0,15,1,204,203
+1859,2017-06-10,Scotland,England,2,2,FIFA World Cup qualification,False,Draw,0,5,8,9,32,15,17
+1860,2017-06-11,Italy,Liechtenstein,5,0,FIFA World Cup qualification,False,Italy,5,15,0,13,14,181,167
+1861,2017-06-11,North Macedonia,Spain,1,2,FIFA World Cup qualification,False,Spain,1,0,11,0,76,6,70
+1862,2017-06-13,France,England,3,2,Friendly,False,France,1,9,5,10,9,15,6
+1863,2017-06-18,Portugal,Mexico,2,2,Confederations Cup,True,Draw,0,10,4,10,3,16,13
+1864,2017-06-19,Australia,Germany,2,3,Confederations Cup,True,Germany,1,4,13,3,38,1,37
+1865,2017-06-21,Russia,Portugal,0,1,Confederations Cup,False,Portugal,1,5,10,7,64,3,61
+1866,2017-06-22,Germany,Chile,1,1,Confederations Cup,True,Draw,0,11,7,13,1,10,9
+1867,2017-06-24,New Zealand,Portugal,0,4,Confederations Cup,True,Portugal,4,1,13,0,121,3,118
+1868,2017-06-25,Germany,Cameroon,3,1,Confederations Cup,True,Germany,2,11,1,13,1,45,44
+1869,2017-06-28,Portugal,Chile,0,0,Confederations Cup,True,Chile,0,10,7,7,3,10,7
+1870,2017-06-29,Germany,Mexico,4,1,Confederations Cup,True,Germany,3,13,4,13,1,16,15
+1871,2017-07-02,Chile,Germany,0,1,Confederations Cup,True,Germany,1,7,13,3,10,1,9
+1872,2017-07-02,Portugal,Mexico,2,1,Confederations Cup,True,Portugal,1,10,4,7,3,16,13
+1873,2017-08-31,Belgium,Gibraltar,9,0,FIFA World Cup qualification,False,Belgium,9,11,0,13,5,202,197
+1874,2017-08-31,France,Netherlands,4,0,FIFA World Cup qualification,False,France,4,9,9,10,9,20,11
+1875,2017-08-31,Greece,Estonia,0,0,FIFA World Cup qualification,False,Draw,0,4,1,5,47,89,42
+1876,2017-08-31,Portugal,Faroe Islands,5,1,FIFA World Cup qualification,False,Portugal,4,12,6,10,3,95,92
+1877,2017-09-01,Czech Republic,Germany,1,2,FIFA World Cup qualification,False,Germany,1,0,13,4,48,1,47
+1878,2017-09-01,Lithuania,Scotland,0,3,FIFA World Cup qualification,False,Scotland,3,1,8,1,149,32,117
+1879,2017-09-01,Malta,England,0,4,FIFA World Cup qualification,False,England,4,0,7,0,184,15,169
+1880,2017-09-02,Spain,Italy,3,0,FIFA World Cup qualification,False,Spain,3,13,12,13,6,14,8
+1881,2017-09-03,France,Luxembourg,0,0,FIFA World Cup qualification,False,Draw,0,10,1,10,9,83,74
+1882,2017-09-03,Greece,Belgium,1,2,FIFA World Cup qualification,False,Belgium,1,4,13,5,47,5,42
+1883,2017-09-03,Hungary,Portugal,0,1,FIFA World Cup qualification,False,Portugal,1,1,12,2,53,3,50
+1884,2017-09-03,Netherlands,Bulgaria,3,1,FIFA World Cup qualification,False,Netherlands,2,12,6,10,20,43,23
+1885,2017-09-04,England,Slovakia,2,1,FIFA World Cup qualification,False,England,1,10,4,13,15,28,13
+1886,2017-09-04,Germany,Norway,6,0,FIFA World Cup qualification,False,Germany,6,15,0,13,1,59,58
+1887,2017-09-04,Scotland,Malta,2,0,FIFA World Cup qualification,False,Scotland,2,11,0,9,32,184,152
+1888,2017-09-05,Italy,Israel,1,0,FIFA World Cup qualification,False,Italy,1,12,0,15,14,98,84
+1889,2017-09-05,Liechtenstein,Spain,0,8,FIFA World Cup qualification,False,Spain,8,0,13,0,181,6,175
+1890,2017-10-05,England,Slovenia,1,0,FIFA World Cup qualification,False,England,1,10,1,13,15,69,54
+1891,2017-10-05,Northern Ireland,Germany,1,3,FIFA World Cup qualification,False,Germany,2,3,15,4,24,1,23
+1892,2017-10-05,Scotland,Slovakia,1,0,FIFA World Cup qualification,False,Scotland,1,13,3,11,32,28,4
+1893,2017-10-06,Italy,North Macedonia,1,1,FIFA World Cup qualification,False,Draw,0,10,1,13,14,76,62
+1894,2017-10-06,Spain,Albania,3,0,FIFA World Cup qualification,False,Spain,3,13,0,13,6,62,56
+1895,2017-10-07,Andorra,Portugal,0,2,FIFA World Cup qualification,False,Portugal,2,0,12,0,138,3,135
+1896,2017-10-07,Belarus,Netherlands,1,3,FIFA World Cup qualification,False,Netherlands,2,4,12,1,92,20,72
+1897,2017-10-07,Bosnia and Herzegovina,Belgium,3,4,FIFA World Cup qualification,False,Belgium,1,2,15,5,37,5,32
+1898,2017-10-07,Bulgaria,France,0,1,FIFA World Cup qualification,False,France,1,6,10,5,43,9,34
+1899,2017-10-07,Cyprus,Greece,1,2,FIFA World Cup qualification,False,Greece,1,0,6,0,91,47,44
+1900,2017-10-08,Germany,Azerbaijan,5,1,FIFA World Cup qualification,False,Germany,4,15,0,13,1,117,116
+1901,2017-10-08,Lithuania,England,0,1,FIFA World Cup qualification,False,England,1,1,12,0,149,15,134
+1902,2017-10-08,Slovenia,Scotland,2,2,FIFA World Cup qualification,False,Draw,0,2,11,4,69,32,37
+1903,2017-10-09,Albania,Italy,0,1,FIFA World Cup qualification,False,Italy,1,0,10,3,62,14,48
+1904,2017-10-09,Israel,Spain,0,1,FIFA World Cup qualification,False,Spain,1,0,15,1,98,6,92
+1905,2017-10-10,Belgium,Cyprus,4,0,FIFA World Cup qualification,False,Belgium,4,15,0,13,5,91,86
+1906,2017-10-10,France,Belarus,2,1,FIFA World Cup qualification,False,France,1,13,4,13,9,92,83
+1907,2017-10-10,Greece,Gibraltar,4,0,FIFA World Cup qualification,False,Greece,4,8,0,5,47,202,155
+1908,2017-10-10,Netherlands,Sweden,2,0,FIFA World Cup qualification,False,Netherlands,2,12,7,12,20,18,2
+1909,2017-10-10,Portugal,Switzerland,2,0,FIFA World Cup qualification,False,Portugal,2,15,4,10,3,8,5
+1910,2017-11-09,Croatia,Greece,4,1,FIFA World Cup qualification,False,Croatia,3,8,7,7,17,47,30
+1911,2017-11-09,Scotland,Netherlands,0,1,Friendly,False,Netherlands,1,10,12,10,32,20,12
+1912,2017-11-10,Belgium,Mexico,3,3,Friendly,False,Draw,0,13,5,11,5,16,11
+1913,2017-11-10,England,Germany,0,0,Friendly,False,Draw,0,13,13,11,15,1,14
+1914,2017-11-10,France,Wales,2,0,Friendly,False,France,2,13,3,13,9,19,10
+1915,2017-11-10,Portugal,Saudi Arabia,3,0,Friendly,False,Portugal,3,15,0,12,3,63,60
+1916,2017-11-10,Sweden,Italy,1,0,FIFA World Cup qualification,False,Sweden,1,9,7,7,18,14,4
+1917,2017-11-11,Spain,Costa Rica,5,0,Friendly,False,Spain,5,15,4,13,6,26,20
+1918,2017-11-12,Greece,Croatia,0,0,FIFA World Cup qualification,False,Draw,0,7,8,6,47,17,30
+1919,2017-11-13,Italy,Sweden,0,0,FIFA World Cup qualification,False,Draw,0,8,10,11,14,18,4
+1920,2017-11-14,Belgium,Japan,1,0,Friendly,False,Belgium,1,13,5,13,5,57,52
+1921,2017-11-14,England,Brazil,0,0,Friendly,False,Draw,0,11,7,11,15,2,13
+1922,2017-11-14,Germany,France,2,2,Friendly,False,Draw,0,11,11,13,1,9,8
+1923,2017-11-14,Portugal,United States,1,1,Friendly,False,Draw,0,13,7,13,3,24,21
+1924,2017-11-14,Romania,Netherlands,0,3,Friendly,False,Netherlands,3,3,15,6,41,20,21
+1925,2017-11-14,Russia,Spain,3,3,Friendly,False,Draw,0,3,13,8,64,6,58
+1926,2018-03-23,France,Colombia,2,3,Friendly,False,Colombia,1,10,11,10,2,12,10
+1927,2018-03-23,Germany,Spain,1,1,Friendly,False,Draw,0,9,11,11,16,9,7
+1928,2018-03-23,Greece,Switzerland,0,1,Friendly,False,Switzerland,1,7,7,5,43,8,35
+1929,2018-03-23,Italy,Argentina,0,2,Friendly,True,Argentina,2,5,9,8,18,11,7
+1930,2018-03-23,Netherlands,England,0,1,Friendly,False,England,1,12,11,12,14,5,9
+1931,2018-03-23,Portugal,Egypt,2,1,Friendly,True,Portugal,1,13,3,13,6,56,50
+1932,2018-03-23,Scotland,Costa Rica,0,1,Friendly,False,Costa Rica,1,7,6,7,38,36,2
+1933,2018-03-26,Portugal,Netherlands,0,3,Friendly,True,Netherlands,3,10,12,10,6,14,8
+1934,2018-03-27,Belgium,Saudi Arabia,4,0,Friendly,False,Belgium,4,13,0,13,1,69,68
+1935,2018-03-27,England,Italy,1,1,Friendly,False,Draw,0,9,5,9,5,18,13
+1936,2018-03-27,Germany,Brazil,0,1,Friendly,False,Brazil,1,6,7,8,16,3,13
+1937,2018-03-27,Greece,Egypt,1,0,Friendly,True,Greece,1,7,3,7,43,56,13
+1938,2018-03-27,Hungary,Scotland,0,1,Friendly,False,Scotland,1,1,7,2,51,38,13
+1939,2018-03-27,Russia,France,1,3,Friendly,False,France,2,3,10,5,48,2,46
+1940,2018-03-27,Spain,Argentina,6,1,Friendly,False,Spain,5,11,6,13,9,11,2
+1941,2018-05-15,Saudi Arabia,Greece,2,0,Friendly,True,Saudi Arabia,2,3,4,4,69,43,26
+1942,2018-05-28,Portugal,Tunisia,2,2,Friendly,False,Draw,0,8,3,8,6,26,20
+1943,2018-05-28,Italy,Saudi Arabia,2,1,Friendly,True,Italy,1,5,3,8,18,69,51
+1944,2018-05-28,France,Republic of Ireland,2,0,Friendly,False,France,2,10,4,10,2,33,31
+1945,2018-05-29,Peru,Scotland,2,0,Friendly,False,Peru,2,4,4,3,20,38,18
+1946,2018-05-31,Slovakia,Netherlands,1,1,Friendly,False,Draw,0,4,10,8,27,14,13
+1947,2018-06-01,France,Italy,3,1,Friendly,False,France,2,10,5,12,2,18,16
+1948,2018-06-02,England,Nigeria,2,1,Friendly,False,England,1,9,3,9,5,44,39
+1949,2018-06-02,Mexico,Scotland,1,0,Friendly,False,Mexico,1,5,3,5,17,38,21
+1950,2018-06-02,Belgium,Portugal,0,0,Friendly,False,Draw,0,11,6,11,1,6,5
+1951,2018-06-02,Austria,Germany,2,1,Friendly,False,Austria,1,4,3,3,22,16,6
+1952,2018-06-03,Spain,Switzerland,1,1,Friendly,False,Draw,0,9,8,13,9,8,1
+1953,2018-06-04,Italy,Netherlands,1,1,Friendly,False,Draw,0,5,8,6,18,14,4
+1954,2018-06-06,Belgium,Egypt,3,0,Friendly,False,Belgium,3,11,3,11,1,56,55
+1955,2018-06-07,England,Costa Rica,2,0,Friendly,False,England,2,11,3,9,5,36,31
+1956,2018-06-07,Portugal,Algeria,3,0,Friendly,False,Portugal,3,8,1,8,6,67,61
+1957,2018-06-08,Germany,Saudi Arabia,2,1,Friendly,False,Germany,1,5,3,8,16,69,53
+1958,2018-06-09,Tunisia,Spain,0,1,Friendly,True,Spain,1,3,9,3,26,9,17
+1959,2018-06-09,France,United States,1,1,Friendly,False,Draw,0,10,8,10,2,25,23
+1960,2018-06-11,Belgium,Costa Rica,4,1,Friendly,False,Belgium,3,13,3,13,1,36,35
+1961,2018-06-15,Portugal,Spain,3,3,FIFA World Cup,True,Draw,0,6,9,8,6,9,3
+1962,2018-06-16,France,Australia,2,1,FIFA World Cup,True,France,1,13,3,10,2,41,39
+1963,2018-06-17,Germany,Mexico,0,1,FIFA World Cup,True,Mexico,1,4,7,5,16,17,1
+1964,2018-06-18,Belgium,Panama,3,0,FIFA World Cup,True,Belgium,3,13,0,13,1,71,70
+1965,2018-06-18,Tunisia,England,1,2,FIFA World Cup,True,England,1,2,13,2,26,5,21
+1966,2018-06-20,Portugal,Morocco,1,0,FIFA World Cup,True,Portugal,1,9,4,8,6,40,34
+1967,2018-06-20,Iran,Spain,0,1,FIFA World Cup,True,Spain,1,0,11,0,29,9,20
+1968,2018-06-21,France,Peru,1,0,FIFA World Cup,True,France,1,13,3,13,2,20,18
+1969,2018-06-23,Belgium,Tunisia,5,2,FIFA World Cup,True,Belgium,3,13,1,13,1,26,25
+1970,2018-06-23,Germany,Sweden,2,1,FIFA World Cup,True,Germany,1,6,7,7,16,14,2
+1971,2018-06-24,England,Panama,6,1,FIFA World Cup,True,England,5,13,0,11,5,71,66
+1972,2018-06-25,Spain,Morocco,2,2,FIFA World Cup,True,Draw,0,9,5,11,9,40,31
+1973,2018-06-25,Iran,Portugal,1,1,FIFA World Cup,True,Draw,0,1,9,1,29,6,23
+1974,2018-06-26,Denmark,France,0,0,FIFA World Cup,True,Draw,0,2,11,3,10,2,8
+1975,2018-06-27,South Korea,Germany,2,0,FIFA World Cup,True,South Korea,2,6,6,9,53,16,37
+1976,2018-06-28,England,Belgium,0,1,FIFA World Cup,True,Belgium,1,12,15,10,5,1,4
+1977,2018-06-30,France,Argentina,4,3,FIFA World Cup,True,France,1,11,6,13,2,11,9
+1978,2018-06-30,Uruguay,Portugal,2,1,FIFA World Cup,True,Uruguay,1,9,8,10,7,6,1
+1979,2018-07-01,Russia,Spain,1,1,FIFA World Cup,False,Russia,0,5,8,5,48,9,39
+1980,2018-07-02,Belgium,Japan,3,2,FIFA World Cup,True,Belgium,1,15,5,15,1,50,49
+1981,2018-07-03,Colombia,England,1,1,FIFA World Cup,True,England,0,8,12,4,12,5,7
+1982,2018-07-06,Uruguay,France,0,2,FIFA World Cup,True,France,2,9,13,9,7,2,5
+1983,2018-07-06,Brazil,Belgium,1,2,FIFA World Cup,True,Belgium,1,7,15,6,3,1,2
+1984,2018-07-07,Sweden,England,0,2,FIFA World Cup,True,England,2,4,12,7,14,5,9
+1985,2018-07-10,France,Belgium,1,0,FIFA World Cup,True,France,1,13,12,13,2,1,1
+1986,2018-07-11,Croatia,England,2,1,FIFA World Cup,True,Croatia,1,10,9,10,4,5,1
+1987,2018-07-14,Belgium,England,2,0,FIFA World Cup,True,Belgium,2,12,6,15,1,5,4
+1988,2018-07-15,France,Croatia,4,2,FIFA World Cup,True,France,2,13,7,15,2,4,2
+1989,2018-09-06,Germany,France,0,0,UEFA Nations League,False,Draw,0,7,13,7,16,2,14
+1990,2018-09-06,Netherlands,Peru,2,1,Friendly,False,Netherlands,1,8,3,12,14,20,6
+1991,2018-09-06,Portugal,Croatia,1,1,Friendly,False,Draw,0,6,8,9,6,4,2
+1992,2018-09-07,Italy,Poland,1,1,UEFA Nations League,False,Draw,0,6,3,6,18,20,2
+1993,2018-09-07,Scotland,Belgium,0,4,Friendly,False,Belgium,4,3,12,6,38,1,37
+1994,2018-09-08,England,Spain,1,2,UEFA Nations League,False,Spain,1,6,8,9,5,9,4
+1995,2018-09-08,Estonia,Greece,0,1,UEFA Nations League,False,Greece,1,1,7,1,96,43,53
+1996,2018-09-09,France,Netherlands,2,1,UEFA Nations League,False,France,1,13,8,15,2,14,12
+1997,2018-09-09,Germany,Peru,2,1,Friendly,False,Germany,1,7,3,10,16,20,4
+1998,2018-09-10,Portugal,Italy,1,0,UEFA Nations League,False,Portugal,1,8,5,11,6,18,12
+1999,2018-09-10,Scotland,Albania,2,0,UEFA Nations League,False,Scotland,2,6,0,6,38,60,22
+2000,2018-09-11,Iceland,Belgium,0,3,UEFA Nations League,False,Belgium,3,7,12,3,37,1,36
+2001,2018-09-11,Spain,Croatia,6,0,UEFA Nations League,False,Spain,6,10,5,11,9,4,5
+2002,2018-09-11,Hungary,Greece,2,1,UEFA Nations League,False,Hungary,1,3,6,4,51,43,8
+2003,2018-09-11,England,Switzerland,1,0,Friendly,False,England,1,6,7,9,5,8,3
+2004,2018-10-10,Italy,Ukraine,1,1,Friendly,False,Draw,0,3,1,6,18,28,10
+2005,2018-10-11,Poland,Portugal,2,3,UEFA Nations League,False,Portugal,1,2,8,2,20,6,14
+2006,2018-10-11,Israel,Scotland,2,1,UEFA Nations League,False,Israel,1,3,3,4,90,38,52
+2007,2018-10-11,France,Iceland,2,2,Friendly,False,Draw,0,11,5,13,2,37,35
+2008,2018-10-11,Wales,Spain,1,4,Friendly,False,Spain,3,3,10,9,19,9,10
+2009,2018-10-12,Belgium,Switzerland,2,1,UEFA Nations League,False,Belgium,1,12,4,15,1,8,7
+2010,2018-10-12,Croatia,England,0,0,UEFA Nations League,False,Draw,0,5,4,10,4,5,1
+2011,2018-10-12,Greece,Hungary,1,0,UEFA Nations League,False,Greece,1,9,3,10,43,51,8
+2012,2018-10-13,Netherlands,Germany,3,0,UEFA Nations League,False,Netherlands,3,8,7,12,14,16,2
+2013,2018-10-14,Poland,Italy,0,1,UEFA Nations League,False,Italy,1,2,6,1,20,18,2
+2014,2018-10-14,Scotland,Portugal,1,3,Friendly,False,Portugal,2,3,10,3,38,6,32
+2015,2018-10-15,Spain,England,2,3,UEFA Nations League,False,England,1,9,7,8,9,5,4
+2016,2018-10-15,Finland,Greece,2,0,UEFA Nations League,False,Finland,2,7,6,4,58,43,15
+2017,2018-10-16,France,Germany,2,1,UEFA Nations League,False,France,1,11,4,13,2,16,14
+2018,2018-10-16,Belgium,Netherlands,1,1,Friendly,False,Draw,0,13,8,13,1,14,13
+2019,2018-11-15,Belgium,Iceland,2,0,UEFA Nations League,False,Belgium,2,13,4,13,1,37,36
+2020,2018-11-15,Croatia,Spain,3,2,UEFA Nations League,False,Croatia,1,5,9,10,4,9,5
+2021,2018-11-15,Greece,Finland,1,0,UEFA Nations League,False,Greece,1,9,4,10,43,58,15
+2022,2018-11-15,England,United States,3,0,Friendly,False,England,3,10,8,9,5,25,20
+2023,2018-11-15,Germany,Russia,3,0,Friendly,False,Germany,3,7,4,10,16,48,32
+2024,2018-11-16,Netherlands,France,2,0,UEFA Nations League,False,Netherlands,2,10,8,12,14,2,12
+2025,2018-11-17,Italy,Portugal,0,0,UEFA Nations League,False,Draw,0,6,11,7,18,6,12
+2026,2018-11-17,Albania,Scotland,0,4,UEFA Nations League,False,Scotland,4,0,6,3,60,38,22
+2027,2018-11-18,Switzerland,Belgium,5,2,UEFA Nations League,False,Switzerland,3,7,10,6,8,1,7
+2028,2018-11-18,England,Croatia,2,1,UEFA Nations League,False,England,1,13,5,9,5,4,1
+2029,2018-11-18,Greece,Estonia,0,1,UEFA Nations League,False,Estonia,1,6,4,9,43,96,53
+2030,2018-11-18,Spain,Bosnia and Herzegovina,1,0,Friendly,False,Spain,1,9,2,8,9,34,25
+2031,2018-11-19,Germany,Netherlands,2,2,UEFA Nations League,False,Draw,0,7,8,11,16,14,2
+2032,2018-11-20,Portugal,Poland,1,1,UEFA Nations League,False,Draw,0,11,2,9,6,20,14
+2033,2018-11-20,Scotland,Israel,3,2,UEFA Nations League,False,Scotland,1,9,3,6,38,90,52
+2034,2018-11-20,France,Uruguay,1,0,Friendly,False,France,1,10,6,13,2,7,5
+2035,2018-11-20,Italy,United States,1,0,Friendly,True,Italy,1,8,5,7,18,25,7
